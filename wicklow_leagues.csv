@@ -1,0 +1,339 @@
+County,Division,Year,team,pld,w,d,l,pf,pa,pd,pts,clean_team,Latitude,Longitude
+Wicklow,Division 1,2025,Rathnew,7,5,0,2,116,81,35,10,rathnew,52.989108,-6.08236
+Wicklow,Division 1,2025,Éire Óg Greystones,7,5,0,2,103,77,26,10,eire og greystones,53.132531,-6.066479
+Wicklow,Division 1,2025,Baltinglass,7,5,0,2,113,101,12,10,baltinglass,52.931275,-6.684331
+Wicklow,Division 1,2025,Blessington,7,3,1,3,114,115,-1,7,blessington,53.180934,-6.538899
+Wicklow,Division 1,2025,Tinahely,7,3,1,3,105,135,-30,7,tinahely,52.798814,-6.457501
+Wicklow,Division 1,2025,An Tóchar,7,3,0,4,125,107,18,6,an tochar,53.059263,-6.229983
+Wicklow,Division 1,2025,Naomh Teagain/Kiltegan,7,2,1,4,113,133,-20,5,naomh teagain kiltegan,,
+Wicklow,Division 1,2025,Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile Mhuine,7,0,1,6,86,126,-40,1,arklow geraldines ballymoney,52.8209621,-6.1781371
+Wicklow,Division 2,2025,Bray Emmets GAA Club,7,6,0,1,159,104,55,12,bray emmets,53.207746,-6.12736
+Wicklow,Division 2,2025,Emmet Carn An Bhua,7,5,0,2,109,108,1,10,carnew emmets,52.714901,-6.493216
+Wicklow,Division 2,2025,Abhainn Dála,7,4,0,3,130,121,9,8,avondale,52.923067,-6.241915
+Wicklow,Division 2,2025,Dunlavin,7,4,0,3,131,127,4,8,dunlavin,53.058605,-6.691434
+Wicklow,Division 2,2025,St Patrick's GAA Club Wicklow,7,3,1,3,127,124,3,7,st patricks wicklow,52.973657,-6.026608
+Wicklow,Division 2,2025,Hollywood,7,3,0,4,127,123,4,6,hollywood,53.090296,-6.611487
+Wicklow,Division 2,2025,Coolkenno,7,1,1,5,79,127,-48,3,coolkenno,52.778053,-6.6228
+Wicklow,Division 2,2025,Shillelagh / Coolboy,7,1,0,6,120,148,-28,2,coolboy,52.76524,-6.427029
+Wicklow,Division 3,2025,Laragh GAA,11,9,1,1,207,183,24,19,laragh,53.005433,-6.300923
+Wicklow,Division 3,2025,Donard/Glen,11,7,2,2,176,137,39,16,donard glen,53.02159,-6.619334
+Wicklow,Division 3,2025,Annacurra,11,7,1,3,176,125,51,15,annacurra,52.841607,-6.353948
+Wicklow,Division 3,2025,Ballinacor,11,7,0,4,191,177,14,14,ballinacor,52.946562,-6.33326
+Wicklow,Division 3,2025,Ballymanus,11,6,1,4,164,161,3,13,ballymanus,52.871361,-6.4103
+Wicklow,Division 3,2025,Kilcoole,11,5,2,4,183,161,22,12,kilcoole,53.094769,-6.070664
+Wicklow,Division 3,2025,CLG Ath na Fuinseoige,11,4,2,5,170,172,-2,10,ashford,53.012328,-6.109534
+Wicklow,Division 3,2025,Barndarrig,11,3,3,5,150,187,-37,9,barndarrig,52.928405,-6.15539
+Wicklow,Division 3,2025,Newtown GAA,11,4,1,6,158,169,-11,9,newtown,53.080658,-6.116129
+Wicklow,Division 3,2025,Aughrim,11,3,2,6,162,149,13,8,aughrim,52.852554,-6.335164
+Wicklow,Division 3,2025,Kilmacanogue,11,3,1,7,179,213,-34,7,kilmacanogue,53.162557,-6.142518
+Wicklow,Division 3,2025,St Patrick's GAA Club Wicklow,11,0,0,11,62,144,-82,0,st patricks wicklow,52.973657,-6.026608
+Wicklow,Division 4,2025,Valleymount,11,11,0,0,251,118,133,22,valleymount,53.114238,-6.530901
+Wicklow,Division 4,2025,Rathnew,11,9,0,2,198,151,47,18,rathnew,52.989108,-6.08236
+Wicklow,Division 4,2025,Blessington,11,7,0,4,226,180,46,14,blessington,53.180934,-6.538899
+Wicklow,Division 4,2025,Avoca,11,6,0,5,167,167,0,12,avoca,52.853743,-6.215919
+Wicklow,Division 4,2025,An Tóchar,11,5,1,5,166,143,23,11,an tochar,53.059263,-6.229983
+Wicklow,Division 4,2025,Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile Mhuine,11,5,1,5,197,191,6,11,arklow geraldines ballymoney,52.8209621,-6.1781371
+Wicklow,Division 4,2025,Baltinglass,11,5,0,6,144,167,-23,10,baltinglass,52.931275,-6.684331
+Wicklow,Division 4,2025,Newcastle,11,4,1,6,144,179,-35,9,newcastle,53.069956,-6.058177
+Wicklow,Division 4,2025,Dunlavin,11,4,0,7,168,195,-27,8,dunlavin,53.058605,-6.691434
+Wicklow,Division 4,2025,Tinahely,11,3,0,8,153,196,-43,6,tinahely,52.798814,-6.457501
+Wicklow,Division 4,2025,Cnoc an Eanaigh,11,3,0,8,161,244,-83,6,knockananna,52.867859,-6.498427
+Wicklow,Division 4,2025,Éire Óg Greystones,11,1,3,7,144,188,-44,5,eire og greystones,53.132531,-6.066479
+Wicklow,Division 5A,2025,Naomh Teagain/Kiltegan,7,5,1,1,133,110,23,11,naomh teagain kiltegan,,
+Wicklow,Division 5A,2025,Stratford Grange Con GAA (Áth na Sráide Grainseach Choinn),7,4,2,1,135,90,45,10,stratford grangecon,52.997147,-6.669908
+Wicklow,Division 5A,2025,Blessington,7,3,3,1,135,120,15,9,blessington,53.180934,-6.538899
+Wicklow,Division 5A,2025,Baltinglass,7,4,0,3,130,131,-1,8,baltinglass,52.931275,-6.684331
+Wicklow,Division 5A,2025,Donard/Glen,7,3,2,2,124,94,30,8,donard glen,53.02159,-6.619334
+Wicklow,Division 5A,2025,Hollywood,7,3,0,4,127,124,3,6,hollywood,53.090296,-6.611487
+Wicklow,Division 5A,2025,Cill Bhride,7,1,0,6,88,170,-82,2,kilbride,53.19752,-6.469276
+Wicklow,Division 5A,2025,Emmet Carn An Bhua,7,1,0,6,64,97,-33,2,carnew emmets,52.714901,-6.493216
+Wicklow,Division 5B,2025,Annacurra,6,6,0,0,128,57,71,12,annacurra,52.841607,-6.353948
+Wicklow,Division 5B,2025,Bray Emmets GAA Club,6,4,0,2,102,66,36,8,bray emmets,53.207746,-6.12736
+Wicklow,Division 5B,2025,Rathnew,6,4,0,2,118,94,24,8,rathnew,52.989108,-6.08236
+Wicklow,Division 5B,2025,CLG Ath na Fuinseoige,6,3,0,3,87,128,-41,6,ashford,53.012328,-6.109534
+Wicklow,Division 5B,2025,Newtown GAA,6,3,0,3,103,80,23,6,newtown,53.080658,-6.116129
+Wicklow,Division 5B,2025,Abhainn Dála,6,0,1,5,70,115,-45,1,avondale,52.923067,-6.241915
+Wicklow,Division 5B,2025,Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile Mhuine,6,0,1,5,76,144,-68,1,arklow geraldines ballymoney,52.8209621,-6.1781371
+Wicklow,Division 6A,2025,Shillelagh / Coolboy,5,5,0,0,136,49,87,10,coolboy,52.76524,-6.427029
+Wicklow,Division 6A,2025,Annacurra,5,3,1,1,68,60,8,7,annacurra,52.841607,-6.353948
+Wicklow,Division 6A,2025,Aughrim,5,2,1,2,63,62,1,5,aughrim,52.852554,-6.335164
+Wicklow,Division 6A,2025,Ballymanus,5,2,0,3,59,89,-30,4,ballymanus,52.871361,-6.4103
+Wicklow,Division 6A,2025,Valleymount,5,2,0,3,47,71,-24,4,valleymount,53.114238,-6.530901
+Wicklow,Division 6A,2025,Tinahely,5,0,0,5,55,97,-42,0,tinahely,52.798814,-6.457501
+Wicklow,Division 6B,2025,Avoca,5,5,0,0,87,70,17,10,avoca,52.853743,-6.215919
+Wicklow,Division 6B,2025,Enniskerry,5,3,0,2,104,85,19,6,enniskerry,53.193215,-6.181433
+Wicklow,Division 6B,2025,Kilcoole,5,3,0,2,95,61,34,6,kilcoole,53.094769,-6.070664
+Wicklow,Division 6B,2025,Barndarrig,5,2,0,3,79,103,-24,4,barndarrig,52.928405,-6.15539
+Wicklow,Division 6B,2025,An Tóchar,5,1,0,4,63,92,-29,2,an tochar,53.059263,-6.229983
+Wicklow,Division 6B,2025,Kilmacanogue,5,1,0,4,58,75,-17,2,kilmacanogue,53.162557,-6.142518
+Wicklow,Division 1,2024,Éire Óg Greystones,7,6,1,0,123,67,56,13,eire og greystones,53.132531,-6.066479
+Wicklow,Division 1,2024,Rathnew,7,5,2,0,78,60,18,12,rathnew,52.989108,-6.08236
+Wicklow,Division 1,2024,Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile Mhuine,7,5,0,2,108,91,17,10,arklow geraldines ballymoney,52.8209621,-6.1781371
+Wicklow,Division 1,2024,Tinahely,7,4,1,2,98,88,10,9,tinahely,52.798814,-6.457501
+Wicklow,Division 1,2024,An Tóchar,7,3,0,4,92,93,-1,6,an tochar,53.059263,-6.229983
+Wicklow,Division 1,2024,Blessington,7,1,1,5,75,93,-18,3,blessington,53.180934,-6.538899
+Wicklow,Division 1,2024,Bray Emmets GAA Club,7,1,1,5,81,100,-19,3,bray emmets,53.207746,-6.12736
+Wicklow,Division 1,2024,Abhainn Dála,7,0,0,7,57,120,-63,0,avondale,52.923067,-6.241915
+Wicklow,Division 2,2024,Baltinglass,7,6,1,0,150,68,82,13,baltinglass,52.931275,-6.684331
+Wicklow,Division 2,2024,St Patrick's GAA Club Wicklow,7,5,1,1,95,74,21,11,st patricks wicklow,52.973657,-6.026608
+Wicklow,Division 2,2024,Naomh Teagain/Kiltegan,7,4,2,1,107,104,3,10,naomh teagain kiltegan,,
+Wicklow,Division 2,2024,Coolkenno,7,3,0,4,85,98,-13,6,coolkenno,52.778053,-6.6228
+Wicklow,Division 2,2024,Hollywood,7,2,1,4,99,101,-2,5,hollywood,53.090296,-6.611487
+Wicklow,Division 2,2024,Kilcoole,7,2,0,5,68,107,-39,4,kilcoole,53.094769,-6.070664
+Wicklow,Division 2,2024,Dunlavin,7,1,2,4,89,95,-6,4,dunlavin,53.058605,-6.691434
+Wicklow,Division 2,2024,Kilmacanogue,7,1,1,5,67,113,-46,3,kilmacanogue,53.162557,-6.142518
+Wicklow,Division 3,2024,Shillelagh / Coolboy,11,9,1,1,174,110,64,19,coolboy,52.76524,-6.427029
+Wicklow,Division 3,2024,Emmet Carn An Bhua,11,9,1,1,148,130,18,19,carnew emmets,52.714901,-6.493216
+Wicklow,Division 3,2024,Annacurra,11,7,2,2,155,103,52,16,annacurra,52.841607,-6.353948
+Wicklow,Division 3,2024,Newtown GAA,11,7,0,4,158,140,18,14,newtown,53.080658,-6.116129
+Wicklow,Division 3,2024,Laragh GAA,11,6,1,4,192,139,53,13,laragh,53.005433,-6.300923
+Wicklow,Division 3,2024,Donard/Glen,11,6,0,5,193,154,39,12,donard glen,53.02159,-6.619334
+Wicklow,Division 3,2024,CLG Ath na Fuinseoige,11,6,0,5,156,153,3,12,ashford,53.012328,-6.109534
+Wicklow,Division 3,2024,Ballymanus,11,5,0,6,145,125,20,10,ballymanus,52.871361,-6.4103
+Wicklow,Division 3,2024,Barndarrig,11,4,1,6,107,150,-43,9,barndarrig,52.928405,-6.15539
+Wicklow,Division 3,2024,St Patrick's GAA Club Wicklow,11,2,1,8,102,159,-57,5,st patricks wicklow,52.973657,-6.026608
+Wicklow,Division 3,2024,Éire Óg Greystones,11,1,1,9,80,179,-99,3,eire og greystones,53.132531,-6.066479
+Wicklow,Division 3,2024,Baltinglass,11,0,0,11,73,141,-68,0,baltinglass,52.931275,-6.684331
+Wicklow,Division 4,2024,Ballinacor,10,8,1,1,161,94,67,17,ballinacor,52.946562,-6.33326
+Wicklow,Division 4,2024,Aughrim,10,7,1,2,144,93,51,15,aughrim,52.852554,-6.335164
+Wicklow,Division 4,2024,Rathnew,10,7,1,2,185,132,53,15,rathnew,52.989108,-6.08236
+Wicklow,Division 4,2024,Blessington,10,6,0,4,155,133,22,12,blessington,53.180934,-6.538899
+Wicklow,Division 4,2024,Avoca,10,4,2,4,154,148,6,10,avoca,52.853743,-6.215919
+Wicklow,Division 4,2024,Valleymount,10,4,2,4,150,164,-14,10,valleymount,53.114238,-6.530901
+Wicklow,Division 4,2024,Tinahely,10,3,2,5,113,145,-32,8,tinahely,52.798814,-6.457501
+Wicklow,Division 4,2024,An Tóchar,10,3,1,6,121,137,-16,7,an tochar,53.059263,-6.229983
+Wicklow,Division 4,2024,Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile Mhuine,10,3,1,6,148,173,-25,7,arklow geraldines ballymoney,52.8209621,-6.1781371
+Wicklow,Division 4,2024,Dunlavin,10,3,0,7,103,152,-49,6,dunlavin,53.058605,-6.691434
+Wicklow,Division 4,2024,Stratford Grange Con GAA (Áth na Sráide Grainseach Choinn),10,1,1,8,94,157,-63,3,stratford grangecon,52.997147,-6.669908
+Wicklow,Division 5A,2024,Donard/Glen,6,5,0,1,142,60,82,10,donard glen,53.02159,-6.619334
+Wicklow,Division 5A,2024,Cnoc an Eanaigh,6,4,1,1,78,47,31,9,knockananna,52.867859,-6.498427
+Wicklow,Division 5A,2024,Baltinglass,6,4,0,2,70,85,-15,8,baltinglass,52.931275,-6.684331
+Wicklow,Division 5A,2024,Blessington,6,2,2,2,63,77,-14,6,blessington,53.180934,-6.538899
+Wicklow,Division 5A,2024,Hollywood,6,2,1,3,84,94,-10,5,hollywood,53.090296,-6.611487
+Wicklow,Division 5A,2024,Naomh Teagain/Kiltegan,6,1,1,4,53,86,-33,3,naomh teagain kiltegan,,
+Wicklow,Division 5A,2024,Cill Bhride,6,0,1,5,58,99,-41,1,kilbride,53.19752,-6.469276
+Wicklow,Division 5B,2024,Newcastle,7,5,0,2,83,73,10,10,newcastle,53.069956,-6.058177
+Wicklow,Division 5B,2024,Bray Emmets GAA Club,7,4,2,1,86,83,3,10,bray emmets,53.207746,-6.12736
+Wicklow,Division 5B,2024,Annacurra,7,5,0,2,111,63,48,10,annacurra,52.841607,-6.353948
+Wicklow,Division 5B,2024,CLG Ath na Fuinseoige,7,4,1,2,95,124,-29,9,ashford,53.012328,-6.109534
+Wicklow,Division 5B,2024,Rathnew,7,4,0,3,106,71,35,8,rathnew,52.989108,-6.08236
+Wicklow,Division 5B,2024,Abhainn Dála,7,2,1,4,56,77,-21,5,avondale,52.923067,-6.241915
+Wicklow,Division 5B,2024,Emmet Carn An Bhua,7,2,0,5,58,102,-44,4,carnew emmets,52.714901,-6.493216
+Wicklow,Division 5B,2024,Newtown GAA,7,0,0,7,15,17,-2,0,newtown,53.080658,-6.116129
+Wicklow,Division 6A,2024,Shillelagh / Coolboy,6,5,1,0,106,60,46,11,coolboy,52.76524,-6.427029
+Wicklow,Division 6A,2024,Ballymanus,6,4,0,2,76,68,8,8,ballymanus,52.871361,-6.4103
+Wicklow,Division 6A,2024,Aughrim,6,3,1,2,70,74,-4,7,aughrim,52.852554,-6.335164
+Wicklow,Division 6A,2024,Annacurra,6,3,1,2,32,55,-23,7,annacurra,52.841607,-6.353948
+Wicklow,Division 6A,2024,Tinahely,6,2,1,3,53,48,5,5,tinahely,52.798814,-6.457501
+Wicklow,Division 6A,2024,Valleymount,6,2,0,4,36,68,-32,4,valleymount,53.114238,-6.530901
+Wicklow,Division 6A,2024,Stratford Grange Con GAA (Áth na Sráide Grainseach Choinn),6,0,0,6,0,0,0,0,stratford grangecon,52.997147,-6.669908
+Wicklow,Division 6B,2024,Avoca,8,7,0,1,141,75,66,14,avoca,52.853743,-6.215919
+Wicklow,Division 6B,2024,Kilcoole,8,6,1,1,152,103,49,13,kilcoole,53.094769,-6.070664
+Wicklow,Division 6B,2024,Enniskerry,8,5,1,2,134,104,30,11,enniskerry,53.193215,-6.181433
+Wicklow,Division 6B,2024,Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile Mhuine,8,5,0,3,135,128,7,10,arklow geraldines ballymoney,52.8209621,-6.1781371
+Wicklow,Division 6B,2024,Kilmacanogue,8,4,1,3,117,101,16,9,kilmacanogue,53.162557,-6.142518
+Wicklow,Division 6B,2024,Éire Óg Greystones,8,3,0,5,105,137,-32,6,eire og greystones,53.132531,-6.066479
+Wicklow,Division 6B,2024,Barndarrig,8,2,1,5,81,135,-54,5,barndarrig,52.928405,-6.15539
+Wicklow,Division 6B,2024,An Tóchar,8,2,0,6,95,115,-20,4,an tochar,53.059263,-6.229983
+Wicklow,Division 6B,2024,Laragh GAA,8,0,0,8,73,135,-62,0,laragh,53.005433,-6.300923
+Wicklow,Division 1,2022,St Patrick's GAA Club Wicklow,14,11,0,3,283,174,109,22,st patricks wicklow,52.973657,-6.026608
+Wicklow,Division 1,2022,Baltinglass,14,10,1,3,261,176,85,21,baltinglass,52.931275,-6.684331
+Wicklow,Division 1,2022,Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile Mhuine,14,9,0,5,210,180,30,18,arklow geraldines ballymoney,52.8209621,-6.1781371
+Wicklow,Division 1,2022,Blessington,14,8,0,6,198,197,1,16,blessington,53.180934,-6.538899
+Wicklow,Division 1,2022,Tinahely,14,7,1,6,172,192,-20,15,tinahely,52.798814,-6.457501
+Wicklow,Division 1,2022,Rathnew,14,7,0,7,210,193,17,14,rathnew,52.989108,-6.08236
+Wicklow,Division 1,2022,Abhainn Dála,14,3,0,11,146,199,-53,6,avondale,52.923067,-6.241915
+Wicklow,Division 1,2022,Newtown GAA,14,0,0,14,73,242,-169,0,newtown,53.080658,-6.116129
+Wicklow,Division 2,2022,Éire Óg Greystones,14,12,1,1,299,149,150,25,eire og greystones,53.132531,-6.066479
+Wicklow,Division 2,2022,Bray Emmets GAA Club,14,12,1,1,216,152,64,25,bray emmets,53.207746,-6.12736
+Wicklow,Division 2,2022,Hollywood,14,6,4,4,177,185,-8,16,hollywood,53.090296,-6.611487
+Wicklow,Division 2,2022,Emmet Carn An Bhua,14,6,0,8,168,254,-86,12,carnew emmets,52.714901,-6.493216
+Wicklow,Division 2,2022,Naomh Teagain/Kiltegan,14,5,1,8,215,224,-9,11,naomh teagain kiltegan,,
+Wicklow,Division 2,2022,Kilcoole,14,5,1,8,208,199,9,11,kilcoole,53.094769,-6.070664
+Wicklow,Division 2,2022,Coolkenno,14,3,1,10,164,201,-37,7,coolkenno,52.778053,-6.6228
+Wicklow,Division 2,2022,Dunlavin,14,2,1,11,163,246,-83,5,dunlavin,53.058605,-6.691434
+Wicklow,Division 3,2022,An Tóchar,11,10,0,1,208,103,105,20,an tochar,53.059263,-6.229983
+Wicklow,Division 3,2022,Kilmacanogue,11,7,2,2,191,157,34,16,kilmacanogue,53.162557,-6.142518
+Wicklow,Division 3,2022,Laragh GAA,11,6,2,3,154,129,25,14,laragh,53.005433,-6.300923
+Wicklow,Division 3,2022,Baltinglass,11,7,0,4,179,143,36,14,baltinglass,52.931275,-6.684331
+Wicklow,Division 3,2022,CLG Ath na Fuinseoige,11,6,1,4,179,144,35,13,ashford,53.012328,-6.109534
+Wicklow,Division 3,2022,Valleymount,11,6,1,4,162,140,22,13,valleymount,53.114238,-6.530901
+Wicklow,Division 3,2022,Donard/Glen,11,5,2,4,172,164,8,12,donard glen,53.02159,-6.619334
+Wicklow,Division 3,2022,Ballymanus,11,5,1,5,132,150,-18,11,ballymanus,52.871361,-6.4103
+Wicklow,Division 3,2022,Annacurra,11,4,0,7,130,146,-16,8,annacurra,52.841607,-6.353948
+Wicklow,Division 3,2022,Shillelagh / Coolboy,11,1,2,8,137,198,-61,4,coolboy,52.76524,-6.427029
+Wicklow,Division 3,2022,Barndarrig,11,2,0,9,109,172,-63,4,barndarrig,52.928405,-6.15539
+Wicklow,Division 3,2022,Stratford Grange Con GAA (Áth na Sráide Grainseach Choinn),11,1,1,9,74,181,-107,3,stratford grangecon,52.997147,-6.669908
+Wicklow,Division 4,2022,Éire Óg Greystones,10,8,0,2,152,129,23,16,eire og greystones,53.132531,-6.066479
+Wicklow,Division 4,2022,Ballinacor,10,8,0,2,184,134,50,16,ballinacor,52.946562,-6.33326
+Wicklow,Division 4,2022,Blessington,10,6,1,3,124,108,16,13,blessington,53.180934,-6.538899
+Wicklow,Division 4,2022,Rathnew,10,6,0,4,138,108,30,12,rathnew,52.989108,-6.08236
+Wicklow,Division 4,2022,Aughrim,10,5,1,4,160,137,23,11,aughrim,52.852554,-6.335164
+Wicklow,Division 4,2022,St Patrick's GAA Club Wicklow,10,5,0,5,145,161,-16,10,st patricks wicklow,52.973657,-6.026608
+Wicklow,Division 4,2022,Tinahely,10,5,0,5,150,129,21,10,tinahely,52.798814,-6.457501
+Wicklow,Division 4,2022,Avoca,10,4,0,6,120,146,-26,8,avoca,52.853743,-6.215919
+Wicklow,Division 4,2022,Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile Mhuine,10,4,0,6,180,122,58,8,arklow geraldines ballymoney,52.8209621,-6.1781371
+Wicklow,Division 4,2022,Hollywood,10,2,0,8,107,212,-105,4,hollywood,53.090296,-6.611487
+Wicklow,Division 4,2022,Cnoc an Eanaigh,10,1,0,9,76,150,-74,2,knockananna,52.867859,-6.498427
+Wicklow,Division 5,2022,An Tóchar,10,10,0,0,200,70,130,20,an tochar,53.059263,-6.229983
+Wicklow,Division 5,2022,Emmet Carn An Bhua,10,8,0,2,136,106,30,16,carnew emmets,52.714901,-6.493216
+Wicklow,Division 5,2022,Baltinglass,10,8,0,2,123,86,37,16,baltinglass,52.931275,-6.684331
+Wicklow,Division 5,2022,Rathnew,10,6,0,4,125,117,8,12,rathnew,52.989108,-6.08236
+Wicklow,Division 5,2022,Abhainn Dála,10,5,1,4,137,89,48,11,avondale,52.923067,-6.241915
+Wicklow,Division 5,2022,Dunlavin,10,4,0,6,150,140,10,8,dunlavin,53.058605,-6.691434
+Wicklow,Division 5,2022,CLG Ath na Fuinseoige,10,4,0,6,123,175,-52,8,ashford,53.012328,-6.109534
+Wicklow,Division 5,2022,Bray Emmets GAA Club,10,4,0,6,108,171,-63,8,bray emmets,53.207746,-6.12736
+Wicklow,Division 5,2022,Newcastle,10,3,0,7,137,180,-43,6,newcastle,53.069956,-6.058177
+Wicklow,Division 5,2022,Cill Bhride,10,2,1,7,76,181,-105,5,kilbride,53.19752,-6.469276
+Wicklow,Division 5,2022,Newtown GAA,10,0,0,10,0,0,0,0,newtown,53.080658,-6.116129
+Wicklow,Division 6S,2022,Ballymanus,12,10,1,1,177,130,47,21,ballymanus,52.871361,-6.4103
+Wicklow,Division 6S,2022,Annacurra,12,9,0,3,109,94,15,18,annacurra,52.841607,-6.353948
+Wicklow,Division 6S,2022,Avoca,12,9,0,3,110,101,9,18,avoca,52.853743,-6.215919
+Wicklow,Division 6S,2022,Tinahely,12,5,1,6,89,119,-30,11,tinahely,52.798814,-6.457501
+Wicklow,Division 6S,2022,Aughrim,12,5,0,7,79,107,-28,10,aughrim,52.852554,-6.335164
+Wicklow,Division 6S,2022,Coolkenno,12,2,2,8,37,50,-13,6,coolkenno,52.778053,-6.6228
+Wicklow,Division 6S,2022,Shillelagh / Coolboy,12,0,0,12,0,0,0,0,coolboy,52.76524,-6.427029
+Wicklow,Division 6E,2022,Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile Mhuine,10,10,0,0,188,97,91,20,arklow geraldines ballymoney,52.8209621,-6.1781371
+Wicklow,Division 6E,2022,Kilmacanogue,10,7,0,3,161,131,30,14,kilmacanogue,53.162557,-6.142518
+Wicklow,Division 6E,2022,An Tóchar,10,5,0,5,137,146,-9,10,an tochar,53.059263,-6.229983
+Wicklow,Division 6E,2022,St Patrick's / Kilcoole,10,5,0,5,164,122,42,10,st patricks wicklow,52.973657,-6.026608
+Wicklow,Division 6E,2022,Barndarrig,10,3,0,7,96,205,-109,6,barndarrig,52.928405,-6.15539
+Wicklow,Division 6E,2022,Laragh GAA,10,0,0,10,40,85,-45,0,laragh,53.005433,-6.300923
+Wicklow,Division 6W,2022,Blessington,8,7,0,1,159,52,107,14,blessington,53.180934,-6.538899
+Wicklow,Division 6W,2022,Donard/Glen,8,6,0,2,171,85,86,12,donard glen,53.02159,-6.619334
+Wicklow,Division 6W,2022,Naomh Teagain/Kiltegan,8,5,0,3,122,110,12,10,naomh teagain kiltegan,,
+Wicklow,Division 6W,2022,Valleymount,8,2,0,6,105,143,-38,4,valleymount,53.114238,-6.530901
+Wicklow,Division 6W,2022,Stratford Grange Con GAA (Áth na Sráide Grainseach Choinn),8,0,0,8,47,214,-167,0,stratford grangecon,52.997147,-6.669908
+Wicklow,Division 1,2019,Baltinglass,14,11,1,2,222,154,68,23,baltinglass,52.931275,-6.684331
+Wicklow,Division 1,2019,Rathnew,14,8,2,4,183,157,26,18,rathnew,52.989108,-6.08236
+Wicklow,Division 1,2019,St Patrick's GAA Club Wicklow,14,7,3,4,213,174,39,17,st patricks wicklow,52.973657,-6.026608
+Wicklow,Division 1,2019,Tinahely,14,7,2,5,219,170,49,16,tinahely,52.798814,-6.457501
+Wicklow,Division 1,2019,Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile Mhuine,14,7,2,5,207,194,13,16,arklow geraldines ballymoney,52.8209621,-6.1781371
+Wicklow,Division 1,2019,Blessington,14,7,1,6,219,201,18,15,blessington,53.180934,-6.538899
+Wicklow,Division 1,2019,Hollywood,13,1,1,11,115,219,-104,3,hollywood,53.090296,-6.611487
+Wicklow,Division 1,2019,Naomh Teagain/Kiltegan,13,1,0,12,122,231,-109,0,naomh teagain kiltegan,,
+Wicklow,Division 2,2019,Abhainn Dála,14,11,0,3,235,176,59,22,avondale,52.923067,-6.241915
+Wicklow,Division 2,2019,Newtown GAA,14,9,0,5,214,193,21,18,newtown,53.080658,-6.116129
+Wicklow,Division 2,2019,Éire Óg Greystones,14,8,1,5,194,181,13,17,eire og greystones,53.132531,-6.066479
+Wicklow,Division 2,2019,Dunlavin,14,8,0,6,172,145,27,16,dunlavin,53.058605,-6.691434
+Wicklow,Division 2,2019,Bray Emmets GAA Club,14,6,1,7,175,191,-16,13,bray emmets,53.207746,-6.12736
+Wicklow,Division 2,2019,Emmet Carn An Bhua,14,5,1,8,183,203,-20,11,carnew emmets,52.714901,-6.493216
+Wicklow,Division 2,2019,Kilmacanogue,14,4,1,9,223,257,-34,9,kilmacanogue,53.162557,-6.142518
+Wicklow,Division 2,2019,Annacurra,14,3,0,11,206,256,-50,6,annacurra,52.841607,-6.353948
+Wicklow,Division 3,2019,Coolkenno,11,9,1,1,168,103,65,19,coolkenno,52.778053,-6.6228
+Wicklow,Division 3,2019,Kilcoole,11,8,0,3,184,156,28,16,kilcoole,53.094769,-6.070664
+Wicklow,Division 3,2019,Valleymount,11,8,0,3,157,121,36,16,valleymount,53.114238,-6.530901
+Wicklow,Division 3,2019,Donard/Glen,11,7,0,4,146,126,20,14,donard glen,53.02159,-6.619334
+Wicklow,Division 3,2019,Barndarrig,11,5,0,6,147,151,-4,10,barndarrig,52.928405,-6.15539
+Wicklow,Division 3,2019,Ballymanus,11,4,2,5,135,142,-7,10,ballymanus,52.871361,-6.4103
+Wicklow,Division 3,2019,An Tóchar,11,4,2,5,138,153,-15,10,an tochar,53.059263,-6.229983
+Wicklow,Division 3,2019,Baltinglass,11,4,1,6,143,147,-4,9,baltinglass,52.931275,-6.684331
+Wicklow,Division 3,2019,Stratford Grange Con GAA (Áth na Sráide Grainseach Choinn),11,4,1,6,141,165,-24,9,stratford grangecon,52.997147,-6.669908
+Wicklow,Division 3,2019,Laragh GAA,11,2,3,6,140,170,-30,7,laragh,53.005433,-6.300923
+Wicklow,Division 3,2019,Rathnew,11,4,0,7,121,161,-40,4,rathnew,52.989108,-6.08236
+Wicklow,Division 3,2019,Ballinacor,11,2,0,9,139,164,-25,2,ballinacor,52.946562,-6.33326
+Wicklow,Division 4,2019,Shillelagh / Coolboy,11,9,1,1,256,117,139,19,coolboy,52.76524,-6.427029
+Wicklow,Division 4,2019,CLG Ath na Fuinseoige,11,9,1,1,170,94,76,19,ashford,53.012328,-6.109534
+Wicklow,Division 4,2019,St Patrick's GAA Club Wicklow,11,8,1,2,177,112,65,17,st patricks wicklow,52.973657,-6.026608
+Wicklow,Division 4,2019,Enniskerry,11,7,1,3,202,128,74,15,enniskerry,53.193215,-6.181433
+Wicklow,Division 4,2019,Tinahely,11,7,0,4,185,157,28,12,tinahely,52.798814,-6.457501
+Wicklow,Division 4,2019,Blessington,11,5,2,4,200,143,57,12,blessington,53.180934,-6.538899
+Wicklow,Division 4,2019,Aughrim,11,5,0,6,140,156,-16,10,aughrim,52.852554,-6.335164
+Wicklow,Division 4,2019,Cnoc an Eanaigh,11,4,1,6,159,173,-14,7,knockananna,52.867859,-6.498427
+Wicklow,Division 4,2019,Hollywood,11,2,2,7,127,215,-88,6,hollywood,53.090296,-6.611487
+Wicklow,Division 4,2019,Avoca,11,3,0,8,112,176,-64,6,avoca,52.853743,-6.215919
+Wicklow,Division 4,2019,Éire Óg Greystones,11,2,1,8,97,223,-126,3,eire og greystones,53.132531,-6.066479
+Wicklow,Division 4,2019,Lacken-Kilbride,11,0,0,11,92,223,-131,-4,lacken,53.177239,-6.511611
+Wicklow,Division 5SW,2019,Dunlavin,12,8,2,2,242,169,73,18,dunlavin,53.058605,-6.691434
+Wicklow,Division 5SW,2019,Abhainn Dála,12,8,1,3,189,149,40,17,avondale,52.923067,-6.241915
+Wicklow,Division 5SW,2019,Emmet Carn An Bhua,12,8,0,4,146,132,14,16,carnew emmets,52.714901,-6.493216
+Wicklow,Division 5SW,2019,Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile Mhuine,12,6,0,6,136,166,-30,12,arklow geraldines ballymoney,52.8209621,-6.1781371
+Wicklow,Division 5SW,2019,Baltinglass,12,4,2,6,158,172,-14,10,baltinglass,52.931275,-6.684331
+Wicklow,Division 5SW,2019,Blessington,12,5,1,6,145,120,25,3,blessington,53.180934,-6.538899
+Wicklow,Division 5SW,2019,Naomh Teagain/Kiltegan,12,0,0,12,71,179,-108,-4,naomh teagain kiltegan,,
+Wicklow,Division 5NE,2019,Rathnew,12,12,0,0,215,85,130,24,rathnew,52.989108,-6.08236
+Wicklow,Division 5NE,2019,Newcastle,12,10,0,2,216,145,71,20,newcastle,53.069956,-6.058177
+Wicklow,Division 5NE,2019,Newtown GAA,12,8,0,4,205,171,34,16,newtown,53.080658,-6.116129
+Wicklow,Division 5NE,2019,Kilcoole,12,3,2,7,135,201,-66,8,kilcoole,53.094769,-6.070664
+Wicklow,Division 5NE,2019,CLG Ath na Fuinseoige,12,3,1,8,143,201,-58,5,ashford,53.012328,-6.109534
+Wicklow,Division 5NE,2019,An Tóchar,12,2,0,10,131,208,-77,4,an tochar,53.059263,-6.229983
+Wicklow,Division 5NE,2019,Bray Emmets GAA Club,12,1,3,8,118,152,-34,3,bray emmets,53.207746,-6.12736
+Wicklow,Division 6SW,2019,Hollywood,10,9,0,1,162,106,56,18,hollywood,53.090296,-6.611487
+Wicklow,Division 6SW,2019,Donard/Glen,10,7,0,3,189,137,52,14,donard glen,53.02159,-6.619334
+Wicklow,Division 6SW,2019,Valleymount,10,5,0,5,133,124,9,8,valleymount,53.114238,-6.530901
+Wicklow,Division 6SW,2019,Lacken-Kilbride,9,3,0,6,131,116,15,4,lacken,53.177239,-6.511611
+Wicklow,Division 6SW,2019,Stratford Grange Con GAA (Áth na Sráide Grainseach Choinn),9,1,0,8,59,220,-161,2,stratford grangecon,52.997147,-6.669908
+Wicklow,Division 6SW,2019,Coolkenno,10,4,0,6,44,15,29,-2,coolkenno,52.778053,-6.6228
+Wicklow,Division 6NE,2019,Éire Óg Greystones,10,9,0,1,160,74,86,18,eire og greystones,53.132531,-6.066479
+Wicklow,Division 6NE,2019,St Patrick's GAA Club Wicklow,10,8,1,1,165,98,67,15,st patricks wicklow,52.973657,-6.026608
+Wicklow,Division 6NE,2019,Barndarrig,10,4,1,5,147,148,-1,9,barndarrig,52.928405,-6.15539
+Wicklow,Division 6NE,2019,Tinahely,10,3,1,6,123,183,-60,7,tinahely,52.798814,-6.457501
+Wicklow,Division 6NE,2019,Kilmacanogue,10,2,1,7,87,184,-97,5,kilmacanogue,53.162557,-6.142518
+Wicklow,Division 6NE,2019,Annacurra,10,1,2,7,83,78,5,-6,annacurra,52.841607,-6.353948
+Wicklow,Division 1,2018,Rathnew,6,5,0,1,83,51,32,10,rathnew,52.989108,-6.08236
+Wicklow,Division 1,2018,St Patrick's GAA Club Wicklow,6,4,1,1,57,46,11,9,st patricks wicklow,52.973657,-6.026608
+Wicklow,Division 1,2018,Hollywood,7,4,1,2,94,87,7,9,hollywood,53.090296,-6.611487
+Wicklow,Division 1,2018,Blessington,7,4,0,3,89,83,6,8,blessington,53.180934,-6.538899
+Wicklow,Division 1,2018,Bray Emmets GAA Club,7,3,0,4,91,98,-7,6,bray emmets,53.207746,-6.12736
+Wicklow,Division 1,2018,Dunlavin,7,2,1,4,84,93,-9,5,dunlavin,53.058605,-6.691434
+Wicklow,Division 1,2018,Baltinglass,7,2,1,4,91,103,-12,5,baltinglass,52.931275,-6.684331
+Wicklow,Division 1,2018,Naomh Teagain/Kiltegan,7,1,0,6,57,85,-28,2,naomh teagain kiltegan,,
+Wicklow,Division 2,2018,Tinahely,7,7,0,0,116,77,39,14,tinahely,52.798814,-6.457501
+Wicklow,Division 2,2018,Abhainn Dála,7,5,0,2,120,91,29,10,avondale,52.923067,-6.241915
+Wicklow,Division 2,2018,Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile Mhuine,7,4,0,3,114,74,40,8,arklow geraldines ballymoney,52.8209621,-6.1781371
+Wicklow,Division 2,2018,Éire Óg Greystones,7,4,0,3,85,68,17,8,eire og greystones,53.132531,-6.066479
+Wicklow,Division 2,2018,Coolkenno,7,4,0,3,97,85,12,8,coolkenno,52.778053,-6.6228
+Wicklow,Division 2,2018,Kilmacanogue,7,2,0,5,100,148,-48,4,kilmacanogue,53.162557,-6.142518
+Wicklow,Division 2,2018,Annacurra,7,2,0,5,79,107,-28,4,annacurra,52.841607,-6.353948
+Wicklow,Division 2,2018,Rathnew,7,0,0,7,40,101,-61,0,rathnew,52.989108,-6.08236
+Wicklow,Division 3,2018,Newtown GAA,11,9,1,1,195,109,86,19,newtown,53.080658,-6.116129
+Wicklow,Division 3,2018,Emmet Carn An Bhua,11,9,1,1,135,88,47,19,carnew emmets,52.714901,-6.493216
+Wicklow,Division 3,2018,Donard/Glen,11,8,0,3,173,126,47,16,donard glen,53.02159,-6.619334
+Wicklow,Division 3,2018,Stratford Grange Con GAA (Áth na Sráide Grainseach Choinn),11,7,0,4,133,130,3,14,stratford grangecon,52.997147,-6.669908
+Wicklow,Division 3,2018,Laragh GAA,11,7,0,4,184,160,24,14,laragh,53.005433,-6.300923
+Wicklow,Division 3,2018,Valleymount,11,5,1,5,178,141,37,11,valleymount,53.114238,-6.530901
+Wicklow,Division 3,2018,Ballinacor,11,5,0,6,134,151,-17,10,ballinacor,52.946562,-6.33326
+Wicklow,Division 3,2018,An Tóchar,11,4,0,7,109,130,-21,8,an tochar,53.059263,-6.229983
+Wicklow,Division 3,2018,Ballymanus,11,4,0,7,157,138,19,8,ballymanus,52.871361,-6.4103
+Wicklow,Division 3,2018,Barndarrig,11,3,1,7,115,162,-47,7,barndarrig,52.928405,-6.15539
+Wicklow,Division 3,2018,CLG Ath na Fuinseoige,11,3,0,8,136,172,-36,6,ashford,53.012328,-6.109534
+Wicklow,Division 3,2018,Cnoc an Eanaigh,11,0,0,11,28,170,-142,0,knockananna,52.867859,-6.498427
+Wicklow,Division 4,2018,Kilcoole,11,11,0,0,201,67,134,22,kilcoole,53.094769,-6.070664
+Wicklow,Division 4,2018,Baltinglass,10,8,1,1,164,87,77,17,baltinglass,52.931275,-6.684331
+Wicklow,Division 4,2018,Blessington,11,6,0,5,153,109,44,12,blessington,53.180934,-6.538899
+Wicklow,Division 4,2018,Coolboy,10,5,2,3,130,121,9,12,coolboy,52.76524,-6.427029
+Wicklow,Division 4,2018,Aughrim,11,6,0,5,90,108,-18,12,aughrim,52.852554,-6.335164
+Wicklow,Division 4,2018,Shillelagh,10,6,0,4,100,120,-20,12,shillelagh,52.755555,-6.531104
+Wicklow,Division 4,2018,Lacken-Kilbride,10,5,1,4,111,112,-1,11,lacken,53.177239,-6.511611
+Wicklow,Division 4,2018,Enniskerry,11,4,2,5,130,163,-33,10,enniskerry,53.193215,-6.181433
+Wicklow,Division 4,2018,Éire Óg Greystones,9,3,0,6,64,86,-22,6,eire og greystones,53.132531,-6.066479
+Wicklow,Division 4,2018,Hollywood,11,2,2,7,103,147,-44,6,hollywood,53.090296,-6.611487
+Wicklow,Division 4,2018,Newcastle,9,1,1,7,79,149,-70,3,newcastle,53.069956,-6.058177
+Wicklow,Division 4,2018,St Patrick's GAA Club Wicklow,11,0,1,10,52,108,-56,1,st patricks wicklow,52.973657,-6.026608
+Wicklow,Division 5SW1,2018,Blessington,3,3,0,0,60,29,31,6,blessington,53.180934,-6.538899
+Wicklow,Division 5SW1,2018,Baltinglass,3,2,0,1,55,45,10,4,baltinglass,52.931275,-6.684331
+Wicklow,Division 5SW1,2018,Emmet Carn An Bhua,4,2,0,2,45,41,4,4,carnew emmets,52.714901,-6.493216
+Wicklow,Division 5SW1,2018,Naomh Teagain/Kiltegan,3,1,0,2,45,65,-20,2,naomh teagain kiltegan,,
+Wicklow,Division 5SW1,2018,Hollywood,0,0,0,0,0,0,0,0,hollywood,53.090296,-6.611487
+Wicklow,Division 5SW1,2018,Lacken,0,0,0,0,0,0,0,0,lacken,53.177239,-6.511611
+Wicklow,Division 5SW1,2018,Dunlavin,3,0,0,3,38,63,-25,0,dunlavin,53.058605,-6.691434
+Wicklow,Division 5NE1,2018,Abhainn Dála,9,8,0,1,123,80,43,16,avondale,52.923067,-6.241915
+Wicklow,Division 5NE1,2018,Avoca,9,8,0,1,100,70,30,16,avoca,52.853743,-6.215919
+Wicklow,Division 5NE1,2018,Bray Emmets GAA Club,8,6,0,2,75,68,7,12,bray emmets,53.207746,-6.12736
+Wicklow,Division 5NE1,2018,CLG Ath na Fuinseoige,8,5,0,3,80,105,-25,10,ashford,53.012328,-6.109534
+Wicklow,Division 5NE1,2018,Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile Mhuine,9,5,0,4,99,114,-15,10,arklow geraldines ballymoney,52.8209621,-6.1781371
+Wicklow,Division 5NE1,2018,Rathnew,6,4,0,2,43,36,7,8,rathnew,52.989108,-6.08236
+Wicklow,Division 5NE1,2018,An Tóchar,9,3,0,6,56,90,-34,6,an tochar,53.059263,-6.229983
+Wicklow,Division 5NE1,2018,Newtown GAA,9,2,0,7,34,47,-13,4,newtown,53.080658,-6.116129
+Wicklow,Division 5NE1,2018,St Patrick's GAA Club Wicklow,8,0,0,8,0,0,0,0,st patricks wicklow,52.973657,-6.026608
+Wicklow,Division 5NE1,2018,Enniskerry,7,0,0,7,0,0,0,0,enniskerry,53.193215,-6.181433
+Wicklow,Division 5SW2,2018,Valleymount,6,4,1,1,38,24,14,9,valleymount,53.114238,-6.530901
+Wicklow,Division 5SW2,2018,Donard/Glen,6,4,0,2,44,37,7,8,donard glen,53.02159,-6.619334
+Wicklow,Division 5SW2,2018,Stratford Grange Con GAA (Áth na Sráide Grainseach Choinn),5,1,1,3,51,69,-18,3,stratford grangecon,52.997147,-6.669908
+Wicklow,Division 5SW2,2018,Coolkenno,5,1,0,4,13,16,-3,2,coolkenno,52.778053,-6.6228
+Wicklow,Division 5NE2,2018,Tinahely,9,8,0,1,175,81,94,16,tinahely,52.798814,-6.457501
+Wicklow,Division 5NE2,2018,Kilcoole,9,6,0,3,73,97,-24,12,kilcoole,53.094769,-6.070664
+Wicklow,Division 5NE2,2018,Éire Óg Greystones,10,6,0,4,80,85,-5,12,eire og greystones,53.132531,-6.066479
+Wicklow,Division 5NE2,2018,Annacurra,7,4,0,3,64,97,-33,8,annacurra,52.841607,-6.353948
+Wicklow,Division 5NE2,2018,Barndarrig,9,3,0,6,55,87,-32,6,barndarrig,52.928405,-6.15539
+Wicklow,Division 5NE2,2018,Arklow Geraldines-Ballymoney/Na nGearaltaigh-Baile Mhuine,10,0,0,10,0,0,0,0,arklow geraldines ballymoney,52.8209621,-6.1781371
