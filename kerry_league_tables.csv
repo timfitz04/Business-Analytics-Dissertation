@@ -1,0 +1,441 @@
+County,Division,Year,team,pld,w,d,l,pf,pa,pd,pts,clean_team,Latitude,Longitude
+Kerry,Division 1,2024,Dr. Crokes,11,11,0,0,227,102,125,22,dr crokes,52.067234,-9.504002
+Kerry,Division 1,2024,Laune Rangers,11,8,2,1,189,153,36,18,laune rangers,52.10535,-9.800296
+Kerry,Division 1,2024,Rathmore,11,8,0,3,163,145,18,16,rathmore,52.064615,-9.239939
+Kerry,Division 1,2024,Spa,11,5,1,5,159,150,9,11,spa,52.070181,-9.467903
+Kerry,Division 1,2024,Kilcummin,11,4,3,4,142,152,-10,11,kilcummin,52.097933,-9.475604
+Kerry,Division 1,2024,Killarney Legion,11,4,2,5,149,139,10,10,killarney legion,52.072615,-9.508591
+Kerry,Division 1,2024,Glenflesk,11,4,2,5,189,186,3,10,glenflesk,52.014838,-9.362016
+Kerry,Division 1,2024,Ballymacelligott,11,3,3,5,164,181,-17,9,ballymacelligott,52.252347,-9.597974
+Kerry,Division 1,2024,Kerins O`Rahilly's,11,4,0,7,152,165,-13,8,kerins orahillys,52.266946,-9.71584
+Kerry,Division 1,2024,An Ghaeltacht,11,3,1,7,149,192,-43,7,an ghaeltacht,52.181509,-10.364593
+Kerry,Division 1,2024,Dingle,11,3,1,7,111,177,-66,7,dingle,52.137344,-10.267517
+Kerry,Division 1,2024,Milltown/Castlemaine,11,1,1,9,121,173,-52,3,milltowncastlemaine,52.150259,-9.716193
+Kerry,Division 2,2024,Austin Stacks,11,9,1,1,159,95,64,19,austin stacks,52.276604,-9.712997
+Kerry,Division 2,2024,Beaufort,11,8,2,1,211,143,68,18,beaufort,52.067931,-9.639333
+Kerry,Division 2,2024,Glenbeigh-Glencar,11,7,2,2,173,138,35,16,glenbeighglencar,52.058259,-9.936538
+Kerry,Division 2,2024,Kenmare Shamrocks,11,7,0,4,167,155,12,14,kenmare shamrocks,51.880603,-9.569415
+Kerry,Division 2,2024,Gneeveguilla,11,5,2,4,130,152,-22,12,gneeveguilla,52.119719,-9.271893
+Kerry,Division 2,2024,Fossa,11,5,2,4,179,184,-5,12,fossa,52.069074,-9.540538
+Kerry,Division 2,2024,Listowel Emmets,11,3,4,4,185,164,21,10,listowel emmets,52.446928,-9.477364
+Kerry,Division 2,2024,Ardfert Football Club,11,3,3,5,165,191,-26,9,ardfert,52.331234,-9.778167
+Kerry,Division 2,2024,Templenoe,11,2,4,5,141,161,-20,8,templenoe,51.861086,-9.688363
+Kerry,Division 2,2024,Desmonds,11,3,1,7,140,159,-19,7,castleisland desmonds,52.23776,-9.464165
+Kerry,Division 2,2024,John Mitchels,11,1,2,8,118,165,-47,4,john mitchels,52.247736,-9.676128
+Kerry,Division 2,2024,Na Gaeil,11,0,3,8,122,183,-61,3,na gaeil,52.282301,-9.689736
+Kerry,Division 3,2024,Firies,11,8,2,1,175,141,34,18,firies,52.173213,-9.547032
+Kerry,Division 3,2024,Churchill,11,6,2,3,151,135,16,14,churchill,52.27494,-9.784067
+Kerry,Division 3,2024,Keel,11,6,1,4,157,123,34,13,keel,52.172486,-9.773946
+Kerry,Division 3,2024,Ballydonoghue,11,5,3,3,161,153,8,13,ballydonoghue,52.485994,-9.520907
+Kerry,Division 3,2024,Tarbert,11,5,1,5,171,151,20,11,tarbert,52.570722,-9.373495
+Kerry,Division 3,2024,Cordal,11,5,1,5,148,159,-11,11,cordal,52.221787,-9.382273
+Kerry,Division 3,2024,Reenard,11,5,1,5,140,159,-19,11,renard,51.929805,-10.251918
+Kerry,Division 3,2024,Listry,11,3,4,4,123,130,-7,10,listry,52.104483,-9.631897
+Kerry,Division 3,2024,Annascaul,11,4,1,6,161,169,-8,9,annascaul,52.153066,-10.047685
+Kerry,Division 3,2024,St Mary's,11,3,3,5,152,147,5,9,st marys cahirciveen,51.945362,-10.234172
+Kerry,Division 3,2024,Currow,11,3,2,6,174,209,-35,8,currow,52.180016,-9.507727
+Kerry,Division 3,2024,Knocknagoshel,11,2,1,8,136,173,-37,5,knocknagoshel,52.323099,-9.383051
+Kerry,Division 4,2024,St Senan's,11,11,0,0,207,133,74,22,st senans,52.395871,-9.515667
+Kerry,Division 4,2024,Castlegregory GAA Club,10,8,1,1,213,144,69,17,castlegregory,52.259016,-10.01499
+Kerry,Division 4,2024,Brosna,11,7,3,1,185,137,48,17,brosna,52.310105,-9.260752
+Kerry,Division 4,2024,Beale,11,6,1,4,154,148,6,13,beale,52.50562,-9.671694
+Kerry,Division 4,2024,Piarsaigh Na Dromoda,10,4,2,4,161,156,5,10,dromid pearses,51.894283,-10.088164
+Kerry,Division 4,2024,Skelligs Rangers,11,5,0,6,134,146,-12,10,skelligs rangers,51.880861,-10.370082
+Kerry,Division 4,2024,Ballyduff,11,5,0,6,157,187,-30,10,ballyduff,52.451307,-9.66994
+Kerry,Division 4,2024,Waterville,11,3,3,5,161,151,10,9,waterville,51.825796,-10.161726
+Kerry,Division 4,2024,Moyvane,11,4,1,6,173,164,9,9,moyvane,52.49912,-9.377233
+Kerry,Division 4,2024,St Michael's-Foilmore,11,2,3,6,136,153,-17,7,st michaelsfoilmore,51.829137,-10.268529
+Kerry,Division 4,2024,Lispole,11,0,4,7,163,218,-55,4,lispole,52.142837,-10.144581
+Kerry,Division 4,2024,Cromane,11,1,0,10,140,247,-107,2,cromane,52.103138,-9.899237
+Kerry,Division 5 A,2024,Duagh,7,7,0,0,166,48,118,14,duagh,52.412218,-9.389008
+Kerry,Division 5 A,2024,St Pats Blennerville,7,6,0,1,141,98,43,12,st pats blennerville,52.253721,-9.734663
+Kerry,Division 5 A,2024,Austin Stacks,7,3,2,2,113,100,13,8,austin stacks,52.276604,-9.712997
+Kerry,Division 5 A,2024,Kilgarvan,7,3,2,2,102,101,1,8,kilgarvan,51.904568,-9.452148
+Kerry,Division 5 A,2024,Gneeveguilla,7,3,0,4,83,101,-18,6,gneeveguilla,52.119719,-9.271893
+Kerry,Division 5 A,2024,Asdee,7,2,1,4,106,116,-10,5,asdee,52.540838,-9.55145
+Kerry,Division 5 A,2024,Firies,7,1,1,5,76,133,-57,3,firies,52.173213,-9.547032
+Kerry,Division 5 A,2024,Tuosist,7,0,0,7,67,157,-90,0,tuosist,51.765117,-9.765715
+Kerry,Division 5 B,2024,Sneem/Derrynane,7,5,1,1,89,71,18,11,sneem,51.84283,-9.901366
+Kerry,Division 5 B,2024,Dr. Crokes,7,5,1,1,132,88,44,11,dr crokes,52.067234,-9.504002
+Kerry,Division 5 B,2024,Scartaglin,7,4,0,3,100,84,16,8,scartaglin,52.185943,-9.416772
+Kerry,Division 5 B,2024,Laune Rangers,7,3,2,2,100,88,12,8,laune rangers,52.10535,-9.800296
+Kerry,Division 5 B,2024,Valentia Young Islanders,7,4,0,3,89,110,-21,8,valentia young islanders,51.905559,-10.337565
+Kerry,Division 5 B,2024,Glenflesk,7,2,1,4,89,101,-12,5,glenflesk,52.014838,-9.362016
+Kerry,Division 5 B,2024,Rathmore,7,1,1,5,90,107,-17,3,rathmore,52.064615,-9.239939
+Kerry,Division 5 B,2024,Finuge,7,0,2,5,71,111,-40,2,finuge,52.424429,-9.532278
+Kerry,Division 6 A,2024,Fossa,7,6,1,0,147,92,55,13,fossa,52.069074,-9.540538
+Kerry,Division 6 A,2024,Ballylongford,7,5,0,2,147,103,44,10,ballylongford,52.544152,-9.474968
+Kerry,Division 6 A,2024,Kerins O`Rahilly's,7,4,0,3,135,119,16,8,kerins orahillys,52.266946,-9.71584
+Kerry,Division 6 A,2024,Killarney Legion,7,3,1,3,108,102,6,7,killarney legion,52.072615,-9.508591
+Kerry,Division 6 A,2024,An Ghaeltacht,7,3,1,3,128,102,26,7,an ghaeltacht,52.181509,-10.364593
+Kerry,Division 6 A,2024,Kilcummin,7,3,0,4,141,121,20,6,kilcummin,52.097933,-9.475604
+Kerry,Division 6 A,2024,Keel,7,1,2,4,86,133,-47,4,keel,52.172486,-9.773946
+Kerry,Division 6 A,2024,Desmonds,7,0,1,6,64,184,-120,1,castleisland desmonds,52.23776,-9.464165
+Kerry,Division 6 B,2024,Beaufort,7,4,1,2,83,74,9,9,beaufort,52.067931,-9.639333
+Kerry,Division 6 B,2024,Milltown/Castlemaine,7,3,3,1,87,84,3,9,milltowncastlemaine,52.150259,-9.716193
+Kerry,Division 6 B,2024,Dr. Crokes,7,4,0,3,116,79,37,8,dr crokes,52.067234,-9.504002
+Kerry,Division 6 B,2024,Kenmare Shamrocks,7,4,0,3,122,99,23,8,kenmare shamrocks,51.880603,-9.569415
+Kerry,Division 6 B,2024,Ballymacelligott,7,3,1,3,106,124,-18,7,ballymacelligott,52.252347,-9.597974
+Kerry,Division 6 B,2024,St Michael's-Foilmore,7,3,0,4,94,127,-33,6,st michaelsfoilmore,51.829137,-10.268529
+Kerry,Division 6 B,2024,Spa,7,3,0,4,100,108,-8,6,spa,52.070181,-9.467903
+Kerry,Division 6 B,2024,John Mitchels,7,1,1,5,80,93,-13,3,john mitchels,52.247736,-9.676128
+Kerry,Division 1,2023,Dr. Crokes,11,7,2,2,174,140,34,16,dr crokes,52.067234,-9.504002
+Kerry,Division 1,2023,Killarney Legion,11,6,3,2,164,144,20,15,killarney legion,52.072615,-9.508591
+Kerry,Division 1,2023,Kilcummin,11,5,2,4,178,162,16,12,kilcummin,52.097933,-9.475604
+Kerry,Division 1,2023,Ballymacelligott,11,6,0,5,194,185,9,12,ballymacelligott,52.252347,-9.597974
+Kerry,Division 1,2023,Dingle,11,4,4,3,151,143,8,12,dingle,52.137344,-10.267517
+Kerry,Division 1,2023,Rathmore,11,4,3,4,168,162,6,11,rathmore,52.064615,-9.239939
+Kerry,Division 1,2023,Milltown/Castlemaine,11,3,5,3,154,159,-5,11,milltowncastlemaine,52.150259,-9.716193
+Kerry,Division 1,2023,Spa,11,5,1,5,155,167,-12,11,spa,52.070181,-9.467903
+Kerry,Division 1,2023,Austin Stacks,11,5,0,6,162,155,7,10,austin stacks,52.276604,-9.712997
+Kerry,Division 1,2023,Kerins O`Rahilly's,11,4,2,5,159,158,1,10,kerins orahillys,52.266946,-9.71584
+Kerry,Division 1,2023,Gneeveguilla,11,4,1,6,168,179,-11,9,gneeveguilla,52.119719,-9.271893
+Kerry,Division 1,2023,Desmonds,11,1,1,9,142,215,-73,3,castleisland desmonds,52.23776,-9.464165
+Kerry,Division 2,2023,Laune Rangers,11,7,3,1,201,150,51,17,laune rangers,52.10535,-9.800296
+Kerry,Division 2,2023,Glenflesk,11,8,1,2,193,168,25,17,glenflesk,52.014838,-9.362016
+Kerry,Division 2,2023,An Ghaeltacht,11,7,3,1,166,143,23,17,an ghaeltacht,52.181509,-10.364593
+Kerry,Division 2,2023,Na Gaeil,11,5,3,3,145,133,12,13,na gaeil,52.282301,-9.689736
+Kerry,Division 2,2023,Templenoe,11,5,3,3,152,159,-7,13,templenoe,51.861086,-9.688363
+Kerry,Division 2,2023,Kenmare Shamrocks,11,5,1,5,171,158,13,11,kenmare shamrocks,51.880603,-9.569415
+Kerry,Division 2,2023,Beaufort,11,4,3,4,155,152,3,11,beaufort,52.067931,-9.639333
+Kerry,Division 2,2023,Glenbeigh-Glencar,11,5,1,5,150,149,1,11,glenbeighglencar,52.058259,-9.936538
+Kerry,Division 2,2023,Listowel Emmets,11,4,1,6,148,155,-7,9,listowel emmets,52.446928,-9.477364
+Kerry,Division 2,2023,Firies,11,3,2,6,153,171,-18,8,firies,52.173213,-9.547032
+Kerry,Division 2,2023,St Mary's,11,1,1,9,160,185,-25,3,st marys cahirciveen,51.945362,-10.234172
+Kerry,Division 2,2023,Currow,11,1,0,10,144,215,-71,2,currow,52.180016,-9.507727
+Kerry,Division 3,2023,Ardfert Football Club,11,7,2,2,189,144,45,16,ardfert,52.331234,-9.778167
+Kerry,Division 3,2023,Fossa,11,7,1,3,179,153,26,15,fossa,52.069074,-9.540538
+Kerry,Division 3,2023,John Mitchels,11,7,1,3,174,126,48,15,john mitchels,52.247736,-9.676128
+Kerry,Division 3,2023,Ballydonoghue,11,6,2,3,196,173,23,14,ballydonoghue,52.485994,-9.520907
+Kerry,Division 3,2023,Listry,11,6,2,3,163,141,22,14,listry,52.104483,-9.631897
+Kerry,Division 3,2023,Reenard,11,6,1,4,142,134,8,13,renard,51.929805,-10.251918
+Kerry,Division 3,2023,Churchill,11,6,0,5,160,154,6,12,churchill,52.27494,-9.784067
+Kerry,Division 3,2023,Annascaul,11,5,1,5,155,152,3,11,annascaul,52.153066,-10.047685
+Kerry,Division 3,2023,Knocknagoshel,11,3,3,5,133,143,-10,9,knocknagoshel,52.323099,-9.383051
+Kerry,Division 3,2023,Skelligs Rangers,11,3,1,7,123,151,-28,7,skelligs rangers,51.880861,-10.370082
+Kerry,Division 3,2023,Brosna,11,2,2,7,133,153,-20,6,brosna,52.310105,-9.260752
+Kerry,Division 3,2023,Piarsaigh Na Dromoda,11,0,0,11,136,259,-123,0,dromid pearses,51.894283,-10.088164
+Kerry,Division 4,2023,Keel,11,7,2,2,156,131,25,16,keel,52.172486,-9.773946
+Kerry,Division 4,2023,Tarbert,11,6,3,2,166,129,37,15,tarbert,52.570722,-9.373495
+Kerry,Division 4,2023,Cordal,11,7,1,3,184,159,25,15,cordal,52.221787,-9.382273
+Kerry,Division 4,2023,Beale,11,7,0,4,145,131,14,14,beale,52.50562,-9.671694
+Kerry,Division 4,2023,St Michael's-Foilmore,11,7,0,4,137,123,14,14,st michaelsfoilmore,51.829137,-10.268529
+Kerry,Division 4,2023,St Senan's,11,6,0,5,171,139,32,12,st senans,52.395871,-9.515667
+Kerry,Division 4,2023,Cromane,11,5,1,5,146,171,-25,11,cromane,52.103138,-9.899237
+Kerry,Division 4,2023,Ballyduff,11,3,4,4,156,154,2,10,ballyduff,52.451307,-9.66994
+Kerry,Division 4,2023,Castlegregory GAA Club,11,4,1,6,175,168,7,9,castlegregory,52.259016,-10.01499
+Kerry,Division 4,2023,St Pats Blennerville,11,4,0,7,152,160,-8,8,st pats blennerville,52.253721,-9.734663
+Kerry,Division 4,2023,Dr. Crokes,11,2,0,9,158,220,-62,4,dr crokes,52.067234,-9.504002
+Kerry,Division 4,2023,Sneem/Derrynane,11,2,0,9,135,196,-61,4,sneem,51.84283,-9.901366
+Kerry,Division 5 A,2023,Lispole,6,6,0,0,92,60,32,12,lispole,52.142837,-10.144581
+Kerry,Division 5 A,2023,Duagh,6,4,0,2,111,63,48,8,duagh,52.412218,-9.389008
+Kerry,Division 5 A,2023,Moyvane,6,3,1,2,89,80,9,7,moyvane,52.49912,-9.377233
+Kerry,Division 5 A,2023,Finuge,6,2,3,1,74,77,-3,7,finuge,52.424429,-9.532278
+Kerry,Division 5 A,2023,Laune Rangers,6,2,1,3,99,91,8,5,laune rangers,52.10535,-9.800296
+Kerry,Division 5 A,2023,Austin Stacks,6,1,1,4,64,84,-20,3,austin stacks,52.276604,-9.712997
+Kerry,Division 5 A,2023,Ballylongford,6,0,0,6,40,114,-74,0,ballylongford,52.544152,-9.474968
+Kerry,Division 5 B,2023,Waterville,6,6,0,0,107,54,53,12,waterville,51.825796,-10.161726
+Kerry,Division 5 B,2023,Kilgarvan,6,4,0,2,71,78,-7,8,kilgarvan,51.904568,-9.452148
+Kerry,Division 5 B,2023,Scartaglin,6,4,0,2,102,58,44,8,scartaglin,52.185943,-9.416772
+Kerry,Division 5 B,2023,Asdee,6,3,0,3,61,53,8,6,asdee,52.540838,-9.55145
+Kerry,Division 5 B,2023,Glenflesk,6,2,0,4,66,111,-45,4,glenflesk,52.014838,-9.362016
+Kerry,Division 5 B,2023,Gneeveguilla,6,1,0,5,72,104,-32,2,gneeveguilla,52.119719,-9.271893
+Kerry,Division 5 B,2023,Rathmore,6,1,0,5,74,95,-21,2,rathmore,52.064615,-9.239939
+Kerry,Division 6,2023,Firies,12,10,1,1,223,168,55,21,firies,52.173213,-9.547032
+Kerry,Division 6,2023,Valentia Young Islanders,12,10,0,2,182,118,64,20,valentia young islanders,51.905559,-10.337565
+Kerry,Division 6,2023,Fossa,12,8,2,2,201,165,36,18,fossa,52.069074,-9.540538
+Kerry,Division 6,2023,Kerins O`Rahilly's,12,7,0,5,198,161,37,14,kerins orahillys,52.266946,-9.71584
+Kerry,Division 6,2023,Dr. Crokes,12,5,2,5,166,181,-15,12,dr crokes,52.067234,-9.504002
+Kerry,Division 6,2023,Milltown/Castlemaine,12,6,0,6,162,181,-19,12,milltowncastlemaine,52.150259,-9.716193
+Kerry,Division 6,2023,Beaufort,12,5,2,5,152,174,-22,12,beaufort,52.067931,-9.639333
+Kerry,Division 6,2023,Desmonds,12,5,1,6,159,150,9,11,castleisland desmonds,52.23776,-9.464165
+Kerry,Division 6,2023,Kilcummin,12,5,1,6,165,152,13,11,kilcummin,52.097933,-9.475604
+Kerry,Division 6,2023,Killarney Legion,12,2,3,7,157,187,-30,7,killarney legion,52.072615,-9.508591
+Kerry,Division 6,2023,St Michael's-Foilmore,12,3,1,8,164,199,-35,7,st michaelsfoilmore,51.829137,-10.268529
+Kerry,Division 6,2023,Tuosist,12,2,2,8,171,242,-71,6,tuosist,51.765117,-9.765715
+Kerry,Division 6,2023,Churchill,12,2,1,9,180,202,-22,5,churchill,52.27494,-9.784067
+Kerry,Division 1,2022,Dingle,13,9,3,1,235,177,58,21,dingle,52.137344,-10.267517
+Kerry,Division 1,2022,Austin Stacks,12,7,3,2,191,152,39,17,austin stacks,52.276604,-9.712997
+Kerry,Division 1,2022,Dr. Crokes,12,8,1,3,231,157,74,17,dr crokes,52.067234,-9.504002
+Kerry,Division 1,2022,Kerins O`Rahilly's,11,6,2,3,138,128,10,14,kerins orahillys,52.266946,-9.71584
+Kerry,Division 1,2022,Rathmore,11,6,0,5,181,159,22,12,rathmore,52.064615,-9.239939
+Kerry,Division 1,2022,Spa,11,6,0,5,178,159,19,12,spa,52.070181,-9.467903
+Kerry,Division 1,2022,Killarney Legion,11,5,2,4,178,160,18,12,killarney legion,52.072615,-9.508591
+Kerry,Division 1,2022,Gneeveguilla,11,4,1,6,133,161,-28,9,gneeveguilla,52.119719,-9.271893
+Kerry,Division 1,2022,Ballymacelligott,11,4,0,7,157,191,-34,8,ballymacelligott,52.252347,-9.597974
+Kerry,Division 1,2022,An Ghaeltacht,11,3,0,8,149,186,-37,6,an ghaeltacht,52.181509,-10.364593
+Kerry,Division 1,2022,Kenmare Shamrocks,11,2,0,9,103,187,-84,4,kenmare shamrocks,51.880603,-9.569415
+Kerry,Division 1,2022,St Mary's,11,2,0,9,127,184,-57,4,st marys cahirciveen,51.945362,-10.234172
+Kerry,Division 2,2022,Desmonds,11,9,2,0,212,115,97,20,castleisland desmonds,52.23776,-9.464165
+Kerry,Division 2,2022,Kilcummin,11,9,1,1,189,135,54,19,kilcummin,52.097933,-9.475604
+Kerry,Division 2,2022,Milltown/Castlemaine,11,7,1,3,186,140,46,15,milltowncastlemaine,52.150259,-9.716193
+Kerry,Division 2,2022,Laune Rangers,11,6,0,5,172,140,32,12,laune rangers,52.10535,-9.800296
+Kerry,Division 2,2022,Beaufort,11,6,0,5,161,154,7,12,beaufort,52.067931,-9.639333
+Kerry,Division 2,2022,Templenoe,11,4,2,5,149,150,-1,10,templenoe,51.861086,-9.688363
+Kerry,Division 2,2022,Na Gaeil,11,4,2,5,132,146,-14,10,na gaeil,52.282301,-9.689736
+Kerry,Division 2,2022,Listowel Emmets,11,5,0,6,158,173,-15,10,listowel emmets,52.446928,-9.477364
+Kerry,Division 2,2022,Glenbeigh-Glencar,11,3,3,5,147,160,-13,9,glenbeighglencar,52.058259,-9.936538
+Kerry,Division 2,2022,Listry,11,3,2,6,128,177,-49,8,listry,52.104483,-9.631897
+Kerry,Division 2,2022,John Mitchels,11,2,1,8,155,178,-23,5,john mitchels,52.247736,-9.676128
+Kerry,Division 2,2022,Annascaul,11,1,0,10,118,239,-121,2,annascaul,52.153066,-10.047685
+Kerry,Division 3,2022,Glenflesk,11,11,0,0,215,128,87,22,glenflesk,52.014838,-9.362016
+Kerry,Division 3,2022,Firies,12,8,1,3,207,164,43,17,firies,52.173213,-9.547032
+Kerry,Division 3,2022,Currow,11,8,0,3,183,162,21,16,currow,52.180016,-9.507727
+Kerry,Division 3,2022,Brosna,12,7,1,4,165,163,2,15,brosna,52.310105,-9.260752
+Kerry,Division 3,2022,Ballydonoghue,11,7,0,4,161,165,-4,14,ballydonoghue,52.485994,-9.520907
+Kerry,Division 3,2022,Skelligs Rangers,11,5,1,5,128,125,3,11,skelligs rangers,51.880861,-10.370082
+Kerry,Division 3,2022,Churchill,11,5,1,5,146,144,2,11,churchill,52.27494,-9.784067
+Kerry,Division 3,2022,Reenard,11,3,2,6,145,145,0,8,renard,51.929805,-10.251918
+Kerry,Division 3,2022,Piarsaigh Na Dromoda,11,3,1,7,145,163,-18,7,dromid pearses,51.894283,-10.088164
+Kerry,Division 3,2022,St Pats Blennerville,11,2,1,8,131,154,-23,5,st pats blennerville,52.253721,-9.734663
+Kerry,Division 3,2022,St Senan's,11,2,1,8,138,176,-38,5,st senans,52.395871,-9.515667
+Kerry,Division 3,2022,Dr. Crokes,11,1,1,9,153,228,-75,3,dr crokes,52.067234,-9.504002
+Kerry,Division 4,2022,Fossa,11,8,2,1,183,127,56,18,fossa,52.069074,-9.540538
+Kerry,Division 4,2022,Ardfert Football Club,11,8,1,2,173,154,19,17,ardfert,52.331234,-9.778167
+Kerry,Division 4,2022,Knocknagoshel,11,8,1,2,184,151,33,17,knocknagoshel,52.323099,-9.383051
+Kerry,Division 4,2022,Tarbert,11,7,0,4,165,130,35,14,tarbert,52.570722,-9.373495
+Kerry,Division 4,2022,Castlegregory GAA Club,11,5,0,6,171,157,14,10,castlegregory,52.259016,-10.01499
+Kerry,Division 4,2022,Cromane,11,5,0,6,185,181,4,10,cromane,52.103138,-9.899237
+Kerry,Division 4,2022,Cordal,11,4,2,5,184,182,2,10,cordal,52.221787,-9.382273
+Kerry,Division 4,2022,Beale,12,5,0,7,142,176,-34,10,beale,52.50562,-9.671694
+Kerry,Division 4,2022,Keel,11,4,1,6,146,151,-5,9,keel,52.172486,-9.773946
+Kerry,Division 4,2022,Scartaglin,12,3,2,7,125,163,-38,8,scartaglin,52.185943,-9.416772
+Kerry,Division 4,2022,Austin Stacks,11,3,1,7,150,197,-47,7,austin stacks,52.276604,-9.712997
+Kerry,Division 4,2022,Duagh,11,2,0,9,140,179,-39,4,duagh,52.412218,-9.389008
+Kerry,Division 5,2022,St Michael's-Foilmore,11,9,1,1,201,104,97,19,st michaelsfoilmore,51.829137,-10.268529
+Kerry,Division 5,2022,Sneem/Derrynane,13,8,2,3,192,145,47,18,sneem,51.84283,-9.901366
+Kerry,Division 5,2022,Waterville,13,7,2,4,185,156,29,16,waterville,51.825796,-10.161726
+Kerry,Division 5,2022,Ballyduff,11,7,2,2,176,149,27,16,ballyduff,52.451307,-9.66994
+Kerry,Division 5,2022,Lispole,11,6,2,3,212,160,52,14,lispole,52.142837,-10.144581
+Kerry,Division 5,2022,Finuge,11,6,0,5,149,137,12,12,finuge,52.424429,-9.532278
+Kerry,Division 5,2022,Moyvane,11,4,2,5,145,169,-24,10,moyvane,52.49912,-9.377233
+Kerry,Division 5,2022,Kilgarvan,11,3,2,6,171,188,-17,8,kilgarvan,51.904568,-9.452148
+Kerry,Division 5,2022,Glenflesk,11,3,1,7,144,196,-52,7,glenflesk,52.014838,-9.362016
+Kerry,Division 5,2022,Laune Rangers,11,3,0,8,150,184,-34,6,laune rangers,52.10535,-9.800296
+Kerry,Division 5,2022,Ballylongford,11,3,0,8,131,189,-58,6,ballylongford,52.544152,-9.474968
+Kerry,Division 5,2022,Asdee,11,2,0,9,115,194,-79,4,asdee,52.540838,-9.55145
+Kerry,Division 6 A,2022,Milltown/Castlemaine,7,7,0,0,124,85,39,14,milltowncastlemaine,52.150259,-9.716193
+Kerry,Division 6 A,2022,Fossa,7,5,0,2,127,97,30,10,fossa,52.069074,-9.540538
+Kerry,Division 6 A,2022,Tuosist,7,4,0,3,90,101,-11,8,tuosist,51.765117,-9.765715
+Kerry,Division 6 A,2022,Kerins O`Rahilly's,7,3,0,4,94,100,-6,6,kerins orahillys,52.266946,-9.71584
+Kerry,Division 6 A,2022,Desmonds,7,3,0,4,100,102,-2,6,castleisland desmonds,52.23776,-9.464165
+Kerry,Division 6 A,2022,Killarney Legion,7,2,0,5,78,86,-8,4,killarney legion,52.072615,-9.508591
+Kerry,Division 6 A,2022,Kenmare Shamrocks,7,2,0,5,111,121,-10,4,kenmare shamrocks,51.880603,-9.569415
+Kerry,Division 6 A,2022,St Michael's-Foilmore,7,2,0,5,89,121,-32,4,st michaelsfoilmore,51.829137,-10.268529
+Kerry,Division 6 B,2022,Rathmore,6,5,1,0,97,50,47,11,rathmore,52.064615,-9.239939
+Kerry,Division 6 B,2022,Gneeveguilla,6,4,1,1,93,80,13,9,gneeveguilla,52.119719,-9.271893
+Kerry,Division 6 B,2022,Firies,6,4,0,2,97,87,10,8,firies,52.173213,-9.547032
+Kerry,Division 6 B,2022,Dr. Crokes,6,4,0,2,81,83,-2,8,dr crokes,52.067234,-9.504002
+Kerry,Division 6 B,2022,Beaufort,6,2,0,4,87,86,1,4,beaufort,52.067931,-9.639333
+Kerry,Division 6 B,2022,Dingle,6,1,0,5,62,89,-27,2,dingle,52.137344,-10.267517
+Kerry,Division 6 B,2022,Na Gaeil,6,0,0,6,67,109,-42,0,na gaeil,52.282301,-9.689736
+Kerry,Division 1 A,2021,Dingle,5,3,1,1,86,62,24,7,dingle,52.137344,-10.267517
+Kerry,Division 1 A,2021,Dr. Crokes,5,3,1,1,83,66,17,7,dr crokes,52.067234,-9.504002
+Kerry,Division 1 A,2021,Austin Stacks,5,2,2,1,64,60,4,6,austin stacks,52.276604,-9.712997
+Kerry,Division 1 A,2021,Spa,5,2,2,1,82,85,-3,6,spa,52.070181,-9.467903
+Kerry,Division 1 A,2021,John Mitchels,5,1,0,4,60,98,-38,2,john mitchels,52.247736,-9.676128
+Kerry,Division 1 A,2021,Kilcummin,5,1,0,4,64,68,-4,2,kilcummin,52.097933,-9.475604
+Kerry,Division 1 B,2021,Kerins O`Rahilly's,5,4,1,0,77,57,20,9,kerins orahillys,52.266946,-9.71584
+Kerry,Division 1 B,2021,Killarney Legion,5,4,0,1,70,68,2,8,killarney legion,52.072615,-9.508591
+Kerry,Division 1 B,2021,Kenmare Shamrocks,5,1,3,1,60,60,0,5,kenmare shamrocks,51.880603,-9.569415
+Kerry,Division 1 B,2021,An Ghaeltacht,5,1,2,2,72,67,5,4,an ghaeltacht,52.181509,-10.364593
+Kerry,Division 1 B,2021,Rathmore,5,1,2,2,71,76,-5,4,rathmore,52.064615,-9.239939
+Kerry,Division 1 B,2021,Beaufort,5,0,0,5,66,88,-22,0,beaufort,52.067931,-9.639333
+Kerry,Division 2 A,2021,St Mary's,5,4,0,1,73,60,13,8,st marys cahirciveen,51.945362,-10.234172
+Kerry,Division 2 A,2021,Desmonds,5,3,1,1,92,69,23,7,castleisland desmonds,52.23776,-9.464165
+Kerry,Division 2 A,2021,Glenbeigh-Glencar,5,2,2,1,80,63,17,6,glenbeighglencar,52.058259,-9.936538
+Kerry,Division 2 A,2021,Na Gaeil,5,2,2,1,75,68,7,6,na gaeil,52.282301,-9.689736
+Kerry,Division 2 A,2021,Ballydonoghue,5,1,1,3,62,85,-23,3,ballydonoghue,52.485994,-9.520907
+Kerry,Division 2 A,2021,Dr. Crokes,5,0,0,5,70,107,-37,0,dr crokes,52.067234,-9.504002
+Kerry,Division 2 B,2021,Ballymacelligott,5,4,0,1,87,70,17,8,ballymacelligott,52.252347,-9.597974
+Kerry,Division 2 B,2021,Gneeveguilla,5,4,0,1,89,50,39,8,gneeveguilla,52.119719,-9.271893
+Kerry,Division 2 B,2021,Templenoe,5,3,0,2,83,65,18,6,templenoe,51.861086,-9.688363
+Kerry,Division 2 B,2021,Annascaul,5,2,0,3,61,89,-28,4,annascaul,52.153066,-10.047685
+Kerry,Division 2 B,2021,Listry,5,1,0,4,61,74,-13,2,listry,52.104483,-9.631897
+Kerry,Division 2 B,2021,Piarsaigh Na Dromoda,5,1,0,4,51,84,-33,2,dromid pearses,51.894283,-10.088164
+Kerry,Division 3 A,2021,Listowel Emmets,5,5,0,0,76,52,24,10,listowel emmets,52.446928,-9.477364
+Kerry,Division 3 A,2021,Churchill,5,4,0,1,69,57,12,8,churchill,52.27494,-9.784067
+Kerry,Division 3 A,2021,Glenflesk,5,3,0,2,82,57,25,6,glenflesk,52.014838,-9.362016
+Kerry,Division 3 A,2021,St Pats Blennerville,5,2,0,3,51,68,-17,4,st pats blennerville,52.253721,-9.734663
+Kerry,Division 3 A,2021,Keel,5,1,0,4,69,64,5,2,keel,52.172486,-9.773946
+Kerry,Division 3 A,2021,Ardfert Football Club,5,0,0,5,50,99,-49,0,ardfert,52.331234,-9.778167
+Kerry,Division 3 B,2021,Laune Rangers,5,5,0,0,103,63,40,10,laune rangers,52.10535,-9.800296
+Kerry,Division 3 B,2021,Milltown/Castlemaine,5,4,0,1,100,57,43,8,milltowncastlemaine,52.150259,-9.716193
+Kerry,Division 3 B,2021,Brosna,5,3,0,2,72,54,18,6,brosna,52.310105,-9.260752
+Kerry,Division 3 B,2021,Currow,5,1,0,4,70,82,-12,2,currow,52.180016,-9.507727
+Kerry,Division 3 B,2021,St Senan's,5,1,0,4,54,97,-43,2,st senans,52.395871,-9.515667
+Kerry,Division 3 B,2021,Duagh,5,1,0,4,39,85,-46,2,duagh,52.412218,-9.389008
+Kerry,Division 4 A,2021,Firies,5,5,0,0,92,57,35,10,firies,52.173213,-9.547032
+Kerry,Division 4 A,2021,Castlegregory GAA Club,5,4,0,1,71,64,7,8,castlegregory,52.259016,-10.01499
+Kerry,Division 4 A,2021,Beale,5,3,0,2,73,74,-1,6,beale,52.50562,-9.671694
+Kerry,Division 4 A,2021,Tarbert,5,2,0,3,97,81,16,4,tarbert,52.570722,-9.373495
+Kerry,Division 4 A,2021,Lispole,5,1,0,4,57,100,-43,2,lispole,52.142837,-10.144581
+Kerry,Division 4 A,2021,Waterville,5,0,0,5,58,72,-14,0,waterville,51.825796,-10.161726
+Kerry,Division 4 B,2021,Reenard,5,4,1,0,84,70,14,9,renard,51.929805,-10.251918
+Kerry,Division 4 B,2021,Skelligs Rangers,5,3,1,1,75,50,25,7,skelligs rangers,51.880861,-10.370082
+Kerry,Division 4 B,2021,Fossa,5,3,0,2,74,68,6,6,fossa,52.069074,-9.540538
+Kerry,Division 4 B,2021,Scartaglin,5,2,1,2,42,50,-8,5,scartaglin,52.185943,-9.416772
+Kerry,Division 4 B,2021,Knocknagoshel,5,1,1,3,74,92,-18,3,knocknagoshel,52.323099,-9.383051
+Kerry,Division 4 B,2021,Finuge,5,0,0,5,62,81,-19,0,finuge,52.424429,-9.532278
+Kerry,Division 5 A,2021,Austin Stacks,5,5,0,0,87,52,35,10,austin stacks,52.276604,-9.712997
+Kerry,Division 5 A,2021,Ballyduff,5,4,0,1,82,69,13,8,ballyduff,52.451307,-9.66994
+Kerry,Division 5 A,2021,St Michael's-Foilmore,5,3,0,2,78,58,20,6,st michaelsfoilmore,51.829137,-10.268529
+Kerry,Division 5 A,2021,Moyvane,5,2,0,3,75,74,1,4,moyvane,52.49912,-9.377233
+Kerry,Division 5 A,2021,Kilgarvan,5,1,0,4,70,104,-34,2,kilgarvan,51.904568,-9.452148
+Kerry,Division 5 A,2021,Laune Rangers,5,0,0,5,64,99,-35,0,laune rangers,52.10535,-9.800296
+Kerry,Division 5 B,2021,Cordal,5,4,1,0,68,53,15,9,cordal,52.221787,-9.382273
+Kerry,Division 5 B,2021,Cromane,5,4,0,1,98,56,42,8,cromane,52.103138,-9.899237
+Kerry,Division 5 B,2021,Asdee,5,2,1,2,77,70,7,5,asdee,52.540838,-9.55145
+Kerry,Division 5 B,2021,Sneem/Derrynane,5,2,0,3,69,69,0,4,sneem,51.84283,-9.901366
+Kerry,Division 5 B,2021,Ballylongford,5,1,0,4,47,67,-20,2,ballylongford,52.544152,-9.474968
+Kerry,Division 5 B,2021,Kerins O`Rahilly's,5,1,0,4,60,104,-44,2,kerins orahillys,52.266946,-9.71584
+Kerry,Division 6 A,2021,Glenflesk,5,4,0,1,87,48,39,8,glenflesk,52.014838,-9.362016
+Kerry,Division 6 A,2021,Rathmore,5,4,0,1,83,80,3,8,rathmore,52.064615,-9.239939
+Kerry,Division 6 A,2021,Killarney Legion,5,3,0,2,56,50,6,6,killarney legion,52.072615,-9.508591
+Kerry,Division 6 A,2021,John Mitchels,5,2,0,3,38,52,-14,4,john mitchels,52.247736,-9.676128
+Kerry,Division 6 A,2021,Gneeveguilla,5,2,0,3,62,79,-17,4,gneeveguilla,52.119719,-9.271893
+Kerry,Division 6 A,2021,Beaufort,5,0,0,5,68,85,-17,0,beaufort,52.067931,-9.639333
+Kerry,Division 6 B,2021,Tuosist,5,5,0,0,132,64,68,10,tuosist,51.765117,-9.765715
+Kerry,Division 6 B,2021,Kenmare Shamrocks,5,3,1,1,97,80,17,7,kenmare shamrocks,51.880603,-9.569415
+Kerry,Division 6 B,2021,Dr. Crokes,5,3,0,2,72,93,-21,6,dr crokes,52.067234,-9.504002
+Kerry,Division 6 B,2021,Milltown/Castlemaine,4,1,1,2,41,54,-13,3,milltowncastlemaine,52.150259,-9.716193
+Kerry,Division 6 B,2021,Valentia Young Islanders,3,0,0,3,39,64,-25,0,valentia young islanders,51.905559,-10.337565
+Kerry,Division 6 B,2021,Kilcummin,4,0,0,4,38,64,-26,0,kilcummin,52.097933,-9.475604
+Kerry,Division 6 C,2021,Fossa,5,4,0,1,77,67,10,8,fossa,52.069074,-9.540538
+Kerry,Division 6 C,2021,Dingle,5,4,0,1,106,50,56,8,dingle,52.137344,-10.267517
+Kerry,Division 6 C,2021,Firies,5,3,0,2,79,67,12,6,firies,52.173213,-9.547032
+Kerry,Division 6 C,2021,Desmonds,5,2,0,3,74,74,0,4,castleisland desmonds,52.23776,-9.464165
+Kerry,Division 6 C,2021,Na Gaeil,5,1,0,4,65,102,-37,2,na gaeil,52.282301,-9.689736
+Kerry,Division 6 C,2021,Spa,5,1,0,4,37,78,-41,2,spa,52.070181,-9.467903
+Kerry,Division 1,2019,Austin Stacks,13,9,1,3,228,158,70,19,austin stacks,52.276604,-9.712997
+Kerry,Division 1,2019,Rathmore,12,8,2,2,214,174,40,18,rathmore,52.064615,-9.239939
+Kerry,Division 1,2019,Dingle,12,8,0,4,203,185,18,16,dingle,52.137344,-10.267517
+Kerry,Division 1,2019,Killarney Legion,11,7,1,3,180,117,63,15,killarney legion,52.072615,-9.508591
+Kerry,Division 1,2019,Dr. Crokes,11,7,0,4,219,176,43,14,dr crokes,52.067234,-9.504002
+Kerry,Division 1,2019,Kerins O`Rahilly's,11,7,0,4,222,186,36,14,kerins orahillys,52.266946,-9.71584
+Kerry,Division 1,2019,Spa,11,6,0,5,190,181,9,12,spa,52.070181,-9.467903
+Kerry,Division 1,2019,An Ghaeltacht,11,5,0,6,147,162,-15,10,an ghaeltacht,52.181509,-10.364593
+Kerry,Division 1,2019,Kilcummin,11,5,0,6,191,179,12,10,kilcummin,52.097933,-9.475604
+Kerry,Division 1,2019,Na Gaeil,11,2,0,9,133,199,-66,4,na gaeil,52.282301,-9.689736
+Kerry,Division 1,2019,Templenoe,11,1,0,10,124,213,-89,2,templenoe,51.861086,-9.688363
+Kerry,Division 1,2019,St Mary's,11,1,0,10,117,238,-121,2,st marys cahirciveen,51.945362,-10.234172
+Kerry,Division 2,2019,Kenmare Shamrocks,11,9,1,1,197,146,51,19,kenmare shamrocks,51.880603,-9.569415
+Kerry,Division 2,2019,John Mitchels,11,7,1,3,161,150,11,15,john mitchels,52.247736,-9.676128
+Kerry,Division 2,2019,Beaufort,11,7,1,3,185,156,29,15,beaufort,52.067931,-9.639333
+Kerry,Division 2,2019,Ballymacelligott,11,6,1,4,205,173,32,13,ballymacelligott,52.252347,-9.597974
+Kerry,Division 2,2019,Glenbeigh-Glencar,11,5,2,4,137,138,-1,12,glenbeighglencar,52.058259,-9.936538
+Kerry,Division 2,2019,Annascaul,11,5,1,5,182,172,10,11,annascaul,52.153066,-10.047685
+Kerry,Division 2,2019,Desmonds,11,4,3,4,207,206,1,11,castleisland desmonds,52.23776,-9.464165
+Kerry,Division 2,2019,Piarsaigh Na Dromoda,11,5,1,5,153,155,-2,11,dromid pearses,51.894283,-10.088164
+Kerry,Division 2,2019,Dr. Crokes,11,5,0,6,171,197,-26,10,dr crokes,52.067234,-9.504002
+Kerry,Division 2,2019,Glenflesk,11,3,1,7,160,168,-8,7,glenflesk,52.014838,-9.362016
+Kerry,Division 2,2019,Brosna,11,2,0,9,139,203,-64,4,brosna,52.310105,-9.260752
+Kerry,Division 2,2019,Ardfert Football Club,11,2,0,9,113,146,-33,4,ardfert,52.331234,-9.778167
+Kerry,Division 3,2019,Gneeveguilla,12,11,0,1,230,141,89,22,gneeveguilla,52.119719,-9.271893
+Kerry,Division 3,2019,Ballydonoghue,12,10,0,2,220,179,41,20,ballydonoghue,52.485994,-9.520907
+Kerry,Division 3,2019,Listry,11,7,2,2,145,141,4,16,listry,52.104483,-9.631897
+Kerry,Division 3,2019,Currow,11,5,1,5,180,184,-4,11,currow,52.180016,-9.507727
+Kerry,Division 3,2019,St Pats Blennerville,11,5,1,5,158,147,11,11,st pats blennerville,52.253721,-9.734663
+Kerry,Division 3,2019,Milltown/Castlemaine,11,4,2,5,186,173,13,10,milltowncastlemaine,52.150259,-9.716193
+Kerry,Division 3,2019,Listowel Emmets,11,4,2,5,159,154,5,10,listowel emmets,52.446928,-9.477364
+Kerry,Division 3,2019,St Senan's,11,4,2,5,161,167,-6,10,st senans,52.395871,-9.515667
+Kerry,Division 3,2019,Keel,11,3,4,4,133,155,-22,10,keel,52.172486,-9.773946
+Kerry,Division 3,2019,Firies,11,3,1,7,160,174,-14,7,firies,52.173213,-9.547032
+Kerry,Division 3,2019,Fossa,11,2,0,9,157,172,-15,4,fossa,52.069074,-9.540538
+Kerry,Division 3,2019,Lispole,11,1,1,9,145,247,-102,3,lispole,52.142837,-10.144581
+Kerry,Division 4,2019,Laune Rangers,12,9,1,2,186,140,46,19,laune rangers,52.10535,-9.800296
+Kerry,Division 4,2019,Duagh,11,9,1,1,147,102,45,19,duagh,52.412218,-9.389008
+Kerry,Division 4,2019,Churchill,11,8,2,1,174,135,39,18,churchill,52.27494,-9.784067
+Kerry,Division 4,2019,Finuge,12,8,1,3,169,147,22,17,finuge,52.424429,-9.532278
+Kerry,Division 4,2019,Castlegregory GAA Club,11,6,1,4,133,141,-8,13,castlegregory,52.259016,-10.01499
+Kerry,Division 4,2019,Reenard,11,5,1,5,177,153,24,11,renard,51.929805,-10.251918
+Kerry,Division 4,2019,Waterville,11,5,1,5,161,159,2,11,waterville,51.825796,-10.161726
+Kerry,Division 4,2019,Skelligs Rangers,11,4,1,6,135,151,-16,9,skelligs rangers,51.880861,-10.370082
+Kerry,Division 4,2019,Tarbert,12,4,1,7,142,175,-33,9,tarbert,52.570722,-9.373495
+Kerry,Division 4,2019,St Michael's-Foilmore,12,3,1,8,159,180,-21,7,st michaelsfoilmore,51.829137,-10.268529
+Kerry,Division 4,2019,Cordal,11,1,1,9,133,167,-34,3,cordal,52.221787,-9.382273
+Kerry,Division 4,2019,Valentia Young Islanders,11,0,0,11,30,96,-66,0,valentia young islanders,51.905559,-10.337565
+Kerry,Division 5 A,2019,Scartaglin,9,9,0,0,151,60,91,18,scartaglin,52.185943,-9.416772
+Kerry,Division 5 A,2019,Beale,9,8,0,1,163,55,108,16,beale,52.50562,-9.671694
+Kerry,Division 5 A,2019,Sneem/Derrynane,9,7,0,2,153,132,21,14,sneem,51.84283,-9.901366
+Kerry,Division 5 A,2019,Dingle,9,6,0,3,109,101,8,12,dingle,52.137344,-10.267517
+Kerry,Division 5 A,2019,Ballyduff,9,5,0,4,119,124,-5,10,ballyduff,52.451307,-9.66994
+Kerry,Division 5 A,2019,Kerins O`Rahilly's,9,4,0,5,102,158,-56,8,kerins orahillys,52.266946,-9.71584
+Kerry,Division 5 A,2019,Kenmare Shamrocks,9,2,0,7,63,126,-63,4,kenmare shamrocks,51.880603,-9.569415
+Kerry,Division 5 A,2019,Tuosist,8,1,0,7,40,67,-27,2,tuosist,51.765117,-9.765715
+Kerry,Division 5 A,2019,Milltown/Castlemaine,8,1,0,7,118,145,-27,2,milltowncastlemaine,52.150259,-9.716193
+Kerry,Division 5 A,2019,Dr. Crokes,9,1,0,8,108,158,-50,2,dr crokes,52.067234,-9.504002
+Kerry,Division 5 B,2019,Knocknagoshel,10,8,2,0,183,119,64,18,knocknagoshel,52.323099,-9.383051
+Kerry,Division 5 B,2019,Kilgarvan,10,7,1,2,178,126,52,15,kilgarvan,51.904568,-9.452148
+Kerry,Division 5 B,2019,Asdee,10,7,0,3,128,111,17,14,asdee,52.540838,-9.55145
+Kerry,Division 5 B,2019,Austin Stacks,10,6,1,3,198,114,84,13,austin stacks,52.276604,-9.712997
+Kerry,Division 5 B,2019,Moyvane,10,6,1,3,170,153,17,13,moyvane,52.49912,-9.377233
+Kerry,Division 5 B,2019,Killarney Legion,10,4,1,5,149,190,-41,9,killarney legion,52.072615,-9.508591
+Kerry,Division 5 B,2019,Cromane,10,4,1,5,191,163,28,9,cromane,52.103138,-9.899237
+Kerry,Division 5 B,2019,Beaufort,10,3,0,7,112,160,-48,6,beaufort,52.067931,-9.639333
+Kerry,Division 5 B,2019,Rathmore,10,2,1,7,115,169,-54,5,rathmore,52.064615,-9.239939
+Kerry,Division 5 B,2019,Ballylongford,10,1,2,7,142,175,-33,4,ballylongford,52.544152,-9.474968
+Kerry,Division 5 B,2019,John Mitchels,10,1,2,7,121,207,-86,4,john mitchels,52.247736,-9.676128
+Kerry,Division 1,2018,Dr. Crokes,12,11,1,0,255,158,97,23,dr crokes,52.067234,-9.504002
+Kerry,Division 1,2018,Kerins O`Rahilly's,12,7,1,4,223,195,28,15,kerins orahillys,52.266946,-9.71584
+Kerry,Division 1,2018,St Mary's,11,5,2,4,179,176,3,12,st marys cahirciveen,51.945362,-10.234172
+Kerry,Division 1,2018,Rathmore,11,5,1,5,214,214,0,11,rathmore,52.064615,-9.239939
+Kerry,Division 1,2018,Templenoe,11,5,1,5,168,169,-1,11,templenoe,51.861086,-9.688363
+Kerry,Division 1,2018,Spa,11,5,1,5,204,210,-6,11,spa,52.070181,-9.467903
+Kerry,Division 1,2018,An Ghaeltacht,11,5,1,5,188,214,-26,11,an ghaeltacht,52.181509,-10.364593
+Kerry,Division 1,2018,Killarney Legion,11,5,0,6,168,173,-5,10,killarney legion,52.072615,-9.508591
+Kerry,Division 1,2018,Dingle,11,5,0,6,156,149,7,10,dingle,52.137344,-10.267517
+Kerry,Division 1,2018,Beaufort,11,4,1,6,161,170,-9,9,beaufort,52.067931,-9.639333
+Kerry,Division 1,2018,John Mitchels,11,2,3,6,168,212,-44,7,john mitchels,52.247736,-9.676128
+Kerry,Division 1,2018,Glenbeigh-Glencar,11,1,2,8,138,182,-44,4,glenbeighglencar,52.058259,-9.936538
+Kerry,Division 2,2018,Austin Stacks,11,10,0,1,217,138,79,20,austin stacks,52.276604,-9.712997
+Kerry,Division 2,2018,Kilcummin,11,7,1,3,210,156,54,15,kilcummin,52.097933,-9.475604
+Kerry,Division 2,2018,Na Gaeil,11,6,3,2,191,197,-6,15,na gaeil,52.282301,-9.689736
+Kerry,Division 2,2018,Desmonds,11,7,0,4,167,178,-11,14,castleisland desmonds,52.23776,-9.464165
+Kerry,Division 2,2018,Ballymacelligott,11,4,3,4,191,182,9,11,ballymacelligott,52.252347,-9.597974
+Kerry,Division 2,2018,Glenflesk,11,4,3,4,179,175,4,11,glenflesk,52.014838,-9.362016
+Kerry,Division 2,2018,Ardfert Football Club,11,5,1,5,175,207,-32,11,ardfert,52.331234,-9.778167
+Kerry,Division 2,2018,Piarsaigh Na Dromoda,11,5,0,6,179,165,14,10,dromid pearses,51.894283,-10.088164
+Kerry,Division 2,2018,Kenmare Shamrocks,11,5,0,6,194,196,-2,10,kenmare shamrocks,51.880603,-9.569415
+Kerry,Division 2,2018,Milltown/Castlemaine,11,4,1,6,187,176,11,9,milltowncastlemaine,52.150259,-9.716193
+Kerry,Division 2,2018,Listowel Emmets,11,2,1,8,138,202,-64,5,listowel emmets,52.446928,-9.477364
+Kerry,Division 2,2018,Currow,11,0,1,10,169,225,-56,1,currow,52.180016,-9.507727
+Kerry,Division 3,2018,Brosna,11,8,1,2,158,124,34,17,brosna,52.310105,-9.260752
+Kerry,Division 3,2018,Dr. Crokes,11,7,2,2,185,155,30,16,dr crokes,52.067234,-9.504002
+Kerry,Division 3,2018,Annascaul,11,7,2,2,165,143,22,16,annascaul,52.153066,-10.047685
+Kerry,Division 3,2018,St Senan's,11,6,2,3,181,143,38,14,st senans,52.395871,-9.515667
+Kerry,Division 3,2018,St Pats Blennerville,11,4,3,4,184,186,-2,11,st pats blennerville,52.253721,-9.734663
+Kerry,Division 3,2018,Keel,11,4,3,4,135,149,-14,11,keel,52.172486,-9.773946
+Kerry,Division 3,2018,Listry,11,4,2,5,154,152,2,10,listry,52.104483,-9.631897
+Kerry,Division 3,2018,Lispole,11,4,2,5,180,180,0,10,lispole,52.142837,-10.144581
+Kerry,Division 3,2018,Ballydonoghue,11,5,0,6,157,179,-22,10,ballydonoghue,52.485994,-9.520907
+Kerry,Division 3,2018,Laune Rangers,11,3,3,5,169,179,-10,9,laune rangers,52.10535,-9.800296
+Kerry,Division 3,2018,Waterville,11,2,2,7,132,163,-31,6,waterville,51.825796,-10.161726
+Kerry,Division 3,2018,Finuge,11,1,0,10,124,171,-47,2,finuge,52.424429,-9.532278
+Kerry,Division 4,2018,Gneeveguilla,11,8,3,0,195,141,54,19,gneeveguilla,52.119719,-9.271893
+Kerry,Division 4,2018,Fossa,11,9,0,2,214,149,65,18,fossa,52.069074,-9.540538
+Kerry,Division 4,2018,Firies,12,8,1,3,258,170,88,17,firies,52.173213,-9.547032
+Kerry,Division 4,2018,Tarbert,12,7,1,4,194,185,9,15,tarbert,52.570722,-9.373495
+Kerry,Division 4,2018,Reenard,11,5,1,5,175,163,12,11,renard,51.929805,-10.251918
+Kerry,Division 4,2018,St Michael's-Foilmore,11,5,1,5,150,150,0,11,st michaelsfoilmore,51.829137,-10.268529
+Kerry,Division 4,2018,Cordal,11,5,1,5,176,180,-4,11,cordal,52.221787,-9.382273
+Kerry,Division 4,2018,Skelligs Rangers,11,4,2,5,149,153,-4,10,skelligs rangers,51.880861,-10.370082
+Kerry,Division 4,2018,Castlegregory GAA Club,11,4,2,5,179,160,19,10,castlegregory,52.259016,-10.01499
+Kerry,Division 4,2018,Beale,11,3,1,7,152,195,-43,7,beale,52.50562,-9.671694
+Kerry,Division 4,2018,Cromane,11,1,1,9,168,212,-44,3,cromane,52.103138,-9.899237
+Kerry,Division 4,2018,Ballylongford,11,1,0,10,94,246,-152,2,ballylongford,52.544152,-9.474968
+Kerry,Division 5 A,2018,Churchill,7,7,0,0,162,72,90,14,churchill,52.27494,-9.784067
+Kerry,Division 5 A,2018,Valentia Young Islanders,7,5,0,2,125,104,21,10,valentia young islanders,51.905559,-10.337565
+Kerry,Division 5 A,2018,Scartaglin,6,4,0,2,118,77,41,8,scartaglin,52.185943,-9.416772
+Kerry,Division 5 A,2018,Asdee,6,3,1,2,83,84,-1,7,asdee,52.540838,-9.55145
+Kerry,Division 5 A,2018,Austin Stacks,7,3,0,4,97,106,-9,6,austin stacks,52.276604,-9.712997
+Kerry,Division 5 A,2018,Kerins O`Rahilly's,7,2,1,4,117,131,-14,5,kerins orahillys,52.266946,-9.71584
+Kerry,Division 5 A,2018,Knocknagoshel,7,1,0,6,80,134,-54,2,knocknagoshel,52.323099,-9.383051
+Kerry,Division 5 A,2018,Kilgarvan,7,1,0,6,78,152,-74,2,kilgarvan,51.904568,-9.452148
+Kerry,Division 5 B,2018,Duagh,6,6,0,0,105,56,49,12,duagh,52.412218,-9.389008
+Kerry,Division 5 B,2018,Ballyduff,6,4,0,2,99,74,25,8,ballyduff,52.451307,-9.66994
+Kerry,Division 5 B,2018,Moyvane,6,4,0,2,67,68,-1,8,moyvane,52.49912,-9.377233
+Kerry,Division 5 B,2018,Sneem/Derrynane,6,2,0,4,79,89,-10,4,sneem,51.84283,-9.901366
+Kerry,Division 5 B,2018,Tuosist,6,2,0,4,76,92,-16,4,tuosist,51.765117,-9.765715
+Kerry,Division 5 B,2018,Rathmore,6,2,0,4,102,119,-17,4,rathmore,52.064615,-9.239939
+Kerry,Division 5 B,2018,Dingle,6,1,0,5,81,111,-30,2,dingle,52.137344,-10.267517

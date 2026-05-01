@@ -1,0 +1,743 @@
+County,Division,Year,team,pld,w,d,l,pf,pa,pd,pts,clean_team,Latitude,Longitude
+Cork,Division 1,2025,St Finbarrs,9,8,0,1,144,133,11,16,st finbarrs,51.877578,-8.498696
+Cork,Division 1,2025,Clonakilty,9,7,1,1,188,125,63,15,clonakilty,51.621193,-8.925509
+Cork,Division 1,2025,Nemo Rangers,9,7,0,2,142,121,21,14,nemo rangers,51.875648,-8.451202
+Cork,Division 1,2025,Douglas,9,4,1,4,106,106,0,9,douglas,51.874471,-8.442898
+Cork,Division 1,2025,Cill na Martra,9,4,1,4,151,152,-1,9,cill na martra,51.899095,-9.083582
+Cork,Division 1,2025,Newcestown,9,4,1,4,130,122,8,9,newcestown,51.781081,-8.863664
+Cork,Division 1,2025,Castlehaven,9,3,1,5,161,162,-1,7,castlehaven,51.5549859,-9.1453135
+Cork,Division 1,2025,Eire Og,9,2,1,6,137,159,-22,5,éire óg,51.875457,-8.669633
+Cork,Division 1,2025,Carrigaline,9,2,0,7,119,163,-44,4,carrigaline,51.811564,-8.380157
+Cork,Division 1,2025,St Michaels,9,1,0,8,137,172,-35,2,st michaels,51.889803,-8.393282
+Cork,Division 2,2025,Carbery Rangers,9,9,0,0,199,124,75,18,carbery rangers,51.584973,-9.025214
+Cork,Division 2,2025,Knocknagree,9,7,0,2,153,132,21,14,knocknagree,52.130033,-9.210267
+Cork,Division 2,2025,Dohenys,9,5,0,4,169,128,41,10,dohenys,51.714607,-9.110283
+Cork,Division 2,2025,O Donovan Rossa,9,5,0,4,161,174,-13,10,o donovan rossa,51.554668,-9.271324
+Cork,Division 2,2025,Béal Átha'n Ghaorthaidh,9,4,2,3,166,147,19,10,béal athan ghaorthaidh,51.850675,-9.23088
+Cork,Division 2,2025,Ballincollig,9,3,2,4,128,121,7,8,ballincollig,51.892668,-8.588427
+Cork,Division 2,2025,Valley Rovers,9,3,2,4,126,128,-2,8,valley rovers,51.785103,-8.691404
+Cork,Division 2,2025,Castletownbere,9,3,1,5,136,174,-38,7,castletownbere,51.643635,-9.925679
+Cork,Division 2,2025,Kanturk,9,2,1,6,138,152,-14,5,kanturk,52.181691,-8.900043
+Cork,Division 2,2025,Fermoy,9,0,0,9,116,212,-96,0,fermoy,52.143969,-8.274292
+Cork,Division 3,2025,Clyda Rovers,9,7,1,1,152,126,26,15,clyda rovers,52.082217,-8.629404
+Cork,Division 3,2025,Uibh Laoire,9,6,2,1,159,125,34,14,iveleary,51.843149,-9.12967
+Cork,Division 3,2025,Naomh Aban,9,6,0,3,160,153,7,12,naomh abán,51.943705,-9.160974
+Cork,Division 3,2025,Mallow,9,5,0,4,171,147,24,10,mallow,52.145254,-8.611229
+Cork,Division 3,2025,Newmarket,9,4,1,4,141,141,0,9,newmarket,52.213183,-8.98272
+Cork,Division 3,2025,Kilshannig,9,4,1,4,130,142,-12,9,kilshannig,52.105169,-8.746852
+Cork,Division 3,2025,Rockchapel,9,3,1,5,148,148,0,7,rockchapel,52.291442,-9.167349
+Cork,Division 3,2025,Bishopstown,9,3,1,5,150,170,-20,7,bishopstown,51.884612,-8.521593
+Cork,Division 3,2025,Kiskeam,9,2,1,6,167,168,-1,5,kiskeam,52.178037,-9.155935
+Cork,Division 3,2025,Aghada,9,1,0,8,131,189,-58,2,aghada,51.847754,-8.193244
+Cork,Division 4,2025,Aghabullogue,9,6,2,1,170,129,41,14,aghabullogue,51.906736,-8.786975
+Cork,Division 4,2025,Bandon,9,6,1,2,156,127,29,13,bandon,51.739542,-8.742455
+Cork,Division 4,2025,Macroom,9,5,2,2,151,158,-7,12,macroom,51.903656,-8.962928
+Cork,Division 4,2025,Buttevant,9,5,1,3,175,150,25,11,buttevant,52.236398,-8.673356
+Cork,Division 4,2025,Glanmire,9,5,0,4,136,136,0,10,glanmire,51.934896,-8.397989
+Cork,Division 4,2025,Adrigole,9,4,1,4,153,139,14,9,adrigole,51.684475,-9.712323
+Cork,Division 4,2025,Boherbue,9,3,2,4,139,133,6,8,boherbue,52.153027,-9.07861
+Cork,Division 4,2025,Nemo Rangers,9,3,1,5,135,136,-1,7,nemo rangers,51.875648,-8.451202
+Cork,Division 4,2025,Bantry Blues,9,3,0,6,133,159,-26,6,bantry blues,51.688064,-9.447689
+Cork,Division 4,2025,St Vincents,9,0,0,9,107,188,-81,0,st vincents,51.911086,-8.496097
+Cork,Division 5,2025,Gabriel Rangers,9,8,0,1,196,132,64,16,gabriel rangers,51.566264,-9.457202
+Cork,Division 5,2025,Kilmurry,9,8,0,1,167,116,51,16,kilmurry,51.834343,-8.877102
+Cork,Division 5,2025,Ballinora,9,7,0,2,169,146,23,14,ballinora,51.853758,-8.566739
+Cork,Division 5,2025,Ilen Rovers,9,5,1,3,149,143,6,11,ilen rovers,51.498446,-9.353486
+Cork,Division 5,2025,Kinsale,9,4,1,4,165,149,16,9,kinsale,51.710465,-8.532468
+Cork,Division 5,2025,Mitchelstown,9,4,1,4,139,146,-7,9,mitchelstown,52.275887,-8.281469
+Cork,Division 5,2025,Millstreet,9,3,0,6,150,168,-18,6,millstreet,52.061257,-9.065975
+Cork,Division 5,2025,Ballydesmond,9,2,0,7,119,169,-50,4,ballydesmond,52.17835,-9.234815
+Cork,Division 5,2025,Glanworth,9,1,1,7,100,131,-31,3,glanworthharbour rovers,52.195434,-8.361423
+Cork,Division 5,2025,Glenville,9,1,0,8,120,174,-54,2,glenville,52.0491,-8.423735
+Cork,Division 6,2025,St Nicks,9,6,2,1,153,113,40,14,st nicholas,51.916969,-8.462179
+Cork,Division 6,2025,Canovee,9,7,0,2,169,83,86,14,canovee,51.902706,-8.853864
+Cork,Division 6,2025,Cobh,9,7,0,2,145,126,19,14,cobh,51.856385,-8.285338
+Cork,Division 6,2025,Aghinagh,9,5,0,4,182,167,15,10,aghinagh,51.938635,-8.90606
+Cork,Division 6,2025,Dromtarriffe,9,3,3,3,179,163,16,9,dromtariffe,52.097898,-8.972873
+Cork,Division 6,2025,Cullen,9,4,1,4,134,125,9,9,cullen,52.114469,-9.125352
+Cork,Division 6,2025,Kildorrery,9,4,0,5,123,127,-4,8,kildorrery,52.244022,-8.428417
+Cork,Division 6,2025,Na Piarsaigh,9,2,2,5,130,164,-34,6,na piarsaigh,51.917597,-8.498522
+Cork,Division 6,2025,St Michaels,9,2,0,7,97,193,-96,4,st michaels,51.889803,-8.393282
+Cork,Division 6,2025,Mayfield,9,1,0,8,107,158,-51,2,mayfield,51.910899,-8.416721
+Cork,Division 7,2025,Argideen Rangers,9,7,0,2,143,99,44,14,argideen rangers,51.638653,-8.776489
+Cork,Division 7,2025,Kilmacabea,9,6,2,1,174,133,41,14,kilmacabea,51.584417,-9.150025
+Cork,Division 7,2025,Ballygarvan,9,5,1,3,137,134,3,11,ballygarvan,51.824437,-8.456339
+Cork,Division 7,2025,Inniscarra,9,5,1,3,147,130,17,11,inniscarra,51.926349,-8.672977
+Cork,Division 7,2025,St James,9,5,1,3,160,119,41,11,st james,51.574222,-8.907054
+Cork,Division 7,2025,Liscarroll/Churchtown Gaels,9,5,0,4,147,139,8,10,churchtown,52.270765,-8.73646
+Cork,Division 7,2025,Castlemagner,9,3,2,4,134,150,-16,8,castlemagner,52.1657,-8.823181
+Cork,Division 7,2025,Nemo Rangers,9,3,1,5,133,128,5,7,nemo rangers,51.875648,-8.451202
+Cork,Division 7,2025,Urhan,9,1,2,6,118,153,-35,4,urhan,51.693214,-9.951671
+Cork,Division 7,2025,Ballyhooly,9,0,0,9,114,222,-108,0,ballyhooly,52.149244,-8.394689
+Cork,Division 1,2024,Nemo Rangers,9,7,1,1,129,87,42,15,nemo rangers,51.875648,-8.451202
+Cork,Division 1,2024,Carrigaline,9,5,2,2,143,116,27,12,carrigaline,51.811564,-8.380157
+Cork,Division 1,2024,St Finbarrs,9,5,1,3,112,110,2,11,st finbarrs,51.877578,-8.498696
+Cork,Division 1,2024,Cill na Martra,9,4,3,2,115,131,-16,11,cill na martra,51.899095,-9.083582
+Cork,Division 1,2024,Newcestown,9,5,0,4,102,87,15,10,newcestown,51.781081,-8.863664
+Cork,Division 1,2024,Castlehaven,9,4,1,4,110,99,11,9,castlehaven,51.5549859,-9.1453135
+Cork,Division 1,2024,Eire Og,9,3,2,4,96,107,-11,8,éire óg,51.875457,-8.669633
+Cork,Division 1,2024,Douglas,9,3,0,6,95,123,-28,6,douglas,51.874471,-8.442898
+Cork,Division 1,2024,Carbery Rangers,9,2,2,5,107,128,-21,6,carbery rangers,51.584973,-9.025214
+Cork,Division 1,2024,Ballincollig,9,1,0,8,108,129,-21,2,ballincollig,51.892668,-8.588427
+Cork,Division 2,2024,Clonakilty,9,8,0,1,159,92,67,16,clonakilty,51.621193,-8.925509
+Cork,Division 2,2024,St Michaels,9,7,0,2,116,84,32,14,st michaels,51.889803,-8.393282
+Cork,Division 2,2024,Béal Átha'n Ghaorthaidh,9,6,1,2,160,132,28,13,béal athan ghaorthaidh,51.850675,-9.23088
+Cork,Division 2,2024,Valley Rovers,9,6,0,3,121,89,32,12,valley rovers,51.785103,-8.691404
+Cork,Division 2,2024,Knocknagree,9,4,2,3,117,116,1,10,knocknagree,52.130033,-9.210267
+Cork,Division 2,2024,Dohenys,9,5,0,4,118,110,8,10,dohenys,51.714607,-9.110283
+Cork,Division 2,2024,O Donovan Rossa,9,4,0,5,131,147,-16,8,o donovan rossa,51.554668,-9.271324
+Cork,Division 2,2024,Fermoy,9,2,1,6,86,135,-49,5,fermoy,52.143969,-8.274292
+Cork,Division 2,2024,Kiskeam,9,1,0,8,92,160,-68,2,kiskeam,52.178037,-9.155935
+Cork,Division 2,2024,Clyda Rovers,9,0,0,9,109,144,-35,0,clyda rovers,52.082217,-8.629404
+Cork,Division 3,2024,Kanturk,9,7,1,1,151,97,54,15,kanturk,52.181691,-8.900043
+Cork,Division 3,2024,Castletownbere,9,6,2,1,131,97,34,14,castletownbere,51.643635,-9.925679
+Cork,Division 3,2024,Mallow,9,6,0,3,154,117,37,12,mallow,52.145254,-8.611229
+Cork,Division 3,2024,Bishopstown,9,5,0,4,107,116,-9,10,bishopstown,51.884612,-8.521593
+Cork,Division 3,2024,Rockchapel,9,4,1,4,114,116,-2,9,rockchapel,52.291442,-9.167349
+Cork,Division 3,2024,Newmarket,9,3,2,4,116,134,-18,8,newmarket,52.213183,-8.98272
+Cork,Division 3,2024,Aghada,9,2,3,4,97,142,-45,7,aghada,51.847754,-8.193244
+Cork,Division 3,2024,Kilshannig,9,3,1,5,114,103,11,7,kilshannig,52.105169,-8.746852
+Cork,Division 3,2024,Macroom,9,2,2,5,123,127,-4,6,macroom,51.903656,-8.962928
+Cork,Division 3,2024,Nemo Rangers,9,0,2,7,71,129,-58,2,nemo rangers,51.875648,-8.451202
+Cork,Division 4,2024,Naomh Aban,9,6,2,1,139,95,44,14,naomh abán,51.943705,-9.160974
+Cork,Division 4,2024,Uibh Laoire,9,6,1,2,141,114,27,13,iveleary,51.843149,-9.12967
+Cork,Division 4,2024,Glanmire,9,6,1,2,144,112,32,13,glanmire,51.934896,-8.397989
+Cork,Division 4,2024,Aghabullogue,9,6,0,3,160,106,54,12,aghabullogue,51.906736,-8.786975
+Cork,Division 4,2024,Boherbue,9,4,3,2,111,106,5,11,boherbue,52.153027,-9.07861
+Cork,Division 4,2024,Bandon,9,4,0,5,117,124,-7,8,bandon,51.739542,-8.742455
+Cork,Division 4,2024,St Vincents,9,3,2,4,113,132,-19,8,st vincents,51.911086,-8.496097
+Cork,Division 4,2024,Bantry Blues,9,2,3,4,150,138,12,7,bantry blues,51.688064,-9.447689
+Cork,Division 4,2024,Ilen Rovers,9,2,0,7,115,174,-59,4,ilen rovers,51.498446,-9.353486
+Cork,Division 4,2024,Glanworth,9,0,0,9,61,150,-89,0,glanworthharbour rovers,52.195434,-8.361423
+Cork,Division 5,2024,Buttevant,9,9,0,0,168,76,92,18,buttevant,52.236398,-8.673356
+Cork,Division 5,2024,Adrigole,9,7,0,2,165,83,82,14,adrigole,51.684475,-9.712323
+Cork,Division 5,2024,Kilmurry,9,6,1,2,154,101,53,13,kilmurry,51.834343,-8.877102
+Cork,Division 5,2024,Mitchelstown,9,4,1,4,120,106,14,9,mitchelstown,52.275887,-8.281469
+Cork,Division 5,2024,Ballydesmond,9,4,0,5,86,125,-39,8,ballydesmond,52.17835,-9.234815
+Cork,Division 5,2024,Millstreet,9,3,1,5,127,141,-14,7,millstreet,52.061257,-9.065975
+Cork,Division 5,2024,Kinsale,9,3,1,5,107,128,-21,7,kinsale,51.710465,-8.532468
+Cork,Division 5,2024,Glenville,9,3,0,6,100,153,-53,6,glenville,52.0491,-8.423735
+Cork,Division 5,2024,Dromtarriffe,9,3,0,6,98,131,-33,6,dromtariffe,52.097898,-8.972873
+Cork,Division 5,2024,Na Piarsaigh,9,1,0,8,60,141,-81,2,na piarsaigh,51.917597,-8.498522
+Cork,Division 6,2024,Gabriel Rangers,7,6,0,1,96,72,24,12,gabriel rangers,51.566264,-9.457202
+Cork,Division 6,2024,Ballinora,7,6,0,1,116,75,41,12,ballinora,51.853758,-8.566739
+Cork,Division 6,2024,Aghinagh,7,4,1,2,113,75,38,9,aghinagh,51.938635,-8.90606
+Cork,Division 6,2024,Cobh,7,4,1,2,88,69,19,9,cobh,51.856385,-8.285338
+Cork,Division 6,2024,Kildorrery,7,3,0,4,97,91,6,6,kildorrery,52.244022,-8.428417
+Cork,Division 6,2024,Mayfield,7,3,0,4,96,127,-31,6,mayfield,51.910899,-8.416721
+Cork,Division 6,2024,St Nicks,7,0,1,6,43,88,-45,1,st nicholas,51.916969,-8.462179
+Cork,Division 6,2024,St Michaels,7,0,1,6,51,103,-52,1,st michaels,51.889803,-8.393282
+Cork,Division 7,2024,Canovee,7,6,0,1,138,85,53,12,canovee,51.902706,-8.853864
+Cork,Division 7,2024,Cullen,7,6,0,1,120,82,38,12,cullen,52.114469,-9.125352
+Cork,Division 7,2024,Castlemagner,7,5,0,2,95,74,21,10,castlemagner,52.1657,-8.823181
+Cork,Division 7,2024,St James,7,3,0,4,84,87,-3,6,st james,51.574222,-8.907054
+Cork,Division 7,2024,Argideen Rangers,7,3,0,4,55,63,-8,6,argideen rangers,51.638653,-8.776489
+Cork,Division 7,2024,Urhan,7,3,0,4,76,89,-13,6,urhan,51.693214,-9.951671
+Cork,Division 7,2024,Ballyhooly,7,1,0,6,82,148,-66,2,ballyhooly,52.149244,-8.394689
+Cork,Division 7,2024,St Finbarrs,7,1,0,6,75,97,-22,2,st finbarrs,51.877578,-8.498696
+Cork,Division 1,2023,Nemo Rangers,9,8,0,1,151,81,70,16,nemo rangers,51.875648,-8.451202
+Cork,Division 1,2023,St Finbarrs,9,6,1,2,118,90,28,13,st finbarrs,51.877578,-8.498696
+Cork,Division 1,2023,Douglas,9,6,1,2,108,83,25,13,douglas,51.874471,-8.442898
+Cork,Division 1,2023,Castlehaven,9,5,0,4,100,85,15,10,castlehaven,51.5549859,-9.1453135
+Cork,Division 1,2023,Cill na Martra,9,4,2,3,118,119,-1,10,cill na martra,51.899095,-9.083582
+Cork,Division 1,2023,Eire Og,9,3,1,5,102,107,-5,7,éire óg,51.875457,-8.669633
+Cork,Division 1,2023,Carbery Rangers,9,3,0,6,93,120,-27,6,carbery rangers,51.584973,-9.025214
+Cork,Division 1,2023,Ballincollig,9,3,0,6,96,140,-44,6,ballincollig,51.892668,-8.588427
+Cork,Division 1,2023,Valley Rovers,9,2,1,6,108,126,-18,5,valley rovers,51.785103,-8.691404
+Cork,Division 1,2023,Kiskeam,9,2,0,7,99,142,-43,4,kiskeam,52.178037,-9.155935
+Cork,Division 2,2023,Carrigaline,9,7,2,0,123,89,34,16,carrigaline,51.811564,-8.380157
+Cork,Division 2,2023,Clonakilty,9,5,3,1,125,105,20,13,clonakilty,51.621193,-8.925509
+Cork,Division 2,2023,Newcestown,9,6,1,2,117,88,29,13,newcestown,51.781081,-8.863664
+Cork,Division 2,2023,St Michaels,9,5,0,4,153,112,41,10,st michaels,51.889803,-8.393282
+Cork,Division 2,2023,O Donovan Rossa,9,4,2,3,118,112,6,10,o donovan rossa,51.554668,-9.271324
+Cork,Division 2,2023,Fermoy,9,4,1,4,108,105,3,9,fermoy,52.143969,-8.274292
+Cork,Division 2,2023,Béal Átha'n Ghaorthaidh,9,4,1,4,135,128,7,9,béal athan ghaorthaidh,51.850675,-9.23088
+Cork,Division 2,2023,Clyda Rovers,9,2,2,5,116,138,-22,6,clyda rovers,52.082217,-8.629404
+Cork,Division 2,2023,Kanturk,9,2,0,7,75,89,-14,4,kanturk,52.181691,-8.900043
+Cork,Division 2,2023,Aghada,9,0,0,9,89,193,-104,0,aghada,51.847754,-8.193244
+Cork,Division 3,2023,Dohenys,9,7,1,1,131,92,39,15,dohenys,51.714607,-9.110283
+Cork,Division 3,2023,Knocknagree,9,5,2,2,131,95,36,12,knocknagree,52.130033,-9.210267
+Cork,Division 3,2023,Bishopstown,9,5,2,2,100,86,14,12,bishopstown,51.884612,-8.521593
+Cork,Division 3,2023,Macroom,9,6,0,3,108,108,0,12,macroom,51.903656,-8.962928
+Cork,Division 3,2023,Mallow,9,5,0,4,148,106,42,10,mallow,52.145254,-8.611229
+Cork,Division 3,2023,Castletownbere,9,5,0,4,104,93,11,10,castletownbere,51.643635,-9.925679
+Cork,Division 3,2023,Nemo Rangers,9,3,2,4,90,99,-9,8,nemo rangers,51.875648,-8.451202
+Cork,Division 3,2023,Rockchapel,9,3,1,5,115,121,-6,7,rockchapel,52.291442,-9.167349
+Cork,Division 3,2023,Ilen Rovers,9,2,0,7,73,123,-50,4,ilen rovers,51.498446,-9.353486
+Cork,Division 3,2023,Glanworth,9,0,0,9,26,103,-77,0,glanworthharbour rovers,52.195434,-8.361423
+Cork,Division 4,2023,Kilshannig,9,9,0,0,154,78,76,18,kilshannig,52.105169,-8.746852
+Cork,Division 4,2023,Newmarket,9,8,0,1,149,99,50,16,newmarket,52.213183,-8.98272
+Cork,Division 4,2023,Aghabullogue,9,6,1,2,144,122,22,13,aghabullogue,51.906736,-8.786975
+Cork,Division 4,2023,Uibh Laoire,9,5,0,4,101,79,22,10,iveleary,51.843149,-9.12967
+Cork,Division 4,2023,St Vincents,9,4,1,4,113,121,-8,9,st vincents,51.911086,-8.496097
+Cork,Division 4,2023,Bantry Blues,9,4,0,5,95,115,-20,8,bantry blues,51.688064,-9.447689
+Cork,Division 4,2023,Bandon,9,3,0,6,129,127,2,6,bandon,51.739542,-8.742455
+Cork,Division 4,2023,Naomh Aban,9,3,0,6,122,126,-4,6,naomh abán,51.943705,-9.160974
+Cork,Division 4,2023,Mitchelstown,9,2,0,7,92,134,-42,4,mitchelstown,52.275887,-8.281469
+Cork,Division 4,2023,Na Piarsaigh,9,0,0,9,35,133,-98,0,na piarsaigh,51.917597,-8.498522
+Cork,Division 5,2023,Boherbue,9,7,1,1,117,81,36,15,boherbue,52.153027,-9.07861
+Cork,Division 5,2023,Glanmire,9,7,0,2,143,91,52,14,glanmire,51.934896,-8.397989
+Cork,Division 5,2023,Kinsale,9,5,2,2,109,99,10,12,kinsale,51.710465,-8.532468
+Cork,Division 5,2023,Adrigole,9,4,2,3,122,110,12,10,adrigole,51.684475,-9.712323
+Cork,Division 5,2023,Millstreet,9,5,0,4,128,123,5,10,millstreet,52.061257,-9.065975
+Cork,Division 5,2023,Ballydesmond,9,4,1,4,116,124,-8,9,ballydesmond,52.17835,-9.234815
+Cork,Division 5,2023,Glenville,9,4,0,5,126,124,2,8,glenville,52.0491,-8.423735
+Cork,Division 5,2023,Dromtarriffe,9,3,0,6,111,143,-32,6,dromtariffe,52.097898,-8.972873
+Cork,Division 5,2023,Ballinora,9,1,3,5,94,118,-24,5,ballinora,51.853758,-8.566739
+Cork,Division 5,2023,Mayfield,9,0,1,8,96,149,-53,1,mayfield,51.910899,-8.416721
+Cork,Division 6,2023,Kilmurry,7,6,0,1,115,66,49,12,kilmurry,51.834343,-8.877102
+Cork,Division 6,2023,Buttevant,7,5,1,1,105,79,26,11,buttevant,52.236398,-8.673356
+Cork,Division 6,2023,Gabriel Rangers,7,4,1,2,140,106,34,9,gabriel rangers,51.566264,-9.457202
+Cork,Division 6,2023,Cobh,7,3,3,1,62,60,2,9,cobh,51.856385,-8.285338
+Cork,Division 6,2023,Kildorrery,7,2,3,2,77,84,-7,7,kildorrery,52.244022,-8.428417
+Cork,Division 6,2023,St Nicks,7,2,0,5,84,126,-42,4,st nicholas,51.916969,-8.462179
+Cork,Division 6,2023,St Finbarrs,7,1,1,5,73,100,-27,3,st finbarrs,51.877578,-8.498696
+Cork,Division 6,2023,Urhan,7,0,1,6,87,122,-35,1,urhan,51.693214,-9.951671
+Cork,Division 7,2023,Aghinagh,7,4,2,1,115,81,34,10,aghinagh,51.938635,-8.90606
+Cork,Division 7,2023,St Michaels,7,5,0,2,119,115,4,10,st michaels,51.889803,-8.393282
+Cork,Division 7,2023,St James,7,4,0,3,119,86,33,8,st james,51.574222,-8.907054
+Cork,Division 7,2023,Castlemagner,7,3,2,2,91,94,-3,8,castlemagner,52.1657,-8.823181
+Cork,Division 7,2023,Cullen,7,3,1,3,105,87,18,7,cullen,52.114469,-9.125352
+Cork,Division 7,2023,Argideen Rangers,7,3,1,3,76,81,-5,7,argideen rangers,51.638653,-8.776489
+Cork,Division 7,2023,Ballinhassig,7,2,0,5,76,102,-26,4,ballinhassig,51.811207,-8.52916
+Cork,Division 7,2023,Ballyclough,7,1,0,6,62,117,-55,2,ballyclough,52.177393,-8.728641
+Cork,Division 1A,2022,St Finbarrs,9,7,0,2,160,108,52,14,st finbarrs,51.877578,-8.498696
+Cork,Division 1A,2022,Eire Og,9,5,3,1,105,83,22,13,éire óg,51.875457,-8.669633
+Cork,Division 1A,2022,Castlehaven,9,6,1,2,159,144,15,13,castlehaven,51.5549859,-9.1453135
+Cork,Division 1A,2022,Ballincollig,9,4,3,2,122,98,24,11,ballincollig,51.892668,-8.588427
+Cork,Division 1A,2022,Kiskeam,9,4,2,3,103,123,-20,10,kiskeam,52.178037,-9.155935
+Cork,Division 1A,2022,Béal Átha'n Ghaorthaidh,9,4,1,4,132,142,-10,9,béal athan ghaorthaidh,51.850675,-9.23088
+Cork,Division 1A,2022,St Michaels,9,4,1,4,136,125,11,9,st michaels,51.889803,-8.393282
+Cork,Division 1A,2022,Newcestown,9,3,0,6,104,125,-21,6,newcestown,51.781081,-8.863664
+Cork,Division 1A,2022,Fermoy,9,1,1,7,93,121,-28,3,fermoy,52.143969,-8.274292
+Cork,Division 1A,2022,Mallow,9,1,0,8,103,148,-45,2,mallow,52.145254,-8.611229
+Cork,Division 1B,2022,Nemo Rangers,9,9,0,0,141,55,86,18,nemo rangers,51.875648,-8.451202
+Cork,Division 1B,2022,Cill na Martra,9,5,2,2,127,121,6,12,cill na martra,51.899095,-9.083582
+Cork,Division 1B,2022,Valley Rovers,9,6,0,3,144,105,39,12,valley rovers,51.785103,-8.691404
+Cork,Division 1B,2022,Carbery Rangers,9,5,1,3,115,128,-13,11,carbery rangers,51.584973,-9.025214
+Cork,Division 1B,2022,Douglas,9,5,1,3,138,135,3,11,douglas,51.874471,-8.442898
+Cork,Division 1B,2022,Carrigaline,9,3,2,4,122,120,2,8,carrigaline,51.811564,-8.380157
+Cork,Division 1B,2022,O Donovan Rossa,9,3,0,6,113,110,3,6,o donovan rossa,51.554668,-9.271324
+Cork,Division 1B,2022,Clyda Rovers,9,3,0,6,86,121,-35,6,clyda rovers,52.082217,-8.629404
+Cork,Division 1B,2022,Clonakilty,9,2,0,7,96,120,-24,4,clonakilty,51.621193,-8.925509
+Cork,Division 1B,2022,Ilen Rovers,9,1,0,8,83,150,-67,2,ilen rovers,51.498446,-9.353486
+Cork,Division 2A,2022,Dohenys,9,5,3,1,133,116,17,13,dohenys,51.714607,-9.110283
+Cork,Division 2A,2022,Rockchapel,9,6,0,3,148,115,33,12,rockchapel,52.291442,-9.167349
+Cork,Division 2A,2022,Nemo Rangers,9,6,0,3,127,117,10,12,nemo rangers,51.875648,-8.451202
+Cork,Division 2A,2022,Glanworth,9,5,1,3,107,110,-3,11,glanworthharbour rovers,52.195434,-8.361423
+Cork,Division 2A,2022,Macroom,9,5,1,3,124,116,8,11,macroom,51.903656,-8.962928
+Cork,Division 2A,2022,Newmarket,9,4,1,4,166,142,24,9,newmarket,52.213183,-8.98272
+Cork,Division 2A,2022,Bandon,9,4,1,4,122,129,-7,9,bandon,51.739542,-8.742455
+Cork,Division 2A,2022,Bantry Blues,9,3,1,5,181,148,33,7,bantry blues,51.688064,-9.447689
+Cork,Division 2A,2022,St Vincents,9,2,0,7,105,157,-52,4,st vincents,51.911086,-8.496097
+Cork,Division 2A,2022,Ballydesmond,9,0,2,7,101,164,-63,2,ballydesmond,52.17835,-9.234815
+Cork,Division 2B,2022,Aghada,9,6,1,2,162,127,35,13,aghada,51.847754,-8.193244
+Cork,Division 2B,2022,Kanturk,9,6,1,2,139,93,46,13,kanturk,52.181691,-8.900043
+Cork,Division 2B,2022,Bishopstown,9,5,1,3,125,121,4,11,bishopstown,51.884612,-8.521593
+Cork,Division 2B,2022,Castletownbere,9,5,1,3,106,95,11,11,castletownbere,51.643635,-9.925679
+Cork,Division 2B,2022,Knocknagree,9,4,1,4,129,118,11,9,knocknagree,52.130033,-9.210267
+Cork,Division 2B,2022,Naomh Aban,9,4,1,4,111,139,-28,9,naomh abán,51.943705,-9.160974
+Cork,Division 2B,2022,Mitchelstown,9,4,0,5,135,135,0,8,mitchelstown,52.275887,-8.281469
+Cork,Division 2B,2022,Aghabullogue,9,3,1,5,140,135,5,7,aghabullogue,51.906736,-8.786975
+Cork,Division 2B,2022,Na Piarsaigh,9,3,1,5,116,141,-25,7,na piarsaigh,51.917597,-8.498522
+Cork,Division 2B,2022,Dromtarriffe,9,1,0,8,91,150,-59,2,dromtariffe,52.097898,-8.972873
+Cork,Division 3A,2022,Iveleary,6,4,1,1,97,78,19,9,iveleary,51.843149,-9.12967
+Cork,Division 3A,2022,Glanmire,6,4,0,2,95,81,14,8,glanmire,51.934896,-8.397989
+Cork,Division 3A,2022,Adrigole,6,4,0,2,81,85,-4,8,adrigole,51.684475,-9.712323
+Cork,Division 3A,2022,Kilshannig,6,3,1,2,97,69,28,7,kilshannig,52.105169,-8.746852
+Cork,Division 3A,2022,Kinsale,6,3,0,3,74,92,-18,6,kinsale,51.710465,-8.532468
+Cork,Division 3A,2022,Gabriel Rangers,6,2,0,4,91,107,-16,4,gabriel rangers,51.566264,-9.457202
+Cork,Division 3A,2022,Kildorrery,6,0,0,6,63,86,-23,0,kildorrery,52.244022,-8.428417
+Cork,Division 3B,2022,Millstreet,6,5,0,1,101,56,45,10,millstreet,52.061257,-9.065975
+Cork,Division 3B,2022,Boherbue,6,4,0,2,123,67,56,8,boherbue,52.153027,-9.07861
+Cork,Division 3B,2022,Glenville,6,4,0,2,64,69,-5,8,glenville,52.0491,-8.423735
+Cork,Division 3B,2022,Mayfield,6,3,0,3,67,92,-25,6,mayfield,51.910899,-8.416721
+Cork,Division 3B,2022,Ballinora,6,2,0,4,70,87,-17,4,ballinora,51.853758,-8.566739
+Cork,Division 3B,2022,St Nicks,6,1,1,4,68,93,-25,3,st nicholas,51.916969,-8.462179
+Cork,Division 3B,2022,St Finbarrs,6,1,1,4,77,106,-29,3,st finbarrs,51.877578,-8.498696
+Cork,Division 1A,2021,St Finbarrs,3,3,0,0,37,29,8,15,st finbarrs,51.877578,-8.498696
+Cork,Division 1A,2021,Eire Og,3,2,0,1,54,38,16,11,éire óg,51.875457,-8.669633
+Cork,Division 1A,2021,Nemo Rangers,3,1,0,2,46,46,0,7,nemo rangers,51.875648,-8.451202
+Cork,Division 1A,2021,Kiskeam,3,0,0,3,28,52,-24,3,kiskeam,52.178037,-9.155935
+Cork,Division 1B,2021,Clonakilty,3,3,0,0,46,33,13,15,clonakilty,51.621193,-8.925509
+Cork,Division 1B,2021,Cill na Martra,3,2,0,1,41,31,10,11,cill na martra,51.899095,-9.083582
+Cork,Division 1B,2021,St Michaels,3,1,0,2,43,46,-3,7,st michaels,51.889803,-8.393282
+Cork,Division 1B,2021,Carbery Rangers,3,0,0,3,37,57,-20,3,carbery rangers,51.584973,-9.025214
+Cork,Division 2A,2021,O Donovan Rossa,3,2,1,0,55,52,3,13,o donovan rossa,51.554668,-9.271324
+Cork,Division 2A,2021,Castlehaven,3,1,1,1,60,55,5,9,castlehaven,51.5549859,-9.1453135
+Cork,Division 2A,2021,Valley Rovers,3,1,0,2,62,65,-3,7,valley rovers,51.785103,-8.691404
+Cork,Division 2A,2021,Mallow,3,1,0,2,53,58,-5,7,mallow,52.145254,-8.611229
+Cork,Division 2B,2021,Ballincollig,3,2,1,0,48,32,16,13,ballincollig,51.892668,-8.588427
+Cork,Division 2B,2021,Newmarket,3,2,1,0,46,33,13,13,newmarket,52.213183,-8.98272
+Cork,Division 2B,2021,Béal Átha'n Ghaorthaidh,3,1,0,2,40,45,-5,7,béal athan ghaorthaidh,51.850675,-9.23088
+Cork,Division 2B,2021,Fermoy,3,0,0,3,28,52,-24,3,fermoy,52.143969,-8.274292
+Cork,Division 3A,2021,Carrigaline,3,2,0,1,47,35,12,11,carrigaline,51.811564,-8.380157
+Cork,Division 3A,2021,Kanturk,3,2,0,1,49,46,3,11,kanturk,52.181691,-8.900043
+Cork,Division 3A,2021,Clyda Rovers,3,2,0,1,40,37,3,11,clyda rovers,52.082217,-8.629404
+Cork,Division 3A,2021,Macroom,3,0,0,3,40,58,-18,3,macroom,51.903656,-8.962928
+Cork,Division 3B,2021,Newcestown,3,2,0,1,58,42,16,11,newcestown,51.781081,-8.863664
+Cork,Division 3B,2021,Douglas,3,2,0,1,51,41,10,11,douglas,51.874471,-8.442898
+Cork,Division 3B,2021,Ilen Rovers,3,2,0,1,38,45,-7,11,ilen rovers,51.498446,-9.353486
+Cork,Division 3B,2021,Aghabullogue,3,0,0,3,32,51,-19,3,aghabullogue,51.906736,-8.786975
+Cork,Division 4A,2021,Dohenys,3,3,0,0,58,20,38,15,dohenys,51.714607,-9.110283
+Cork,Division 4A,2021,Aghada,3,2,0,1,55,54,1,11,aghada,51.847754,-8.193244
+Cork,Division 4A,2021,Nemo Rangers,3,1,0,2,59,59,0,7,nemo rangers,51.875648,-8.451202
+Cork,Division 4A,2021,Glanworth,3,0,0,3,27,66,-39,3,glanworthharbour rovers,52.195434,-8.361423
+Cork,Division 4B,2021,Naomh Aban,3,2,0,1,37,33,4,11,naomh abán,51.943705,-9.160974
+Cork,Division 4B,2021,Bandon,3,2,0,1,27,23,4,11,bandon,51.739542,-8.742455
+Cork,Division 4B,2021,Bishopstown,3,1,0,2,34,43,-9,7,bishopstown,51.884612,-8.521593
+Cork,Division 4B,2021,Rockchapel,3,1,0,2,30,29,1,6,rockchapel,52.291442,-9.167349
+Cork,Division 5A,2021,Bantry Blues,3,3,0,0,54,33,21,15,bantry blues,51.688064,-9.447689
+Cork,Division 5A,2021,Kinsale,3,2,0,1,50,45,5,11,kinsale,51.710465,-8.532468
+Cork,Division 5A,2021,St Vincents,3,1,0,2,57,52,5,7,st vincents,51.911086,-8.496097
+Cork,Division 5A,2021,St Nicks,3,0,0,3,29,60,-31,3,st nicholas,51.916969,-8.462179
+Cork,Division 5B,2021,Mitchelstown,3,3,0,0,32,23,9,15,mitchelstown,52.275887,-8.281469
+Cork,Division 5B,2021,Knocknagree,3,2,0,1,60,36,24,11,knocknagree,52.130033,-9.210267
+Cork,Division 5B,2021,Gabriel Rangers,3,1,0,2,33,45,-12,7,gabriel rangers,51.566264,-9.457202
+Cork,Division 5B,2021,Dromtarriffe,3,0,0,3,24,45,-21,2,dromtariffe,52.097898,-8.972873
+Cork,Division 6A,2021,Ballinora,3,3,0,0,60,31,29,15,ballinora,51.853758,-8.566739
+Cork,Division 6A,2021,Mayfield,3,1,1,1,32,41,-9,9,mayfield,51.910899,-8.416721
+Cork,Division 6A,2021,St Finbarrs,3,1,0,2,31,42,-11,7,st finbarrs,51.877578,-8.498696
+Cork,Division 6A,2021,Glenville,3,0,1,2,40,49,-9,5,glenville,52.0491,-8.423735
+Cork,Division 6B,2021,Na Piarsaigh,3,2,0,1,42,43,-1,11,na piarsaigh,51.917597,-8.498522
+Cork,Division 6B,2021,Kilshannig,3,2,0,1,53,37,16,11,kilshannig,52.105169,-8.746852
+Cork,Division 6B,2021,Kildorrery,3,1,1,1,41,42,-1,9,kildorrery,52.244022,-8.428417
+Cork,Division 6B,2021,Grenagh,3,0,1,2,45,59,-14,5,grenagh,52.010784,-8.61323
+Cork,Division 7,2021,Glanmire,4,4,0,0,80,39,41,20,glanmire,51.934896,-8.397989
+Cork,Division 7,2021,Castletownbere,4,3,0,1,70,59,11,16,castletownbere,51.643635,-9.925679
+Cork,Division 7,2021,Adrigole,4,2,0,2,68,58,10,12,adrigole,51.684475,-9.712323
+Cork,Division 7,2021,Ballydesmond,4,1,0,3,66,82,-16,8,ballydesmond,52.17835,-9.234815
+Cork,Division 7,2021,Millstreet,4,0,0,4,45,91,-46,4,millstreet,52.061257,-9.065975
+Cork,Division 1,2019,St Finbarrs,10,7,1,2,170,105,65,40,st finbarrs,51.877578,-8.498696
+Cork,Division 1,2019,Cill na Martra,10,6,2,2,140,130,10,38,cill na martra,51.899095,-9.083582
+Cork,Division 1,2019,Nemo Rangers,10,6,0,4,150,122,28,34,nemo rangers,51.875648,-8.451202
+Cork,Division 1,2019,Kiskeam,10,4,4,2,155,140,15,34,kiskeam,52.178037,-9.155935
+Cork,Division 1,2019,Carbery Rangers,10,6,0,4,152,132,20,33,carbery rangers,51.584973,-9.025214
+Cork,Division 1,2019,St Michaels,10,5,0,5,185,157,28,30,st michaels,51.889803,-8.393282
+Cork,Division 1,2019,Ballincollig,10,4,1,5,144,147,-3,28,ballincollig,51.892668,-8.588427
+Cork,Division 1,2019,Clonakilty,10,4,1,5,136,185,-49,28,clonakilty,51.621193,-8.925509
+Cork,Division 1,2019,O Donovan Rossa,10,3,1,6,129,154,-25,24,o donovan rossa,51.554668,-9.271324
+Cork,Division 1,2019,Valley Rovers,10,3,0,7,118,183,-65,22,valley rovers,51.785103,-8.691404
+Cork,Division 1,2019,Béal Átha'n Ghaorthaidh,10,2,0,8,137,161,-24,18,béal athan ghaorthaidh,51.850675,-9.23088
+Cork,Division 4,2019,Knocknagree,10,9,0,1,192,95,97,46,knocknagree,52.130033,-9.210267
+Cork,Division 4,2019,Castletownbere,10,9,0,1,158,119,39,46,castletownbere,51.643635,-9.925679
+Cork,Division 4,2019,Mitchelstown,10,6,0,4,174,154,20,34,mitchelstown,52.275887,-8.281469
+Cork,Division 4,2019,Bantry Blues,10,6,0,4,131,130,1,34,bantry blues,51.688064,-9.447689
+Cork,Division 4,2019,Ballydesmond,10,4,1,5,162,160,2,28,ballydesmond,52.17835,-9.234815
+Cork,Division 4,2019,Kinsale,10,4,1,5,139,169,-30,28,kinsale,51.710465,-8.532468
+Cork,Division 4,2019,Gabriel Rangers,10,4,0,6,157,150,7,26,gabriel rangers,51.566264,-9.457202
+Cork,Division 4,2019,Mayfield,10,4,0,6,198,193,5,26,mayfield,51.910899,-8.416721
+Cork,Division 4,2019,Glenville,10,3,0,7,114,134,-20,22,glenville,52.0491,-8.423735
+Cork,Division 4,2019,Kildorrery,10,2,1,7,126,165,-39,19,kildorrery,52.244022,-8.428417
+Cork,Division 4,2019,Grenagh,10,2,1,7,90,172,-82,19,grenagh,52.010784,-8.61323
+Cork,Division 5,2019,Na Piarsaigh,8,6,2,0,122,76,46,36,na piarsaigh,51.917597,-8.498522
+Cork,Division 5,2019,Dromtarriffe,8,7,0,1,117,75,42,36,dromtariffe,52.097898,-8.972873
+Cork,Division 5,2019,Millstreet,8,5,0,3,143,102,41,28,millstreet,52.061257,-9.065975
+Cork,Division 5,2019,Ballinora,8,4,1,3,112,94,18,26,ballinora,51.853758,-8.566739
+Cork,Division 5,2019,Adrigole,8,4,1,3,99,103,-4,26,adrigole,51.684475,-9.712323
+Cork,Division 5,2019,St Finbarrs,8,3,0,5,72,100,-28,18,st finbarrs,51.877578,-8.498696
+Cork,Division 5,2019,Glanmire,8,2,0,6,100,131,-31,16,glanmire,51.934896,-8.397989
+Cork,Division 5,2019,St Nicks,8,2,0,6,80,109,-29,15,st nicholas,51.916969,-8.462179
+Cork,Division 5,2019,Youghal,8,1,0,7,88,143,-55,12,youghal,51.952536,-7.860442
+Cork,Division 1,2018,Nemo Rangers,10,8,1,1,186,97,89,17,nemo rangers,51.875648,-8.451202
+Cork,Division 1,2018,St Finbarrs,10,6,2,1,153,103,50,13,st finbarrs,51.877578,-8.498696
+Cork,Division 1,2018,Ballincollig,10,5,1,3,150,109,41,13,ballincollig,51.892668,-8.588427
+Cork,Division 1,2018,Valley Rovers,10,6,3,1,190,150,40,13,valley rovers,51.785103,-8.691404
+Cork,Division 1,2018,Carbery Rangers,10,5,3,2,122,127,-5,12,carbery rangers,51.584973,-9.025214
+Cork,Division 1,2018,O Donovan Rossa,10,4,4,2,170,157,13,10,o donovan rossa,51.554668,-9.271324
+Cork,Division 1,2018,Cill na Martra,10,3,3,4,170,161,9,10,cill na martra,51.899095,-9.083582
+Cork,Division 1,2018,Béal Átha'n Ghaorthaidh,10,2,5,3,138,179,-41,7,béal athan ghaorthaidh,51.850675,-9.23088
+Cork,Division 1,2018,Clonakilty,10,3,7,0,106,143,-37,6,clonakilty,51.621193,-8.925509
+Cork,Division 1,2018,Macroom,10,2,8,0,106,188,-82,4,macroom,51.903656,-8.962928
+Cork,Division 1,2018,Mallow,10,1,8,1,111,188,-77,3,mallow,52.145254,-8.611229
+Cork,Division 2,2018,St Michaels,11,7,1,3,171,136,35,17,st michaels,51.889803,-8.393282
+Cork,Division 2,2018,Kiskeam,11,7,3,1,154,146,8,15,kiskeam,52.178037,-9.155935
+Cork,Division 2,2018,Newmarket,10,6,3,1,133,124,9,13,newmarket,52.213183,-8.98272
+Cork,Division 2,2018,Eire Og,10,6,3,1,114,112,2,13,éire óg,51.875457,-8.669633
+Cork,Division 2,2018,Castlehaven,10,5,3,1,151,103,48,11,castlehaven,51.5549859,-9.1453135
+Cork,Division 2,2018,Newcestown,10,4,4,2,118,103,15,10,newcestown,51.781081,-8.863664
+Cork,Division 2,2018,Aghabullogue,10,4,6,0,100,111,-11,8,aghabullogue,51.906736,-8.786975
+Cork,Division 2,2018,Kanturk,10,4,6,0,110,124,-14,8,kanturk,52.181691,-8.900043
+Cork,Division 2,2018,Clyda Rovers,10,3,5,1,138,131,7,7,clyda rovers,52.082217,-8.629404
+Cork,Division 2,2018,Douglas,10,2,8,0,132,168,-36,4,douglas,51.874471,-8.442898
+Cork,Division 2,2018,Ilen Rovers,10,1,7,2,128,191,-63,4,ilen rovers,51.498446,-9.353486
+Cork,Division 3,2018,Carrigaline,11,8,2,1,184,119,65,17,carrigaline,51.811564,-8.380157
+Cork,Division 3,2018,Fermoy,11,8,2,1,137,108,29,17,fermoy,52.143969,-8.274292
+Cork,Division 3,2018,Nemo Rangers,10,6,2,1,137,101,36,13,nemo rangers,51.875648,-8.451202
+Cork,Division 3,2018,Dohenys,10,6,4,0,116,100,16,12,dohenys,51.714607,-9.110283
+Cork,Division 3,2018,Naomh Aban,10,5,2,2,128,118,10,12,naomh abán,51.943705,-9.160974
+Cork,Division 3,2018,Rockchapel,10,3,4,3,136,161,-25,9,rockchapel,52.291442,-9.167349
+Cork,Division 3,2018,Bandon,10,4,6,0,135,149,-14,8,bandon,51.739542,-8.742455
+Cork,Division 3,2018,Glanworth,10,3,6,1,99,98,1,7,glanworthharbour rovers,52.195434,-8.361423
+Cork,Division 3,2018,Bishopstown,10,3,6,1,122,135,-13,7,bishopstown,51.884612,-8.521593
+Cork,Division 3,2018,Bantry Blues,10,3,7,0,111,160,-49,6,bantry blues,51.688064,-9.447689
+Cork,Division 3,2018,Castletownbere,10,1,9,0,60,116,-56,2,castletownbere,51.643635,-9.925679
+Cork,Division 4,2018,Aghada,10,7,2,1,127,107,20,15,aghada,51.847754,-8.193244
+Cork,Division 4,2018,St Vincents,10,6,2,2,159,137,22,14,st vincents,51.911086,-8.496097
+Cork,Division 4,2018,Kinsale,10,6,3,1,133,109,24,13,kinsale,51.710465,-8.532468
+Cork,Division 4,2018,Mitchelstown,10,4,3,3,149,115,34,11,mitchelstown,52.275887,-8.281469
+Cork,Division 4,2018,Ballydesmond,10,4,5,1,173,173,0,9,ballydesmond,52.17835,-9.234815
+Cork,Division 4,2018,Glenville,10,4,5,1,112,117,-5,9,glenville,52.0491,-8.423735
+Cork,Division 4,2018,Gabriel Rangers,11,4,6,1,147,174,-27,9,gabriel rangers,51.566264,-9.457202
+Cork,Division 4,2018,Grenagh,12,4,6,1,143,189,-46,9,grenagh,52.010784,-8.61323
+Cork,Division 4,2018,Kildorrery,10,4,6,0,127,122,5,8,kildorrery,52.244022,-8.428417
+Cork,Division 4,2018,Ballinora,11,3,5,1,119,134,-15,7,ballinora,51.853758,-8.566739
+Cork,Division 4,2018,Na Piarsaigh,10,3,6,0,103,115,-12,6,na piarsaigh,51.917597,-8.498522
+Cork,Division 5,2018,Knocknagree,10,8,0,0,106,37,69,16,knocknagree,52.130033,-9.210267
+Cork,Division 5,2018,Mayfield,10,6,2,1,103,84,19,13,mayfield,51.910899,-8.416721
+Cork,Division 5,2018,Millstreet,9,5,1,0,94,59,35,10,millstreet,52.061257,-9.065975
+Cork,Division 5,2018,St Nicks,9,5,4,0,116,107,9,10,st nicholas,51.916969,-8.462179
+Cork,Division 5,2018,St Finbarrs,9,3,4,1,138,123,15,7,st finbarrs,51.877578,-8.498696
+Cork,Division 5,2018,Glanmire,9,3,4,1,98,133,-35,7,glanmire,51.934896,-8.397989
+Cork,Division 5,2018,Youghal,9,2,4,2,77,93,-16,6,youghal,51.952536,-7.860442
+Cork,Division 5,2018,Adrigole,9,2,4,2,83,103,-20,6,adrigole,51.684475,-9.712323
+Cork,Division 5,2018,Carrigaline,9,0,4,2,45,70,-25,2,carrigaline,51.811564,-8.380157
+Cork,Division 5,2018,Clonakilty,9,0,7,1,34,85,-51,1,clonakilty,51.621193,-8.925509
+Cork,Division 1,2017,Ballincollig,10,7,1,1,160,123,37,15,ballincollig,51.892668,-8.588427
+Cork,Division 1,2017,Carbery Rangers,10,7,2,1,168,133,35,15,carbery rangers,51.584973,-9.025214
+Cork,Division 1,2017,Clonakilty,10,5,3,2,122,112,10,12,clonakilty,51.621193,-8.925509
+Cork,Division 1,2017,Valley Rovers,9,5,3,1,142,137,5,11,valley rovers,51.785103,-8.691404
+Cork,Division 1,2017,Nemo Rangers,9,4,4,1,140,123,17,9,nemo rangers,51.875648,-8.451202
+Cork,Division 1,2017,O Donovan Rossa,9,4,4,1,136,129,7,9,o donovan rossa,51.554668,-9.271324
+Cork,Division 1,2017,St Finbarrs,9,4,5,0,121,126,-5,8,st finbarrs,51.877578,-8.498696
+Cork,Division 1,2017,Béal Átha'n Ghaorthaidh,10,3,5,2,150,173,-23,8,béal athan ghaorthaidh,51.850675,-9.23088
+Cork,Division 1,2017,Mallow,9,3,5,0,100,102,-2,6,mallow,52.145254,-8.611229
+Cork,Division 1,2017,Ilen Rovers,9,3,6,0,111,149,-38,6,ilen rovers,51.498446,-9.353486
+Cork,Division 1,2017,Castlehaven,10,1,8,1,132,175,-43,3,castlehaven,51.5549859,-9.1453135
+Cork,Division 2,2017,Cill na Martra,10,10,0,0,195,141,54,20,cill na martra,51.899095,-9.083582
+Cork,Division 2,2017,Macroom,10,8,2,0,148,124,24,16,macroom,51.903656,-8.962928
+Cork,Division 2,2017,Kiskeam,10,8,2,0,122,116,6,16,kiskeam,52.178037,-9.155935
+Cork,Division 2,2017,Douglas,10,6,3,1,132,109,23,13,douglas,51.874471,-8.442898
+Cork,Division 2,2017,Clyda Rovers,9,4,4,1,115,107,8,9,clyda rovers,52.082217,-8.629404
+Cork,Division 2,2017,St Michaels,10,4,5,1,163,183,-20,9,st michaels,51.889803,-8.393282
+Cork,Division 2,2017,Kanturk,10,3,6,1,91,100,-9,7,kanturk,52.181691,-8.900043
+Cork,Division 2,2017,Newcestown,10,3,7,0,104,128,-24,6,newcestown,51.781081,-8.863664
+Cork,Division 2,2017,Eire Og,9,2,6,1,71,83,-12,5,éire óg,51.875457,-8.669633
+Cork,Division 2,2017,Bishopstown,10,2,8,0,109,131,-22,4,bishopstown,51.884612,-8.521593
+Cork,Division 2,2017,Naomh Aban,10,1,8,1,149,177,-28,3,naomh abán,51.943705,-9.160974
+Cork,Division 3,2017,Newmarket,10,7,1,2,124,118,6,15,newmarket,52.213183,-8.98272
+Cork,Division 3,2017,Aghabullogue,10,7,0,3,171,119,52,14,aghabullogue,51.906736,-8.786975
+Cork,Division 3,2017,Bantry Blues,10,6,1,3,122,119,3,13,bantry blues,51.688064,-9.447689
+Cork,Division 3,2017,Nemo Rangers,10,5,2,3,154,162,-8,12,nemo rangers,51.875648,-8.451202
+Cork,Division 3,2017,Glanworth,10,5,2,3,133,116,17,12,glanworthharbour rovers,52.195434,-8.361423
+Cork,Division 3,2017,Fermoy,10,3,3,4,147,141,6,9,fermoy,52.143969,-8.274292
+Cork,Division 3,2017,Carrigaline,10,4,1,5,146,144,2,9,carrigaline,51.811564,-8.380157
+Cork,Division 3,2017,Dohenys,10,4,1,5,123,135,-12,9,dohenys,51.714607,-9.110283
+Cork,Division 3,2017,Rockchapel,10,3,2,5,114,145,-31,8,rockchapel,52.291442,-9.167349
+Cork,Division 3,2017,Aghada,10,3,1,6,122,135,-13,7,aghada,51.847754,-8.193244
+Cork,Division 3,2017,St Vincents,10,1,0,9,80,102,-22,2,st vincents,51.911086,-8.496097
+Cork,Division 4,2017,Bandon,10,9,0,1,181,113,68,18,bandon,51.739542,-8.742455
+Cork,Division 4,2017,Castletownbere,10,7,1,2,162,121,41,15,castletownbere,51.643635,-9.925679
+Cork,Division 4,2017,Glenville,10,6,1,3,141,138,3,13,glenville,52.0491,-8.423735
+Cork,Division 4,2017,Na Piarsaigh,10,5,1,4,134,100,34,11,na piarsaigh,51.917597,-8.498522
+Cork,Division 4,2017,Mitchelstown,10,4,1,4,123,118,5,9,mitchelstown,52.275887,-8.281469
+Cork,Division 4,2017,Kildorrery,9,4,1,3,98,93,5,9,kildorrery,52.244022,-8.428417
+Cork,Division 4,2017,Kinsale,10,4,0,6,79,151,-72,8,kinsale,51.710465,-8.532468
+Cork,Division 4,2017,Ballydesmond,10,4,0,6,72,95,-23,8,ballydesmond,52.17835,-9.234815
+Cork,Division 4,2017,Ballinora,9,3,0,6,111,131,-20,6,ballinora,51.853758,-8.566739
+Cork,Division 4,2017,Mayfield,10,2,1,6,104,109,-5,5,mayfield,51.910899,-8.416721
+Cork,Division 4,2017,St Nicks,10,1,0,8,90,126,-36,2,st nicholas,51.916969,-8.462179
+Cork,Division 5,2017,Grenagh,9,9,0,0,143,90,53,18,grenagh,52.010784,-8.61323
+Cork,Division 5,2017,Gabriel Rangers,9,7,0,2,160,119,41,14,gabriel rangers,51.566264,-9.457202
+Cork,Division 5,2017,St Finbarrs,8,5,0,3,114,101,13,10,st finbarrs,51.877578,-8.498696
+Cork,Division 5,2017,Glanmire,9,5,0,4,147,118,29,10,glanmire,51.934896,-8.397989
+Cork,Division 5,2017,Clonakilty,8,4,0,4,76,87,-11,8,clonakilty,51.621193,-8.925509
+Cork,Division 5,2017,Adrigole,9,3,0,5,91,98,-7,6,adrigole,51.684475,-9.712323
+Cork,Division 5,2017,Millstreet,8,3,0,5,93,126,-33,6,millstreet,52.061257,-9.065975
+Cork,Division 5,2017,Youghal,9,2,0,5,43,55,-12,4,youghal,51.952536,-7.860442
+Cork,Division 5,2017,Carrigaline,8,1,0,5,64,102,-38,2,carrigaline,51.811564,-8.380157
+Cork,Division 5,2017,Douglas,9,0,0,6,39,74,-35,0,douglas,51.874471,-8.442898
+Cork,Division 1,2016,Carbery Rangers,14,10,2,1,217,164,53,21,carbery rangers,51.584973,-9.025214
+Cork,Division 1,2016,Nemo Rangers,15,10,4,1,226,184,42,21,nemo rangers,51.875648,-8.451202
+Cork,Division 1,2016,Castlehaven,14,10,2,0,200,145,55,20,castlehaven,51.5549859,-9.1453135
+Cork,Division 1,2016,Valley Rovers,13,9,4,0,187,163,24,18,valley rovers,51.785103,-8.691404
+Cork,Division 1,2016,Clonakilty,13,8,4,1,170,146,24,17,clonakilty,51.621193,-8.925509
+Cork,Division 1,2016,Ballincollig,13,7,2,3,152,137,15,17,ballincollig,51.892668,-8.588427
+Cork,Division 1,2016,St Finbarrs,13,7,5,1,201,168,33,15,st finbarrs,51.877578,-8.498696
+Cork,Division 1,2016,O Donovan Rossa,13,7,6,0,202,150,52,14,o donovan rossa,51.554668,-9.271324
+Cork,Division 1,2016,Ilen Rovers,13,5,7,1,154,193,-39,11,ilen rovers,51.498446,-9.353486
+Cork,Division 1,2016,Newcestown,13,4,9,0,129,151,-22,8,newcestown,51.781081,-8.863664
+Cork,Division 1,2016,Bishopstown,13,3,8,2,161,202,-41,8,bishopstown,51.884612,-8.521593
+Cork,Division 1,2016,Clyda Rovers,13,2,10,1,138,196,-58,5,clyda rovers,52.082217,-8.629404
+Cork,Division 1,2016,Naomh Aban,13,2,11,0,136,209,-73,4,naomh abán,51.943705,-9.160974
+Cork,Division 1,2016,Douglas,13,1,11,1,105,170,-65,3,douglas,51.874471,-8.442898
+Cork,Division 2,2016,Mallow,13,12,1,0,275,169,106,24,mallow,52.145254,-8.611229
+Cork,Division 2,2016,Béal Átha'n Ghaorthaidh,13,10,2,1,191,132,59,21,béal athan ghaorthaidh,51.850675,-9.23088
+Cork,Division 2,2016,Macroom,12,9,2,1,150,126,24,19,macroom,51.903656,-8.962928
+Cork,Division 2,2016,Kiskeam,12,7,3,2,183,139,44,16,kiskeam,52.178037,-9.155935
+Cork,Division 2,2016,Eire Og,12,8,4,0,154,129,25,16,éire óg,51.875457,-8.669633
+Cork,Division 2,2016,Fermoy,12,5,7,0,120,115,5,10,fermoy,52.143969,-8.274292
+Cork,Division 2,2016,Cill na Martra,12,5,7,0,128,141,-13,10,cill na martra,51.899095,-9.083582
+Cork,Division 2,2016,Newmarket,12,5,7,0,145,176,-31,10,newmarket,52.213183,-8.98272
+Cork,Division 2,2016,Aghada,12,4,7,1,169,178,-9,9,aghada,51.847754,-8.193244
+Cork,Division 2,2016,Carrigaline,12,3,7,2,152,155,-3,8,carrigaline,51.811564,-8.380157
+Cork,Division 2,2016,Nemo Rangers,12,3,8,0,142,213,-71,6,nemo rangers,51.875648,-8.451202
+Cork,Division 2,2016,Bantry Blues,12,2,9,0,109,148,-39,4,bantry blues,51.688064,-9.447689
+Cork,Division 2,2016,Dohenys,12,1,10,1,126,223,-97,3,dohenys,51.714607,-9.110283
+Cork,Division 3,2016,Kanturk,13,13,0,0,227,119,108,26,kanturk,52.181691,-8.900043
+Cork,Division 3,2016,St Michaels,13,10,3,0,253,190,63,20,st michaels,51.889803,-8.393282
+Cork,Division 3,2016,Aghabullogue,12,6,4,2,157,143,14,14,aghabullogue,51.906736,-8.786975
+Cork,Division 3,2016,Rockchapel,12,7,5,0,156,150,6,14,rockchapel,52.291442,-9.167349
+Cork,Division 3,2016,Glanworth,10,6,4,0,132,114,18,12,glanworthharbour rovers,52.195434,-8.361423
+Cork,Division 3,2016,Glenville,12,5,6,1,156,146,10,11,glenville,52.0491,-8.423735
+Cork,Division 3,2016,St Vincents,12,5,7,0,149,164,-15,10,st vincents,51.911086,-8.496097
+Cork,Division 3,2016,Kildorrery,11,4,6,1,90,110,-20,9,kildorrery,52.244022,-8.428417
+Cork,Division 3,2016,Kinsale,12,4,7,1,78,150,-72,9,kinsale,51.710465,-8.532468
+Cork,Division 3,2016,Castletownbere,12,4,7,0,108,122,-14,8,castletownbere,51.643635,-9.925679
+Cork,Division 3,2016,Ballinora,11,3,6,2,134,160,-26,8,ballinora,51.853758,-8.566739
+Cork,Division 3,2016,Mitchelstown,12,3,8,1,133,149,-16,7,mitchelstown,52.275887,-8.281469
+Cork,Division 3,2016,St Nicks,12,2,9,0,109,165,-56,4,st nicholas,51.916969,-8.462179
+Cork,Division 4,2016,Bandon,13,11,2,0,173,114,59,22,bandon,51.739542,-8.742455
+Cork,Division 4,2016,Na Piarsaigh,13,9,1,2,226,140,86,20,na piarsaigh,51.917597,-8.498522
+Cork,Division 4,2016,Ballydesmond,12,9,3,0,152,110,42,18,ballydesmond,52.17835,-9.234815
+Cork,Division 4,2016,Mayfield,12,8,4,0,180,133,47,16,mayfield,51.910899,-8.416721
+Cork,Division 4,2016,Clonakilty,11,6,5,0,107,104,3,12,clonakilty,51.621193,-8.925509
+Cork,Division 4,2016,St Finbarrs,11,5,4,2,164,170,-6,12,st finbarrs,51.877578,-8.498696
+Cork,Division 4,2016,Adrigole,11,4,4,2,88,114,-26,10,adrigole,51.684475,-9.712323
+Cork,Division 4,2016,Youghal,12,5,7,0,105,147,-42,10,youghal,51.952536,-7.860442
+Cork,Division 4,2016,Grenagh,12,4,8,0,132,129,3,8,grenagh,52.010784,-8.61323
+Cork,Division 4,2016,Glanmire,12,4,8,0,135,157,-22,8,glanmire,51.934896,-8.397989
+Cork,Division 4,2016,Millstreet,11,3,7,1,169,192,-23,7,millstreet,52.061257,-9.065975
+Cork,Division 4,2016,Carrigaline,12,2,9,1,117,190,-73,5,carrigaline,51.811564,-8.380157
+Cork,Division 4,2016,Douglas,12,2,10,0,129,177,-48,4,douglas,51.874471,-8.442898
+Cork,Division 1,2015,O Donovan Rossa,11,7,4,0,166,143,23,14,o donovan rossa,51.554668,-9.271324
+Cork,Division 1,2015,Carbery Rangers,10,6,2,1,114,105,9,13,carbery rangers,51.584973,-9.025214
+Cork,Division 1,2015,Castlehaven,9,6,3,0,153,113,40,12,castlehaven,51.5549859,-9.1453135
+Cork,Division 1,2015,Nemo Rangers,10,5,4,1,137,120,17,11,nemo rangers,51.875648,-8.451202
+Cork,Division 1,2015,St Finbarrs,11,5,5,1,143,151,-8,11,st finbarrs,51.877578,-8.498696
+Cork,Division 1,2015,Valley Rovers,10,5,5,0,88,85,3,10,valley rovers,51.785103,-8.691404
+Cork,Division 1,2015,Clyda Rovers,11,5,6,0,104,112,-8,10,clyda rovers,52.082217,-8.629404
+Cork,Division 1,2015,Bishopstown,11,5,5,0,118,140,-22,10,bishopstown,51.884612,-8.521593
+Cork,Division 1,2015,Douglas,11,4,6,1,119,141,-22,9,douglas,51.874471,-8.442898
+Cork,Division 1,2015,Newcestown,10,4,6,0,124,123,1,8,newcestown,51.781081,-8.863664
+Cork,Division 1,2015,Ilen Rovers,11,4,7,0,162,161,1,8,ilen rovers,51.498446,-9.353486
+Cork,Division 1,2015,Clonakilty,11,4,7,0,104,138,-34,8,clonakilty,51.621193,-8.925509
+Cork,Division 2,2015,Ballincollig,11,10,0,1,187,111,76,21,ballincollig,51.892668,-8.588427
+Cork,Division 2,2015,Naomh Aban,11,7,3,1,175,157,18,15,naomh abán,51.943705,-9.160974
+Cork,Division 2,2015,Béal Átha'n Ghaorthaidh,11,6,3,2,175,167,8,14,béal athan ghaorthaidh,51.850675,-9.23088
+Cork,Division 2,2015,Kiskeam,11,6,4,1,178,160,18,13,kiskeam,52.178037,-9.155935
+Cork,Division 2,2015,Dohenys,11,6,4,1,175,152,23,13,dohenys,51.714607,-9.110283
+Cork,Division 2,2015,Macroom,11,5,6,0,151,158,-7,10,macroom,51.903656,-8.962928
+Cork,Division 2,2015,Eire Og,11,5,6,0,170,174,-4,10,éire óg,51.875457,-8.669633
+Cork,Division 2,2015,Fermoy,11,4,7,0,156,165,-9,8,fermoy,52.143969,-8.274292
+Cork,Division 2,2015,Aghada,11,4,7,0,134,151,-17,8,aghada,51.847754,-8.193244
+Cork,Division 2,2015,Nemo Rangers,11,4,7,0,111,160,-49,8,nemo rangers,51.875648,-8.451202
+Cork,Division 2,2015,Bantry Blues,11,3,8,0,142,186,-44,6,bantry blues,51.688064,-9.447689
+Cork,Division 2,2015,Newmarket,11,3,8,0,145,158,-13,6,newmarket,52.213183,-8.98272
+Cork,Division 3,2015,Mallow,9,9,0,0,174,76,98,18,mallow,52.145254,-8.611229
+Cork,Division 3,2015,Cill na Martra,10,8,1,1,122,88,34,17,cill na martra,51.899095,-9.083582
+Cork,Division 3,2015,Carrigaline,11,7,4,0,122,130,-8,14,carrigaline,51.811564,-8.380157
+Cork,Division 3,2015,Glanworth,10,6,3,1,136,117,19,13,glanworthharbour rovers,52.195434,-8.361423
+Cork,Division 3,2015,St Michaels,11,5,5,1,133,126,7,11,st michaels,51.889803,-8.393282
+Cork,Division 3,2015,St Vincents,11,5,6,0,141,163,-22,10,st vincents,51.911086,-8.496097
+Cork,Division 3,2015,Castletownbere,11,4,5,2,120,109,11,10,castletownbere,51.643635,-9.925679
+Cork,Division 3,2015,Mitchelstown,11,4,5,1,120,154,-34,9,mitchelstown,52.275887,-8.281469
+Cork,Division 3,2015,Glenville,11,3,7,1,118,154,-36,7,glenville,52.0491,-8.423735
+Cork,Division 3,2015,Ballinora,11,3,7,1,94,103,-9,7,ballinora,51.853758,-8.566739
+Cork,Division 3,2015,Kinsale,11,3,8,0,128,177,-49,6,kinsale,51.710465,-8.532468
+Cork,Division 3,2015,St Nicks,9,1,7,0,99,110,-11,2,st nicholas,51.916969,-8.462179
+Cork,Division 4,2015,Kanturk,11,10,1,0,186,109,77,20,kanturk,52.181691,-8.900043
+Cork,Division 4,2015,Aghabullogue,11,9,2,0,165,127,38,18,aghabullogue,51.906736,-8.786975
+Cork,Division 4,2015,Rockchapel,11,8,2,1,158,136,22,17,rockchapel,52.291442,-9.167349
+Cork,Division 4,2015,Kildorrery,11,6,4,1,152,140,12,13,kildorrery,52.244022,-8.428417
+Cork,Division 4,2015,Mayfield,11,6,5,0,157,122,35,12,mayfield,51.910899,-8.416721
+Cork,Division 4,2015,Na Piarsaigh,11,6,5,0,125,122,3,12,na piarsaigh,51.917597,-8.498522
+Cork,Division 4,2015,Millstreet,11,5,6,0,152,185,-33,10,millstreet,52.061257,-9.065975
+Cork,Division 4,2015,Ballydesmond,11,4,7,0,101,108,-7,8,ballydesmond,52.17835,-9.234815
+Cork,Division 4,2015,Grenagh,10,3,6,1,120,141,-21,7,grenagh,52.010784,-8.61323
+Cork,Division 4,2015,Adrigole,10,3,7,0,131,151,-20,6,adrigole,51.684475,-9.712323
+Cork,Division 4,2015,Glanmire,11,1,8,2,111,163,-52,4,glanmire,51.934896,-8.397989
+Cork,Division 4,2015,Youghal,11,1,9,1,87,141,-54,3,youghal,51.952536,-7.860442
+Cork,Division 1,2014,Carbery Rangers,11,8,1,1,163,90,73,17,carbery rangers,51.584973,-9.025214
+Cork,Division 1,2014,Nemo Rangers,10,8,2,0,147,100,47,16,nemo rangers,51.875648,-8.451202
+Cork,Division 1,2014,O Donovan Rossa,11,7,2,2,173,131,42,16,o donovan rossa,51.554668,-9.271324
+Cork,Division 1,2014,Newcestown,11,6,4,1,142,108,34,13,newcestown,51.781081,-8.863664
+Cork,Division 1,2014,Bishopstown,10,5,4,1,157,174,-17,11,bishopstown,51.884612,-8.521593
+Cork,Division 1,2014,Ilen Rovers,11,5,5,1,173,147,26,11,ilen rovers,51.498446,-9.353486
+Cork,Division 1,2014,Douglas,11,4,5,2,118,121,-3,10,douglas,51.874471,-8.442898
+Cork,Division 1,2014,Clonakilty,11,5,6,0,139,171,-32,10,clonakilty,51.621193,-8.925509
+Cork,Division 1,2014,St Finbarrs,11,5,5,0,152,136,16,10,st finbarrs,51.877578,-8.498696
+Cork,Division 1,2014,Castlehaven,11,3,7,1,128,133,-5,7,castlehaven,51.5549859,-9.1453135
+Cork,Division 1,2014,Aghada,11,1,8,2,110,210,-100,4,aghada,51.847754,-8.193244
+Cork,Division 1,2014,Naomh Aban,11,1,9,1,105,186,-81,3,naomh abán,51.943705,-9.160974
+Cork,Division 2,2014,Valley Rovers,11,9,0,2,147,108,39,20,valley rovers,51.785103,-8.691404
+Cork,Division 2,2014,Clyda Rovers,11,8,3,0,162,142,20,16,clyda rovers,52.082217,-8.629404
+Cork,Division 2,2014,Ballincollig,10,7,3,0,169,103,66,14,ballincollig,51.892668,-8.588427
+Cork,Division 2,2014,Macroom,11,6,4,1,166,137,29,13,macroom,51.903656,-8.962928
+Cork,Division 2,2014,Bantry Blues,11,6,5,0,142,147,-5,12,bantry blues,51.688064,-9.447689
+Cork,Division 2,2014,Béal Átha'n Ghaorthaidh,10,4,5,1,136,147,-11,9,béal athan ghaorthaidh,51.850675,-9.23088
+Cork,Division 2,2014,Nemo Rangers,10,4,6,0,147,165,-18,8,nemo rangers,51.875648,-8.451202
+Cork,Division 2,2014,Kiskeam,11,4,7,0,137,157,-20,8,kiskeam,52.178037,-9.155935
+Cork,Division 2,2014,Newmarket,11,4,7,0,141,176,-35,8,newmarket,52.213183,-8.98272
+Cork,Division 2,2014,Dohenys,11,4,7,0,130,129,1,8,dohenys,51.714607,-9.110283
+Cork,Division 2,2014,Glanworth,11,3,7,1,122,169,-47,7,glanworthharbour rovers,52.195434,-8.361423
+Cork,Division 2,2014,St Michaels,10,2,7,1,132,151,-19,5,st michaels,51.889803,-8.393282
+Cork,Division 3,2014,Eire Og,11,10,0,0,128,74,54,20,éire óg,51.875457,-8.669633
+Cork,Division 3,2014,Fermoy,11,9,1,0,142,92,50,18,fermoy,52.143969,-8.274292
+Cork,Division 3,2014,Mallow,11,6,3,1,155,113,42,13,mallow,52.145254,-8.611229
+Cork,Division 3,2014,St Vincents,11,6,3,1,115,100,15,13,st vincents,51.911086,-8.496097
+Cork,Division 3,2014,Cill na Martra,11,5,4,2,136,110,26,12,cill na martra,51.899095,-9.083582
+Cork,Division 3,2014,Kinsale,10,4,5,1,113,140,-27,9,kinsale,51.710465,-8.532468
+Cork,Division 3,2014,Ballinora,11,3,6,2,105,173,-68,8,ballinora,51.853758,-8.566739
+Cork,Division 3,2014,Castletownbere,10,3,6,1,113,156,-43,7,castletownbere,51.643635,-9.925679
+Cork,Division 3,2014,Glenville,11,3,8,0,110,126,-16,6,glenville,52.0491,-8.423735
+Cork,Division 3,2014,St Nicks,10,3,7,0,82,107,-25,6,st nicholas,51.916969,-8.462179
+Cork,Division 3,2014,Grenagh,10,3,7,0,90,98,-8,6,grenagh,52.010784,-8.61323
+Cork,Division 3,2014,Na Piarsaigh,9,2,7,0,82,82,0,4,na piarsaigh,51.917597,-8.498522
+Cork,Division 4,2014,Carrigaline,11,9,1,1,167,106,61,19,carrigaline,51.811564,-8.380157
+Cork,Division 4,2014,Mitchelstown,11,9,2,0,200,108,92,18,mitchelstown,52.275887,-8.281469
+Cork,Division 4,2014,Rockchapel,11,9,2,0,137,94,43,18,rockchapel,52.291442,-9.167349
+Cork,Division 4,2014,Kildorrery,11,5,4,1,161,149,12,11,kildorrery,52.244022,-8.428417
+Cork,Division 4,2014,Kanturk,10,5,4,1,129,118,11,11,kanturk,52.181691,-8.900043
+Cork,Division 4,2014,Aghabullogue,11,5,5,1,139,150,-11,11,aghabullogue,51.906736,-8.786975
+Cork,Division 4,2014,Mayfield,10,4,4,2,135,148,-13,10,mayfield,51.910899,-8.416721
+Cork,Division 4,2014,Ballydesmond,10,3,5,2,127,160,-33,8,ballydesmond,52.17835,-9.234815
+Cork,Division 4,2014,Glanmire,10,3,7,0,136,137,-1,6,glanmire,51.934896,-8.397989
+Cork,Division 4,2014,Cloyne,10,3,7,0,87,114,-27,6,cloyne,51.865344,-8.121082
+Cork,Division 4,2014,Adrigole,11,2,8,0,109,182,-73,4,adrigole,51.684475,-9.712323
+Cork,Division 4,2014,Youghal,10,1,9,0,86,147,-61,2,youghal,51.952536,-7.860442
+Cork,Division 1,2013,Nemo Rangers,11,9,0,2,187,109,78,20,nemo rangers,51.875648,-8.451202
+Cork,Division 1,2013,Castlehaven,11,7,2,2,168,118,50,16,castlehaven,51.5549859,-9.1453135
+Cork,Division 1,2013,Carbery Rangers,11,8,2,0,131,106,25,16,carbery rangers,51.584973,-9.025214
+Cork,Division 1,2013,St Finbarrs,11,7,4,0,144,134,10,14,st finbarrs,51.877578,-8.498696
+Cork,Division 1,2013,Newcestown,11,6,3,1,100,117,-17,13,newcestown,51.781081,-8.863664
+Cork,Division 1,2013,O Donovan Rossa,11,5,4,2,140,127,13,12,o donovan rossa,51.554668,-9.271324
+Cork,Division 1,2013,Ilen Rovers,11,5,6,0,151,151,0,10,ilen rovers,51.498446,-9.353486
+Cork,Division 1,2013,Aghada,11,4,7,0,126,161,-35,8,aghada,51.847754,-8.193244
+Cork,Division 1,2013,Douglas,11,3,7,1,132,138,-6,7,douglas,51.874471,-8.442898
+Cork,Division 1,2013,Bishopstown,11,3,8,0,140,140,0,6,bishopstown,51.884612,-8.521593
+Cork,Division 1,2013,Ballincollig,11,1,8,2,108,161,-53,4,ballincollig,51.892668,-8.588427
+Cork,Division 1,2013,Bantry Blues,11,1,8,2,120,185,-65,4,bantry blues,51.688064,-9.447689
+Cork,Division 2,2013,Naomh Aban,11,9,2,0,184,143,41,18,naomh abán,51.943705,-9.160974
+Cork,Division 2,2013,Clonakilty,11,7,2,2,156,143,13,16,clonakilty,51.621193,-8.925509
+Cork,Division 2,2013,Dohenys,11,6,4,1,168,129,39,13,dohenys,51.714607,-9.110283
+Cork,Division 2,2013,Nemo Rangers,10,6,3,1,121,113,8,13,nemo rangers,51.875648,-8.451202
+Cork,Division 2,2013,Kiskeam,10,4,3,2,132,121,11,10,kiskeam,52.178037,-9.155935
+Cork,Division 2,2013,St Michaels,11,4,5,2,149,148,1,10,st michaels,51.889803,-8.393282
+Cork,Division 2,2013,Béal Átha'n Ghaorthaidh,10,4,6,0,102,108,-6,8,béal athan ghaorthaidh,51.850675,-9.23088
+Cork,Division 2,2013,Newmarket,11,3,6,2,125,136,-11,8,newmarket,52.213183,-8.98272
+Cork,Division 2,2013,Eire Og,9,3,4,2,112,125,-13,8,éire óg,51.875457,-8.669633
+Cork,Division 2,2013,Valley Rovers,10,4,6,0,106,127,-21,8,valley rovers,51.785103,-8.691404
+Cork,Division 2,2013,Clyda Rovers,11,3,6,2,126,156,-30,8,clyda rovers,52.082217,-8.629404
+Cork,Division 2,2013,St Vincents,11,1,7,2,111,143,-32,4,st vincents,51.911086,-8.496097
+Cork,Division 3,2013,Macroom,10,9,0,0,142,70,72,18,macroom,51.903656,-8.962928
+Cork,Division 3,2013,Glanworth,11,8,1,1,118,96,22,17,glanworthharbour rovers,52.195434,-8.361423
+Cork,Division 3,2013,Mallow,11,7,2,2,161,120,41,16,mallow,52.145254,-8.611229
+Cork,Division 3,2013,Grenagh,10,6,4,0,110,89,21,12,grenagh,52.010784,-8.61323
+Cork,Division 3,2013,Glenville,11,5,5,1,109,141,-32,11,glenville,52.0491,-8.423735
+Cork,Division 3,2013,Cill na Martra,11,3,5,3,115,101,14,9,cill na martra,51.899095,-9.083582
+Cork,Division 3,2013,Castletownbere,11,3,5,3,78,107,-29,9,castletownbere,51.643635,-9.925679
+Cork,Division 3,2013,St Nicks,10,2,4,4,110,111,-1,8,st nicholas,51.916969,-8.462179
+Cork,Division 3,2013,Kinsale,11,4,7,0,142,169,-27,8,kinsale,51.710465,-8.532468
+Cork,Division 3,2013,Na Piarsaigh,11,3,7,1,111,138,-27,7,na piarsaigh,51.917597,-8.498522
+Cork,Division 3,2013,Ballydesmond,10,3,6,1,101,129,-28,7,ballydesmond,52.17835,-9.234815
+Cork,Division 3,2013,Adrigole,11,2,9,0,102,128,-26,4,adrigole,51.684475,-9.712323
+Cork,Division 4,2013,Ballinora,11,9,1,1,164,79,85,19,ballinora,51.853758,-8.566739
+Cork,Division 4,2013,Fermoy,10,8,2,0,143,84,59,16,fermoy,52.143969,-8.274292
+Cork,Division 4,2013,Rockchapel,11,7,3,1,160,135,25,15,rockchapel,52.291442,-9.167349
+Cork,Division 4,2013,Kanturk,10,7,3,0,153,114,39,14,kanturk,52.181691,-8.900043
+Cork,Division 4,2013,Cloyne,11,7,4,0,141,149,-8,14,cloyne,51.865344,-8.121082
+Cork,Division 4,2013,Carrigaline,11,4,4,3,150,145,5,11,carrigaline,51.811564,-8.380157
+Cork,Division 4,2013,Aghabullogue,11,5,5,1,91,125,-34,11,aghabullogue,51.906736,-8.786975
+Cork,Division 4,2013,Canovee,11,4,7,0,124,154,-30,8,canovee,51.902706,-8.853864
+Cork,Division 4,2013,Mayfield,11,3,6,2,123,159,-36,8,mayfield,51.910899,-8.416721
+Cork,Division 4,2013,Kildorrery,11,3,7,1,100,127,-27,7,kildorrery,52.244022,-8.428417
+Cork,Division 4,2013,Youghal,11,2,8,1,106,133,-27,5,youghal,51.952536,-7.860442
+Cork,Division 4,2013,Glanmire,11,1,10,0,81,132,-51,2,glanmire,51.934896,-8.397989
+Cork,Division 1,2012,Carbery Rangers,10,7,3,0,148,118,30,14,carbery rangers,51.584973,-9.025214
+Cork,Division 1,2012,Nemo Rangers,11,6,3,2,167,139,28,14,nemo rangers,51.875648,-8.451202
+Cork,Division 1,2012,Bishopstown,11,5,2,4,153,130,23,14,bishopstown,51.884612,-8.521593
+Cork,Division 1,2012,Castlehaven,9,5,2,2,123,99,24,12,castlehaven,51.5549859,-9.1453135
+Cork,Division 1,2012,Douglas,11,5,4,2,158,149,9,12,douglas,51.874471,-8.442898
+Cork,Division 1,2012,St Finbarrs,11,4,3,4,151,149,2,12,st finbarrs,51.877578,-8.498696
+Cork,Division 1,2012,O Donovan Rossa,10,4,4,2,130,117,13,10,o donovan rossa,51.554668,-9.271324
+Cork,Division 1,2012,Ballincollig,11,3,5,3,118,126,-8,9,ballincollig,51.892668,-8.588427
+Cork,Division 1,2012,Ilen Rovers,11,4,6,1,134,151,-17,9,ilen rovers,51.498446,-9.353486
+Cork,Division 1,2012,Newcestown,10,3,5,2,124,148,-24,8,newcestown,51.781081,-8.863664
+Cork,Division 1,2012,Dohenys,11,3,6,2,127,165,-38,8,dohenys,51.714607,-9.110283
+Cork,Division 1,2012,Kiskeam,10,1,7,2,123,165,-42,4,kiskeam,52.178037,-9.155935
+Cork,Division 2,2012,Bantry Blues,11,8,2,1,198,125,73,17,bantry blues,51.688064,-9.447689
+Cork,Division 2,2012,Aghada,11,8,2,1,175,125,50,17,aghada,51.847754,-8.193244
+Cork,Division 2,2012,Béal Átha'n Ghaorthaidh,11,7,2,2,138,114,24,16,béal athan ghaorthaidh,51.850675,-9.23088
+Cork,Division 2,2012,Clonakilty,11,8,3,0,143,129,14,16,clonakilty,51.621193,-8.925509
+Cork,Division 2,2012,Valley Rovers,11,6,4,1,137,132,5,13,valley rovers,51.785103,-8.691404
+Cork,Division 2,2012,Nemo Rangers,11,6,5,0,111,113,-2,12,nemo rangers,51.875648,-8.451202
+Cork,Division 2,2012,St Michaels,11,4,6,1,155,163,-8,9,st michaels,51.889803,-8.393282
+Cork,Division 2,2012,St Vincents,10,4,5,1,113,130,-17,9,st vincents,51.911086,-8.496097
+Cork,Division 2,2012,Naomh Aban,11,3,7,1,124,144,-20,7,naomh abán,51.943705,-9.160974
+Cork,Division 2,2012,Clyda Rovers,10,3,7,0,105,113,-8,6,clyda rovers,52.082217,-8.629404
+Cork,Division 2,2012,Glenville,11,2,8,1,109,146,-37,5,glenville,52.0491,-8.423735
+Cork,Division 2,2012,Na Piarsaigh,11,1,9,1,108,182,-74,3,na piarsaigh,51.917597,-8.498522
+Cork,Division 3,2012,Newmarket,11,9,2,0,131,94,37,18,newmarket,52.213183,-8.98272
+Cork,Division 3,2012,Eire Og,11,7,2,2,178,138,40,16,éire óg,51.875457,-8.669633
+Cork,Division 3,2012,Adrigole,11,6,4,1,145,144,1,13,adrigole,51.684475,-9.712323
+Cork,Division 3,2012,Grenagh,11,6,4,0,136,101,35,12,grenagh,52.010784,-8.61323
+Cork,Division 3,2012,Castletownbere,10,6,4,0,118,120,-2,12,castletownbere,51.643635,-9.925679
+Cork,Division 3,2012,Ballydesmond,11,5,4,2,133,139,-6,12,ballydesmond,52.17835,-9.234815
+Cork,Division 3,2012,Macroom,10,4,3,3,135,117,18,11,macroom,51.903656,-8.962928
+Cork,Division 3,2012,Kinsale,11,4,4,2,113,104,9,10,kinsale,51.710465,-8.532468
+Cork,Division 3,2012,St Nicks,11,4,7,0,113,135,-22,8,st nicholas,51.916969,-8.462179
+Cork,Division 3,2012,Mallow,11,2,5,2,126,125,1,6,mallow,52.145254,-8.611229
+Cork,Division 3,2012,Glanmire,11,3,8,0,104,153,-49,6,glanmire,51.934896,-8.397989
+Cork,Division 3,2012,Kildorrery,11,1,10,0,90,152,-62,2,kildorrery,52.244022,-8.428417
+Cork,Division 4,2012,Glanworth,11,9,1,1,196,109,87,19,glanworthharbour rovers,52.195434,-8.361423
+Cork,Division 4,2012,Cill na Martra,11,8,1,2,161,116,45,18,cill na martra,51.899095,-9.083582
+Cork,Division 4,2012,Ballinora,11,7,3,1,177,127,50,15,ballinora,51.853758,-8.566739
+Cork,Division 4,2012,Canovee,10,6,4,0,136,134,2,12,canovee,51.902706,-8.853864
+Cork,Division 4,2012,Cloyne,10,6,4,0,116,118,-2,12,cloyne,51.865344,-8.121082
+Cork,Division 4,2012,Fermoy,9,5,4,0,119,119,0,10,fermoy,52.143969,-8.274292
+Cork,Division 4,2012,Kanturk,8,4,3,1,144,120,24,9,kanturk,52.181691,-8.900043
+Cork,Division 4,2012,Youghal,11,3,5,3,93,92,1,9,youghal,51.952536,-7.860442
+Cork,Division 4,2012,Mayfield,10,3,6,1,118,142,-24,7,mayfield,51.910899,-8.416721
+Cork,Division 4,2012,Carrigaline,9,2,6,1,109,139,-30,5,carrigaline,51.811564,-8.380157
+Cork,Division 4,2012,Aghabullogue,10,2,8,0,99,149,-50,4,aghabullogue,51.906736,-8.786975
+Cork,Division 4,2012,Killavullen,10,0,10,0,91,194,-103,0,killavullen,52.148761,-8.512461
+Cork,Division 1,2011,Carbery Rangers,11,9,2,0,174,133,41,18,carbery rangers,51.584973,-9.025214
+Cork,Division 1,2011,Castlehaven,10,8,1,1,154,122,32,17,castlehaven,51.5549859,-9.1453135
+Cork,Division 1,2011,Nemo Rangers,11,6,4,1,158,131,27,13,nemo rangers,51.875648,-8.451202
+Cork,Division 1,2011,Ballincollig,11,6,4,1,154,147,7,13,ballincollig,51.892668,-8.588427
+Cork,Division 1,2011,Dohenys,11,5,4,2,144,133,11,12,dohenys,51.714607,-9.110283
+Cork,Division 1,2011,Douglas,11,4,4,3,133,123,10,11,douglas,51.874471,-8.442898
+Cork,Division 1,2011,O Donovan Rossa,11,3,4,4,137,150,-13,10,o donovan rossa,51.554668,-9.271324
+Cork,Division 1,2011,St Finbarrs,10,4,5,1,132,150,-18,9,st finbarrs,51.877578,-8.498696
+Cork,Division 1,2011,Ilen Rovers,9,3,4,2,124,118,6,8,ilen rovers,51.498446,-9.353486
+Cork,Division 1,2011,Bishopstown,11,3,7,1,128,153,-25,7,bishopstown,51.884612,-8.521593
+Cork,Division 1,2011,St Vincents,11,2,7,2,136,169,-33,6,st vincents,51.911086,-8.496097
+Cork,Division 1,2011,Clonakilty,11,1,8,2,117,162,-45,4,clonakilty,51.621193,-8.925509
+Cork,Division 2,2011,Kiskeam,11,9,0,2,211,125,86,18,kiskeam,52.178037,-9.155935
+Cork,Division 2,2011,Newcestown,10,8,1,1,163,120,43,17,newcestown,51.781081,-8.863664
+Cork,Division 2,2011,Nemo Rangers,11,7,0,4,152,125,27,14,nemo rangers,51.875648,-8.451202
+Cork,Division 2,2011,Naomh Aban,10,5,1,4,157,136,21,11,naomh abán,51.943705,-9.160974
+Cork,Division 2,2011,Glenville,10,4,2,4,98,119,-21,10,glenville,52.0491,-8.423735
+Cork,Division 2,2011,Na Piarsaigh,9,4,2,3,124,134,-10,10,na piarsaigh,51.917597,-8.498522
+Cork,Division 2,2011,Valley Rovers,11,4,1,6,143,144,-1,9,valley rovers,51.785103,-8.691404
+Cork,Division 2,2011,Aghada,9,4,1,4,109,130,-21,9,aghada,51.847754,-8.193244
+Cork,Division 2,2011,St Michaels,11,4,1,6,118,158,-40,9,st michaels,51.889803,-8.393282
+Cork,Division 2,2011,Bantry Blues,10,3,2,5,135,141,-6,8,bantry blues,51.688064,-9.447689
+Cork,Division 2,2011,Beara,9,2,0,7,102,123,-21,4,beara,,
+Cork,Division 2,2011,St Nicks,9,0,1,8,76,133,-57,1,st nicholas,51.916969,-8.462179
+Cork,Division 3,2011,Béal Átha'n Ghaorthaidh,11,8,2,1,170,146,24,17,béal athan ghaorthaidh,51.850675,-9.23088
+Cork,Division 3,2011,Macroom,11,7,2,2,146,113,33,16,macroom,51.903656,-8.962928
+Cork,Division 3,2011,Clyda Rovers,11,7,2,2,136,111,25,16,clyda rovers,52.082217,-8.629404
+Cork,Division 3,2011,Kildorrery,10,5,2,3,130,126,4,13,kildorrery,52.244022,-8.428417
+Cork,Division 3,2011,Adrigole,10,6,4,0,121,111,10,12,adrigole,51.684475,-9.712323
+Cork,Division 3,2011,Grenagh,11,5,5,1,134,122,12,11,grenagh,52.010784,-8.61323
+Cork,Division 3,2011,Castletownbere,10,4,4,2,114,114,0,10,castletownbere,51.643635,-9.925679
+Cork,Division 3,2011,Newmarket,11,4,5,2,154,157,-3,10,newmarket,52.213183,-8.98272
+Cork,Division 3,2011,Kinsale,11,4,7,0,125,136,-11,8,kinsale,51.710465,-8.532468
+Cork,Division 3,2011,Mallow,11,2,7,2,127,144,-17,6,mallow,52.145254,-8.611229
+Cork,Division 3,2011,Eire Og,11,2,8,1,123,159,-36,5,éire óg,51.875457,-8.669633
+Cork,Division 3,2011,Mayfield,10,2,8,0,112,153,-41,4,mayfield,51.910899,-8.416721
+Cork,Division 4,2011,Ballinora,12,9,1,2,173,123,50,19,ballinora,51.853758,-8.566739
+Cork,Division 4,2011,Glanmire,11,9,0,2,131,99,32,18,glanmire,51.934896,-8.397989
+Cork,Division 4,2011,Ballydesmond,10,7,1,2,135,113,22,15,ballydesmond,52.17835,-9.234815
+Cork,Division 4,2011,Glanworth,11,6,1,4,161,137,24,13,glanworthharbour rovers,52.195434,-8.361423
+Cork,Division 4,2011,Carrigaline,9,5,2,2,153,101,52,12,carrigaline,51.811564,-8.380157
+Cork,Division 4,2011,Fermoy,10,6,0,4,134,100,34,12,fermoy,52.143969,-8.274292
+Cork,Division 4,2011,Youghal,8,5,2,1,114,100,14,12,youghal,51.952536,-7.860442
+Cork,Division 4,2011,Cill na Martra,10,4,1,5,115,113,2,9,cill na martra,51.899095,-9.083582
+Cork,Division 4,2011,Canovee,12,3,2,7,173,184,-11,8,canovee,51.902706,-8.853864
+Cork,Division 4,2011,Aghabullogue,12,2,2,8,127,146,-19,6,aghabullogue,51.906736,-8.786975
+Cork,Division 4,2011,Cloyne,10,2,1,7,111,146,-35,5,cloyne,51.865344,-8.121082
+Cork,Division 4,2011,Killavullen,9,1,1,7,70,140,-70,3,killavullen,52.148761,-8.512461
+Cork,Division 4,2011,Ballyclough,10,0,2,8,95,190,-95,2,ballyclough,52.177393,-8.728641

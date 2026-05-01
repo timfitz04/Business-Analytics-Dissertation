@@ -1,0 +1,504 @@
+County,Division,Year,team,pld,w,d,l,pf,pa,pd,pts,clean_team,Latitude,Longitude
+Meath,Division 1,2024,Skryne,11,7,1,3,151,133,18,15,skryne,53.583364,-6.547767
+Meath,Division 1,2024,Summerhill,11,7,1,3,168,155,13,15,summerhill,53.483525,-6.738941
+Meath,Division 1,2024,Ballinabrackey,11,5,4,2,147,120,27,14,ballinabrackey,53.396387,-7.108494
+Meath,Division 1,2024,Donaghmore/Ashbourne,11,6,2,3,153,127,26,14,donaghmoreashbourne,53.50943,-6.410494
+Meath,Division 1,2024,Ratoath,11,5,3,3,136,128,8,13,ratoath,53.510425,-6.478256
+Meath,Division 1,2024,"St Peter's, Dunboyne",11,5,1,5,171,159,12,11,st peters dunboyne,53.410506,-6.474412
+Meath,Division 1,2024,St. Colmcille's,11,4,2,5,138,139,-1,10,st colmcilles,53.696083,-6.279859
+Meath,Division 1,2024,Na Fianna CLG,11,4,2,5,152,161,-9,10,na fianna enfield,53.410992,-6.822061
+Meath,Division 1,2024,Gaeil Colmcille,11,4,2,5,145,162,-17,10,gaeil colmcille,53.71987,-6.880174
+Meath,Division 1,2024,Bhulf Tón Clg,11,4,2,5,122,141,-19,10,wolfe tones,53.699722,-6.682203
+Meath,Division 1,2024,Simonstown,11,3,1,7,137,154,-17,7,simonstown gaels,53.672473,-6.682418
+Meath,Division 1,2024,Navan O'Mahonys,11,1,1,9,122,163,-41,3,omahonys navan,53.649641,-6.691038
+Meath,Division 2,2024,Dunshaughlin GAA,11,8,0,3,187,129,58,16,dunshaughlin,53.514759,-6.552474
+Meath,Division 2,2024,Seneschalstown GFC,11,8,0,3,189,151,38,16,seneschalstown,53.683986,-6.588064
+Meath,Division 2,2024,Trim,11,7,1,3,177,134,43,15,trim,53.553324,-6.803895
+Meath,Division 2,2024,Curraha,11,7,0,4,152,144,8,14,curraha,53.554103,-6.454578
+Meath,Division 2,2024,Meath Hill,11,6,0,5,155,135,20,12,meath hill,53.887728,-6.713774
+Meath,Division 2,2024,Oldcastle,11,5,1,5,166,159,7,11,oldcastle,53.745702,-7.173826
+Meath,Division 2,2024,St Michael's,11,5,1,5,145,168,-23,11,st michaels,53.767768,-6.827061
+Meath,Division 2,2024,St Patrick's,11,5,0,6,157,159,-2,10,st patricks stamullen,53.633309,-6.262855
+Meath,Division 2,2024,Moynalvey,11,4,1,6,175,191,-16,9,moynalvey,53.469269,-6.664575
+Meath,Division 2,2024,Duleek-Bellewstown,11,4,0,7,122,140,-18,8,duleekbellewstown,53.654461,-6.433657
+Meath,Division 2,2024,Walterstown,11,3,1,7,153,196,-43,7,walterstown,53.624359,-6.609117
+Meath,Division 2,2024,Syddan,11,1,1,9,128,200,-72,3,syddan,53.796112,-6.637596
+Meath,Division 3,2024,Rathkenny,11,9,2,0,188,132,56,20,rathkenny,53.742146,-6.616245
+Meath,Division 3,2024,St Vincent's,11,8,2,1,139,117,22,18,st vincents ardcath,53.602144,-6.38274
+Meath,Division 3,2024,Donaghmore/Ashbourne,11,8,1,2,170,118,52,17,donaghmoreashbourne,53.50943,-6.410494
+Meath,Division 3,2024,Clann na nGael,11,7,1,3,188,155,33,15,clann na ngael,53.626911,-6.910542
+Meath,Division 3,2024,Dunsany,11,7,0,4,150,110,40,14,dunsany,53.545872,-6.618177
+Meath,Division 3,2024,Kilbride GFC,11,6,1,4,193,150,43,13,kilbride,53.453252,-6.396768
+Meath,Division 3,2024,Ballivor GFC,11,6,0,5,166,169,-3,12,ballivor,53.53142,-6.966286
+Meath,Division 3,2024,Dunderry,11,3,1,7,144,165,-21,7,dunderry,53.606629,-6.772329
+Meath,Division 3,2024,Bective,11,3,0,8,125,188,-63,6,bective,53.61335,-6.669671
+Meath,Division 3,2024,Kilmainham,11,2,0,9,124,192,-68,4,kilmainham,53.710995,-6.827317
+Meath,Division 3,2024,Nobber,11,1,1,9,140,178,-38,3,nobber,53.819211,-6.745727
+Meath,Division 3,2024,Blackhall Gaels,11,0,3,8,118,171,-53,3,blackhall gaels,53.473157,-6.545263
+Meath,Division 4,2024,Castletown,10,9,0,1,176,124,52,18,castletown,53.767342,-6.690196
+Meath,Division 4,2024,Drumbaragh,10,8,0,2,145,125,20,16,drumbaragh emmetts,53.727573,-6.938186
+Meath,Division 4,2024,Ratoath,11,7,0,4,199,136,63,14,ratoath,53.510425,-6.478256
+Meath,Division 4,2024,Ballinlough,11,7,0,4,162,146,16,14,ballinlough,53.733882,-7.053707
+Meath,Division 4,2024,St. Colmcille's,11,6,1,4,165,137,28,13,st colmcilles,53.696083,-6.279859
+Meath,Division 4,2024,Carnaross,11,6,1,4,179,154,25,13,carnaross,53.746658,-6.939989
+Meath,Division 4,2024,St Brigid's,11,6,0,5,180,153,27,12,st brigids ballinacree,53.76196,-7.235007
+Meath,Division 4,2024,Longwood,11,4,1,6,156,143,13,9,longwood,53.456396,-6.935679
+Meath,Division 4,2024,St Ultan's,11,4,1,6,178,185,-7,9,st ultans,53.672183,-6.814886
+Meath,Division 4,2024,"St Peter's, Dunboyne",11,3,1,7,164,190,-26,7,st peters dunboyne,53.410506,-6.474412
+Meath,Division 4,2024,Gaeil Colmcille,11,2,1,8,152,181,-29,5,gaeil colmcille,53.71987,-6.880174
+Meath,Division 4,2024,Dunshaughlin GAA,11,0,0,11,68,250,-182,0,dunshaughlin,53.514759,-6.552474
+Meath,Division 5,2024,Slane,11,11,0,0,237,114,123,22,slane,53.721314,-6.478902
+Meath,Division 5,2024,Moynalty GFC,11,10,0,1,188,111,77,20,moynalty,53.7808,-6.875204
+Meath,Division 5,2024,Kilmainhamwood,11,8,1,2,161,114,47,17,kilmainhamwood,53.84595,-6.806986
+Meath,Division 5,2024,Cortown,11,7,1,3,161,150,11,15,cortown,53.684191,-6.851621
+Meath,Division 5,2024,Navan O'Mahonys,11,6,0,5,187,215,-28,12,omahonys navan,53.649641,-6.691038
+Meath,Division 5,2024,Bhulf Tón Clg,11,5,0,6,145,139,6,10,wolfe tones,53.699722,-6.682203
+Meath,Division 5,2024,Moylagh,11,5,0,6,124,142,-18,10,moylagh,53.720427,-7.145013
+Meath,Division 5,2024,Seneschalstown GFC,11,5,0,6,138,213,-75,10,seneschalstown,53.683986,-6.588064
+Meath,Division 5,2024,Skryne,11,3,1,7,132,161,-29,7,skryne,53.583364,-6.547767
+Meath,Division 5,2024,Trim,11,2,0,9,148,145,3,4,trim,53.553324,-6.803895
+Meath,Division 5,2024,Simonstown,11,1,1,9,97,179,-82,3,simonstown gaels,53.672473,-6.682418
+Meath,Division 5,2024,Summerhill,11,1,0,10,123,158,-35,2,summerhill,53.483525,-6.738941
+Meath,Division 6,2024,St. Colmcille's,9,7,1,1,120,96,24,15,st colmcilles,53.696083,-6.279859
+Meath,Division 6,2024,Clonard,9,7,1,1,135,108,27,15,clonard,53.450314,-7.022092
+Meath,Division 6,2024,Duleek-Bellewstown,9,5,2,2,149,121,28,12,duleekbellewstown,53.654461,-6.433657
+Meath,Division 6,2024,Naomh Muire,9,4,1,4,120,130,-10,9,st marys donore,53.693344,-6.445991
+Meath,Division 6,2024,Ratoath,9,4,0,5,144,124,20,8,ratoath,53.510425,-6.478256
+Meath,Division 6,2024,Drumconrath,9,3,2,4,91,141,-50,8,drumconrath,53.84201,-6.656773
+Meath,Division 6,2024,Donaghmore/Ashbourne,9,3,1,5,130,125,5,7,donaghmoreashbourne,53.50943,-6.410494
+Meath,Division 6,2024,St Patrick's,9,3,1,5,119,128,-9,7,st patricks stamullen,53.633309,-6.262855
+Meath,Division 6,2024,Boardsmill,9,2,1,6,110,143,-33,5,boardsmill,53.525985,-6.872563
+Meath,Division 6,2024,"St Peter's, Dunboyne",9,2,0,7,76,78,-2,4,st peters dunboyne,53.410506,-6.474412
+Meath,Division 7,2024,Ballinlough,9,8,0,1,181,125,56,16,ballinlough,53.733882,-7.053707
+Meath,Division 7,2024,Oldcastle,9,7,0,2,193,115,78,14,oldcastle,53.745702,-7.173826
+Meath,Division 7,2024,Gaeil Colmcille,9,6,0,3,125,111,14,12,gaeil colmcille,53.71987,-6.880174
+Meath,Division 7,2024,Kilbride GFC,9,5,0,4,149,126,23,10,kilbride,53.453252,-6.396768
+Meath,Division 7,2024,Meath Hill,9,5,0,4,153,143,10,10,meath hill,53.887728,-6.713774
+Meath,Division 7,2024,Rathkenny,9,4,1,4,133,112,21,9,rathkenny,53.742146,-6.616245
+Meath,Division 7,2024,Na Fianna CLG,9,3,1,5,125,148,-23,7,na fianna enfield,53.410992,-6.822061
+Meath,Division 7,2024,Walterstown,9,2,0,7,115,147,-32,4,walterstown,53.624359,-6.609117
+Meath,Division 7,2024,Ballinabrackey,9,2,0,7,80,124,-44,4,ballinabrackey,53.396387,-7.108494
+Meath,Division 7,2024,Dunshaughlin GAA,9,2,0,7,76,179,-103,4,dunshaughlin,53.514759,-6.552474
+Meath,Division 8,2024,St. Colmcille's,11,9,1,1,185,87,98,19,st colmcilles,53.696083,-6.279859
+Meath,Division 8,2024,Dunderry,11,9,1,1,197,132,65,19,dunderry,53.606629,-6.772329
+Meath,Division 8,2024,Castletown,11,8,1,2,187,146,41,17,castletown,53.767342,-6.690196
+Meath,Division 8,2024,Blackhall Gaels,11,8,1,2,177,136,41,17,blackhall gaels,53.473157,-6.545263
+Meath,Division 8,2024,Clann na nGael,11,6,0,5,204,145,59,12,clann na ngael,53.626911,-6.910542
+Meath,Division 8,2024,St Michael's,11,6,0,5,144,171,-27,12,st michaels,53.767768,-6.827061
+Meath,Division 8,2024,Ballivor GFC,11,4,1,6,142,167,-25,9,ballivor,53.53142,-6.966286
+Meath,Division 8,2024,Bective,11,4,1,6,109,142,-33,9,bective,53.61335,-6.669671
+Meath,Division 8,2024,Navan O'Mahonys,11,3,0,8,133,187,-54,6,omahonys navan,53.649641,-6.691038
+Meath,Division 8,2024,Simonstown,11,2,1,8,107,143,-36,5,simonstown gaels,53.672473,-6.682418
+Meath,Division 8,2024,Donaghmore/Ashbourne,11,2,0,9,120,183,-63,4,donaghmoreashbourne,53.50943,-6.410494
+Meath,Division 8,2024,Summerhill,11,1,1,9,135,201,-66,3,summerhill,53.483525,-6.738941
+Meath,Division 9,2024,Slane,9,8,0,1,175,101,74,16,slane,53.721314,-6.478902
+Meath,Division 9,2024,Moynalvey,9,8,0,1,174,121,53,16,moynalvey,53.469269,-6.664575
+Meath,Division 9,2024,St Ultan's,9,6,0,3,107,91,16,12,st ultans,53.672183,-6.814886
+Meath,Division 9,2024,Moynalty GFC,9,5,1,3,132,114,18,11,moynalty,53.7808,-6.875204
+Meath,Division 9,2024,Carnaross,9,5,0,4,154,120,34,10,carnaross,53.746658,-6.939989
+Meath,Division 9,2024,Drumbaragh,9,4,1,4,139,109,30,9,drumbaragh emmetts,53.727573,-6.938186
+Meath,Division 9,2024,Curraha,9,3,0,6,107,134,-27,6,curraha,53.554103,-6.454578
+Meath,Division 9,2024,Duleek-Bellewstown,9,2,1,6,146,165,-19,5,duleekbellewstown,53.654461,-6.433657
+Meath,Division 9,2024,Longwood,9,2,0,7,99,142,-43,4,longwood,53.456396,-6.935679
+Meath,Division 9,2024,Dunsany,9,0,1,8,73,209,-136,1,dunsany,53.545872,-6.618177
+Meath,Division 10,2024,Syddan,10,8,0,2,194,86,108,16,syddan,53.796112,-6.637596
+Meath,Division 10,2024,St Brigid's,10,8,0,2,115,89,26,16,st brigids ballinacree,53.76196,-7.235007
+Meath,Division 10,2024,St Patrick's,10,7,1,2,151,80,71,15,st patricks stamullen,53.633309,-6.262855
+Meath,Division 10,2024,Nobber,10,7,0,3,159,136,23,14,nobber,53.819211,-6.745727
+Meath,Division 10,2024,St Vincent's,10,6,2,2,88,52,36,14,st vincents ardcath,53.602144,-6.38274
+Meath,Division 10,2024,Naomh Muire,10,5,1,4,125,134,-9,11,st marys donore,53.693344,-6.445991
+Meath,Division 10,2024,Cortown,10,5,0,5,98,106,-8,10,cortown,53.684191,-6.851621
+Meath,Division 10,2024,Moylagh,10,2,1,7,47,93,-46,5,moylagh,53.720427,-7.145013
+Meath,Division 10,2024,Eastern Gaels,10,2,1,7,63,176,-113,5,eastern gaels gac,53.7231401,-6.2690094
+Meath,Division 10,2024,Kilmainhamwood,10,1,0,9,18,37,-19,2,kilmainhamwood,53.84595,-6.806986
+Meath,Division 10,2024,St Paul's,10,1,0,9,58,127,-69,2,st pauls,53.433321,-6.47938
+Meath,Division 1 A,2023,Ratoath,12,9,3,0,208,125,83,21,ratoath,53.510425,-6.478256
+Meath,Division 1 A,2023,St. Colmcille's,12,8,1,3,179,154,25,17,st colmcilles,53.696083,-6.279859
+Meath,Division 1 A,2023,Summerhill,11,7,1,3,166,136,30,15,summerhill,53.483525,-6.738941
+Meath,Division 1 A,2023,Simonstown,11,5,3,3,159,146,13,13,simonstown gaels,53.672473,-6.682418
+Meath,Division 1 A,2023,Donaghmore/Ashbourne,11,6,1,4,177,160,17,13,donaghmoreashbourne,53.50943,-6.410494
+Meath,Division 1 A,2023,Gaeil Colmcille,11,5,1,5,156,152,4,11,gaeil colmcille,53.71987,-6.880174
+Meath,Division 1 A,2023,Bhulf Tón Clg,10,4,1,5,106,107,-1,9,wolfe tones,53.699722,-6.682203
+Meath,Division 1 A,2023,Na Fianna CLG,11,4,1,6,140,170,-30,9,na fianna enfield,53.410992,-6.822061
+Meath,Division 1 A,2023,"St Peter's, Dunboyne",11,3,2,6,154,161,-7,8,st peters dunboyne,53.410506,-6.474412
+Meath,Division 1 A,2023,Skryne,11,2,3,6,141,169,-28,7,skryne,53.583364,-6.547767
+Meath,Division 1 A,2023,Dunshaughlin GAA,11,3,0,8,143,189,-46,6,dunshaughlin,53.514759,-6.552474
+Meath,Division 1 A,2023,Trim,10,1,1,8,125,185,-60,3,trim,53.553324,-6.803895
+Meath,Division 1 B,2023,Navan O'Mahonys,11,10,0,1,213,110,103,20,omahonys navan,53.649641,-6.691038
+Meath,Division 1 B,2023,Ballinabrackey,11,9,1,1,175,89,86,19,ballinabrackey,53.396387,-7.108494
+Meath,Division 1 B,2023,St Michael's,11,7,1,3,174,157,17,15,st michaels,53.767768,-6.827061
+Meath,Division 1 B,2023,Duleek-Bellewstown,11,7,0,4,184,149,35,14,duleekbellewstown,53.654461,-6.433657
+Meath,Division 1 B,2023,Seneschalstown GFC,11,7,0,4,188,149,39,14,seneschalstown,53.683986,-6.588064
+Meath,Division 1 B,2023,Walterstown,11,4,1,6,165,166,-1,9,walterstown,53.624359,-6.609117
+Meath,Division 1 B,2023,Syddan,11,4,1,6,166,187,-21,9,syddan,53.796112,-6.637596
+Meath,Division 1 B,2023,Moynalvey,11,4,1,6,143,197,-54,9,moynalvey,53.469269,-6.664575
+Meath,Division 1 B,2023,Curraha,11,3,0,8,123,153,-30,6,curraha,53.554103,-6.454578
+Meath,Division 1 B,2023,Oldcastle,11,2,2,7,139,181,-42,6,oldcastle,53.745702,-7.173826
+Meath,Division 1 B,2023,Rathkenny,11,3,0,8,120,164,-44,6,rathkenny,53.742146,-6.616245
+Meath,Division 1 B,2023,Dunderry,11,2,1,8,121,209,-88,5,dunderry,53.606629,-6.772329
+Meath,Division 2 A,2023,St Patrick's,12,11,0,1,213,129,84,22,st patricks stamullen,53.633309,-6.262855
+Meath,Division 2 A,2023,Dunsany,11,10,0,1,181,103,78,20,dunsany,53.545872,-6.618177
+Meath,Division 2 A,2023,Meath Hill,12,10,0,2,255,120,135,20,meath hill,53.887728,-6.713774
+Meath,Division 2 A,2023,St Vincent's,11,7,0,4,157,120,37,14,st vincents ardcath,53.602144,-6.38274
+Meath,Division 2 A,2023,Nobber,11,6,1,4,152,171,-19,13,nobber,53.819211,-6.745727
+Meath,Division 2 A,2023,Blackhall Gaels,11,4,0,7,147,182,-35,8,blackhall gaels,53.473157,-6.545263
+Meath,Division 2 A,2023,Donaghmore/Ashbourne,11,4,0,7,151,159,-8,8,donaghmoreashbourne,53.50943,-6.410494
+Meath,Division 2 A,2023,Bective,10,3,1,6,126,143,-17,7,bective,53.61335,-6.669671
+Meath,Division 2 A,2023,Kilmainham,10,3,1,6,133,164,-31,7,kilmainham,53.710995,-6.827317
+Meath,Division 2 A,2023,Ballivor GFC,11,3,1,7,113,195,-82,7,ballivor,53.53142,-6.966286
+Meath,Division 2 A,2023,Drumbaragh,11,2,0,9,150,195,-45,4,drumbaragh emmetts,53.727573,-6.938186
+Meath,Division 2 A,2023,Dunshaughlin GAA,11,1,0,10,127,224,-97,2,dunshaughlin,53.514759,-6.552474
+Meath,Division 2 B,2023,Clann na nGael,10,7,0,3,189,145,44,14,clann na ngael,53.626911,-6.910542
+Meath,Division 2 B,2023,St Ultan's,10,7,0,3,136,117,19,14,st ultans,53.672183,-6.814886
+Meath,Division 2 B,2023,Ratoath,9,5,0,4,153,111,42,10,ratoath,53.510425,-6.478256
+Meath,Division 2 B,2023,Castletown,9,5,0,4,165,134,31,10,castletown,53.767342,-6.690196
+Meath,Division 2 B,2023,Ballinlough,9,5,0,4,136,120,16,10,ballinlough,53.733882,-7.053707
+Meath,Division 2 B,2023,"St Peter's, Dunboyne",9,4,1,4,127,135,-8,9,st peters dunboyne,53.410506,-6.474412
+Meath,Division 2 B,2023,Gaeil Colmcille,9,4,0,5,126,144,-18,8,gaeil colmcille,53.71987,-6.880174
+Meath,Division 2 B,2023,Carnaross,9,4,0,5,143,143,0,8,carnaross,53.746658,-6.939989
+Meath,Division 2 B,2023,Longwood,9,3,1,5,126,149,-23,7,longwood,53.456396,-6.935679
+Meath,Division 2 B,2023,Skryne,9,1,0,8,108,211,-103,2,skryne,53.583364,-6.547767
+Meath,Division 3 A,2023,St Brigid's,10,9,0,1,150,102,48,18,st brigids ballinacree,53.76196,-7.235007
+Meath,Division 3 A,2023,Kilbride GFC,10,7,0,3,138,108,30,14,kilbride,53.453252,-6.396768
+Meath,Division 3 A,2023,Moylagh,9,7,0,2,150,88,62,14,moylagh,53.720427,-7.145013
+Meath,Division 3 A,2023,St. Colmcille's,9,5,0,4,128,131,-3,10,st colmcilles,53.696083,-6.279859
+Meath,Division 3 A,2023,Moynalty GFC,9,4,1,4,144,131,13,9,moynalty,53.7808,-6.875204
+Meath,Division 3 A,2023,Bhulf Tón Clg,9,4,0,5,124,160,-36,8,wolfe tones,53.699722,-6.682203
+Meath,Division 3 A,2023,Summerhill,9,3,1,5,121,132,-11,7,summerhill,53.483525,-6.738941
+Meath,Division 3 A,2023,Simonstown,9,3,0,6,131,148,-17,6,simonstown gaels,53.672473,-6.682418
+Meath,Division 3 A,2023,Trim,9,2,0,7,85,116,-31,4,trim,53.553324,-6.803895
+Meath,Division 3 A,2023,Kilmainhamwood,9,1,0,8,111,166,-55,2,kilmainhamwood,53.84595,-6.806986
+Meath,Division 3 B,2023,Slane,9,9,0,0,144,62,82,18,slane,53.721314,-6.478902
+Meath,Division 3 B,2023,Cortown,9,7,0,2,99,89,10,14,cortown,53.684191,-6.851621
+Meath,Division 3 B,2023,Seneschalstown GFC,9,6,0,3,131,80,51,12,seneschalstown,53.683986,-6.588064
+Meath,Division 3 B,2023,Navan O'Mahonys,9,6,0,3,121,100,21,12,omahonys navan,53.649641,-6.691038
+Meath,Division 3 B,2023,Naomh Muire,9,5,0,4,72,96,-24,10,st marys donore,53.693344,-6.445991
+Meath,Division 3 B,2023,Boardsmill,9,5,0,4,76,76,0,10,boardsmill,53.525985,-6.872563
+Meath,Division 3 B,2023,Drumconrath,9,4,0,5,88,158,-70,8,drumconrath,53.84201,-6.656773
+Meath,Division 3 B,2023,Clonard,9,2,0,7,68,138,-70,4,clonard,53.450314,-7.022092
+Meath,Division 3 B,2023,Eastern Gaels,8,0,0,8,0,0,0,0,eastern gaels gac,53.7231401,-6.2690094
+Meath,Division 3 B,2023,St Paul's,8,0,0,8,0,0,0,0,st pauls,53.433321,-6.47938
+Meath,Division 1 A,2022,Summerhill,11,7,2,2,171,132,39,16,summerhill,53.483525,-6.738941
+Meath,Division 1 A,2022,St. Colmcille's,11,7,2,2,179,131,48,16,st colmcilles,53.696083,-6.279859
+Meath,Division 1 A,2022,Ratoath,11,6,2,3,149,146,3,14,ratoath,53.510425,-6.478256
+Meath,Division 1 A,2022,"St Peter's, Dunboyne",11,6,1,4,164,136,28,13,st peters dunboyne,53.410506,-6.474412
+Meath,Division 1 A,2022,Skryne,11,6,1,4,165,155,10,13,skryne,53.583364,-6.547767
+Meath,Division 1 A,2022,Donaghmore/Ashbourne,11,6,1,4,166,158,8,13,donaghmoreashbourne,53.50943,-6.410494
+Meath,Division 1 A,2022,Bhulf Tón Clg,11,5,2,4,168,139,29,12,wolfe tones,53.699722,-6.682203
+Meath,Division 1 A,2022,Gaeil Colmcille,11,5,1,5,150,150,0,11,gaeil colmcille,53.71987,-6.880174
+Meath,Division 1 A,2022,Na Fianna CLG,11,3,3,5,131,147,-16,9,na fianna enfield,53.410992,-6.822061
+Meath,Division 1 A,2022,Simonstown,11,4,0,7,144,195,-51,8,simonstown gaels,53.672473,-6.682418
+Meath,Division 1 A,2022,Ballinabrackey,11,3,1,7,155,178,-23,7,ballinabrackey,53.396387,-7.108494
+Meath,Division 1 A,2022,Navan O'Mahonys,11,0,0,11,122,197,-75,0,omahonys navan,53.649641,-6.691038
+Meath,Division 1 B,2022,Trim,9,9,0,0,169,90,79,18,trim,53.553324,-6.803895
+Meath,Division 1 B,2022,Dunshaughlin GAA,9,7,0,2,167,108,59,14,dunshaughlin,53.514759,-6.552474
+Meath,Division 1 B,2022,Dunderry,9,5,1,3,113,113,0,11,dunderry,53.606629,-6.772329
+Meath,Division 1 B,2022,Oldcastle,9,4,1,4,139,125,14,9,oldcastle,53.745702,-7.173826
+Meath,Division 1 B,2022,Seneschalstown GFC,9,4,1,4,154,150,4,9,seneschalstown,53.683986,-6.588064
+Meath,Division 1 B,2022,Moynalvey,9,3,1,5,118,122,-4,7,moynalvey,53.469269,-6.664575
+Meath,Division 1 B,2022,Duleek-Bellewstown,9,3,1,5,126,143,-17,7,duleekbellewstown,53.654461,-6.433657
+Meath,Division 1 B,2022,Rathkenny,9,3,1,5,104,132,-28,7,rathkenny,53.742146,-6.616245
+Meath,Division 1 B,2022,Curraha,9,1,2,6,90,129,-39,4,curraha,53.554103,-6.454578
+Meath,Division 1 B,2022,Walterstown,9,2,0,7,105,173,-68,4,walterstown,53.624359,-6.609117
+Meath,Division 2 A,2022,Syddan,9,7,0,2,122,98,24,14,syddan,53.796112,-6.637596
+Meath,Division 2 A,2022,St Michael's,9,7,0,2,137,94,43,14,st michaels,53.767768,-6.827061
+Meath,Division 2 A,2022,St Patrick's,9,5,1,3,134,128,6,11,st patricks stamullen,53.633309,-6.262855
+Meath,Division 2 A,2022,St Vincent's,9,5,0,4,113,111,2,10,st vincents ardcath,53.602144,-6.38274
+Meath,Division 2 A,2022,Drumbaragh,9,4,1,4,137,137,0,9,drumbaragh emmetts,53.727573,-6.938186
+Meath,Division 2 A,2022,Bective,9,3,2,4,116,127,-11,8,bective,53.61335,-6.669671
+Meath,Division 2 A,2022,Meath Hill,9,3,1,5,116,117,-1,7,meath hill,53.887728,-6.713774
+Meath,Division 2 A,2022,Ballivor GFC,9,3,1,5,115,139,-24,7,ballivor,53.53142,-6.966286
+Meath,Division 2 A,2022,Nobber,9,3,0,6,137,145,-8,6,nobber,53.819211,-6.745727
+Meath,Division 2 A,2022,Blackhall Gaels,9,2,0,7,108,139,-31,4,blackhall gaels,53.473157,-6.545263
+Meath,Division 2 B,2022,Kilmainham,7,5,2,0,125,87,38,12,kilmainham,53.710995,-6.827317
+Meath,Division 2 B,2022,Dunshaughlin GAA,7,4,1,2,105,99,6,9,dunshaughlin,53.514759,-6.552474
+Meath,Division 2 B,2022,Donaghmore/Ashbourne,7,4,1,2,94,89,5,9,donaghmoreashbourne,53.50943,-6.410494
+Meath,Division 2 B,2022,Dunsany,7,3,2,2,98,94,4,8,dunsany,53.545872,-6.618177
+Meath,Division 2 B,2022,Clann na nGael,7,3,1,3,93,103,-10,7,clann na ngael,53.626911,-6.910542
+Meath,Division 2 B,2022,Ballinlough,7,3,0,4,92,95,-3,6,ballinlough,53.733882,-7.053707
+Meath,Division 2 B,2022,"St Peter's, Dunboyne",7,1,1,5,97,106,-9,3,st peters dunboyne,53.410506,-6.474412
+Meath,Division 2 B,2022,Longwood,7,1,0,6,87,118,-31,2,longwood,53.456396,-6.935679
+Meath,Division 3 A,2022,Castletown,7,6,0,1,135,89,46,12,castletown,53.767342,-6.690196
+Meath,Division 3 A,2022,Carnaross,6,5,1,0,114,67,47,11,carnaross,53.746658,-6.939989
+Meath,Division 3 A,2022,Skryne,7,3,1,3,106,128,-22,7,skryne,53.583364,-6.547767
+Meath,Division 3 A,2022,Gaeil Colmcille,7,3,0,4,110,123,-13,6,gaeil colmcille,53.71987,-6.880174
+Meath,Division 3 A,2022,Ratoath,6,3,0,3,102,96,6,6,ratoath,53.510425,-6.478256
+Meath,Division 3 A,2022,St Ultan's,7,2,1,4,110,109,1,5,st ultans,53.672183,-6.814886
+Meath,Division 3 A,2022,St. Colmcille's,7,2,0,5,99,104,-5,4,st colmcilles,53.696083,-6.279859
+Meath,Division 3 A,2022,Trim,7,1,1,5,99,159,-60,3,trim,53.553324,-6.803895
+Meath,Division 3 B,2022,Moylagh,8,7,0,1,115,91,24,14,moylagh,53.720427,-7.145013
+Meath,Division 3 B,2022,Kilbride GFC,8,6,1,1,157,99,58,13,kilbride,53.453252,-6.396768
+Meath,Division 3 B,2022,Moynalty GFC,8,5,1,2,172,118,54,11,moynalty,53.7808,-6.875204
+Meath,Division 3 B,2022,St Brigid's,8,5,1,2,127,95,32,11,st brigids ballinacree,53.76196,-7.235007
+Meath,Division 3 B,2022,Simonstown,8,3,1,4,139,131,8,7,simonstown gaels,53.672473,-6.682418
+Meath,Division 3 B,2022,Summerhill,8,3,0,5,97,125,-28,6,summerhill,53.483525,-6.738941
+Meath,Division 3 B,2022,Bhulf Tón Clg,8,2,1,5,83,119,-36,5,wolfe tones,53.699722,-6.682203
+Meath,Division 3 B,2022,Navan O'Mahonys,8,1,1,6,121,162,-41,3,omahonys navan,53.649641,-6.691038
+Meath,Division 3 B,2022,Boardsmill,8,1,0,7,77,148,-71,2,boardsmill,53.525985,-6.872563
+Meath,Division 4,2022,Kilmainhamwood,7,5,2,0,110,65,45,12,kilmainhamwood,53.84595,-6.806986
+Meath,Division 4,2022,Drumconrath,7,6,0,1,60,49,11,12,drumconrath,53.84201,-6.656773
+Meath,Division 4,2022,Slane,7,5,1,1,109,75,34,11,slane,53.721314,-6.478902
+Meath,Division 4,2022,Cortown,7,3,0,4,68,62,6,6,cortown,53.684191,-6.851621
+Meath,Division 4,2022,St Mary's GFC,7,3,0,4,105,100,5,6,st marys donore,53.693344,-6.445991
+Meath,Division 4,2022,Seneschalstown GFC,7,3,0,4,71,99,-28,6,seneschalstown,53.683986,-6.588064
+Meath,Division 4,2022,Clonard,7,1,1,5,56,102,-46,3,clonard,53.450314,-7.022092
+Meath,Division 4,2022,St Paul's,7,0,0,7,1,28,-27,0,st pauls,53.433321,-6.47938
+Meath,Division 1 A,2021,"St Peter's, Dunboyne",7,7,0,0,162,63,99,14,st peters dunboyne,53.410506,-6.474412
+Meath,Division 1 A,2021,Summerhill,7,5,0,2,87,79,8,10,summerhill,53.483525,-6.738941
+Meath,Division 1 A,2021,Gaeil Colmcille,7,5,0,2,114,110,4,10,gaeil colmcille,53.71987,-6.880174
+Meath,Division 1 A,2021,Moynalvey,7,4,0,3,102,101,1,8,moynalvey,53.469269,-6.664575
+Meath,Division 1 A,2021,Donaghmore/Ashbourne,6,2,0,4,102,97,5,4,donaghmoreashbourne,53.50943,-6.410494
+Meath,Division 1 A,2021,Navan O'Mahonys,6,2,0,4,91,102,-11,4,omahonys navan,53.649641,-6.691038
+Meath,Division 1 A,2021,Dunshaughlin GAA,7,1,1,5,80,100,-20,3,dunshaughlin,53.514759,-6.552474
+Meath,Division 1 A,2021,Curraha,7,0,1,6,43,129,-86,1,curraha,53.554103,-6.454578
+Meath,Division 1 B,2021,Bhulf Tón Clg,7,6,0,1,130,78,52,12,wolfe tones,53.699722,-6.682203
+Meath,Division 1 B,2021,Simonstown,7,6,0,1,120,92,28,12,simonstown gaels,53.672473,-6.682418
+Meath,Division 1 B,2021,Seneschalstown GFC,7,4,0,3,118,117,1,8,seneschalstown,53.683986,-6.588064
+Meath,Division 1 B,2021,Ratoath,7,3,1,3,108,111,-3,7,ratoath,53.510425,-6.478256
+Meath,Division 1 B,2021,Skryne,7,3,0,4,105,118,-13,6,skryne,53.583364,-6.547767
+Meath,Division 1 B,2021,St. Colmcille's,7,2,1,4,106,105,1,5,st colmcilles,53.696083,-6.279859
+Meath,Division 1 B,2021,Na Fianna CLG,7,2,0,5,93,140,-47,4,na fianna enfield,53.410992,-6.822061
+Meath,Division 1 B,2021,Ballinabrackey,7,1,0,6,76,95,-19,2,ballinabrackey,53.396387,-7.108494
+Meath,Division 2 A,2021,St Michael's,5,5,0,0,80,59,21,10,st michaels,53.767768,-6.827061
+Meath,Division 2 A,2021,Meath Hill,5,4,0,1,99,58,41,8,meath hill,53.887728,-6.713774
+Meath,Division 2 A,2021,Ballivor GFC,5,2,1,2,74,82,-8,5,ballivor,53.53142,-6.966286
+Meath,Division 2 A,2021,Ballinlough,5,1,1,3,67,71,-4,3,ballinlough,53.733882,-7.053707
+Meath,Division 2 A,2021,Syddan,5,1,0,4,55,78,-23,2,syddan,53.796112,-6.637596
+Meath,Division 2 A,2021,Nobber,5,1,0,4,70,97,-27,2,nobber,53.819211,-6.745727
+Meath,Division 2 B,2021,St Patrick's,5,4,1,0,91,69,22,9,st patricks stamullen,53.633309,-6.262855
+Meath,Division 2 B,2021,Duleek-Bellewstown,5,4,0,1,96,68,28,8,duleekbellewstown,53.654461,-6.433657
+Meath,Division 2 B,2021,Blackhall Gaels,5,2,0,3,74,80,-6,4,blackhall gaels,53.473157,-6.545263
+Meath,Division 2 B,2021,Walterstown,5,1,2,2,87,88,-1,4,walterstown,53.624359,-6.609117
+Meath,Division 2 B,2021,Rathkenny,5,1,1,3,73,77,-4,3,rathkenny,53.742146,-6.616245
+Meath,Division 2 B,2021,Clann na nGael,5,1,0,4,64,103,-39,2,clann na ngael,53.626911,-6.910542
+Meath,Division 2 C,2021,Trim,7,7,0,0,147,66,81,14,trim,53.553324,-6.803895
+Meath,Division 2 C,2021,Oldcastle,7,6,0,1,119,72,47,12,oldcastle,53.745702,-7.173826
+Meath,Division 2 C,2021,Drumbaragh,7,4,0,3,107,116,-9,8,drumbaragh emmetts,53.727573,-6.938186
+Meath,Division 2 C,2021,Dunderry,7,4,0,3,86,79,7,8,dunderry,53.606629,-6.772329
+Meath,Division 2 C,2021,Moylagh,7,2,0,5,93,100,-7,4,moylagh,53.720427,-7.145013
+Meath,Division 2 C,2021,Bective,7,2,0,5,122,140,-18,4,bective,53.61335,-6.669671
+Meath,Division 2 C,2021,Kilmainham,7,2,0,5,75,133,-58,4,kilmainham,53.710995,-6.827317
+Meath,Division 2 C,2021,Longwood,7,1,0,6,93,136,-43,2,longwood,53.456396,-6.935679
+Meath,A-League Division 1,2019,Navan O'Mahonys,13,11,0,2,256,156,100,22,omahonys navan,53.649641,-6.691038
+Meath,A-League Division 1,2019,Gaeil Colmcille,13,10,0,3,254,160,94,20,gaeil colmcille,53.71987,-6.880174
+Meath,A-League Division 1,2019,Summerhill,13,10,0,3,256,202,54,20,summerhill,53.483525,-6.738941
+Meath,A-League Division 1,2019,Simonstown,13,9,1,3,237,170,67,19,simonstown gaels,53.672473,-6.682418
+Meath,A-League Division 1,2019,Na Fianna CLG,13,8,0,5,230,203,27,16,na fianna enfield,53.410992,-6.822061
+Meath,A-League Division 1,2019,Donaghmore/Ashbourne,13,6,3,4,215,194,21,15,donaghmoreashbourne,53.50943,-6.410494
+Meath,A-League Division 1,2019,Ratoath,13,7,0,6,206,216,-10,14,ratoath,53.510425,-6.478256
+Meath,A-League Division 1,2019,"St Peter's, Dunboyne",13,6,1,6,226,231,-5,13,st peters dunboyne,53.410506,-6.474412
+Meath,A-League Division 1,2019,Dunshaughlin GAA,13,4,2,7,189,195,-6,10,dunshaughlin,53.514759,-6.552474
+Meath,A-League Division 1,2019,Bhulf Tón Clg,13,4,2,7,215,239,-24,10,wolfe tones,53.699722,-6.682203
+Meath,A-League Division 1,2019,Skryne,13,3,3,7,186,233,-47,9,skryne,53.583364,-6.547767
+Meath,A-League Division 1,2019,Oldcastle,13,4,1,8,166,231,-65,9,oldcastle,53.745702,-7.173826
+Meath,A-League Division 1,2019,Syddan,13,1,1,11,166,273,-107,3,syddan,53.796112,-6.637596
+Meath,A-League Division 1,2019,Moynalvey,13,0,2,11,141,240,-99,2,moynalvey,53.469269,-6.664575
+Meath,A-League Division 2,2019,Seneschalstown GFC,13,10,1,2,238,161,77,21,seneschalstown,53.683986,-6.588064
+Meath,A-League Division 2,2019,Ballinabrackey,13,8,3,2,195,163,32,19,ballinabrackey,53.396387,-7.108494
+Meath,A-League Division 2,2019,St Patrick's,13,8,2,3,202,177,25,18,st patricks stamullen,53.633309,-6.262855
+Meath,A-League Division 2,2019,St. Colmcille's,13,8,0,5,221,167,54,16,st colmcilles,53.696083,-6.279859
+Meath,A-League Division 2,2019,Curraha,13,6,3,4,183,187,-4,15,curraha,53.554103,-6.454578
+Meath,A-League Division 2,2019,Dunderry,13,6,2,5,184,169,15,14,dunderry,53.606629,-6.772329
+Meath,A-League Division 2,2019,Rathkenny,13,7,0,6,154,177,-23,14,rathkenny,53.742146,-6.616245
+Meath,A-League Division 2,2019,Carnaross,13,6,1,6,184,207,-23,13,carnaross,53.746658,-6.939989
+Meath,A-League Division 2,2019,Trim,13,4,3,6,188,186,2,11,trim,53.553324,-6.803895
+Meath,A-League Division 2,2019,Duleek-Bellewstown,13,5,1,7,196,190,6,11,duleekbellewstown,53.654461,-6.433657
+Meath,A-League Division 2,2019,Nobber,13,3,4,6,170,181,-11,10,nobber,53.819211,-6.745727
+Meath,A-League Division 2,2019,Bective,13,3,3,7,175,219,-44,9,bective,53.61335,-6.669671
+Meath,A-League Division 2,2019,Meath Hill,13,2,2,9,151,188,-37,6,meath hill,53.887728,-6.713774
+Meath,A-League Division 2,2019,St Michael's,13,2,1,10,165,234,-69,5,st michaels,53.767768,-6.827061
+Meath,A-League Division 3,2019,Castletown,11,10,0,1,206,122,84,20,castletown,53.767342,-6.690196
+Meath,A-League Division 3,2019,Ballinlough,11,8,1,2,197,141,56,17,ballinlough,53.733882,-7.053707
+Meath,A-League Division 3,2019,Walterstown,11,7,1,3,187,133,54,15,walterstown,53.624359,-6.609117
+Meath,A-League Division 3,2019,Drumbaragh,11,6,3,2,178,144,34,15,drumbaragh emmetts,53.727573,-6.938186
+Meath,A-League Division 3,2019,St Vincent's,11,7,0,4,150,137,13,14,st vincents ardcath,53.602144,-6.38274
+Meath,A-League Division 3,2019,St Ultan's,11,5,1,5,190,171,19,11,st ultans,53.672183,-6.814886
+Meath,A-League Division 3,2019,Moynalty GFC,11,3,2,6,166,178,-12,8,moynalty,53.7808,-6.875204
+Meath,A-League Division 3,2019,Ballivor GFC,11,3,2,6,170,200,-30,8,ballivor,53.53142,-6.966286
+Meath,A-League Division 3,2019,Blackhall Gaels,11,2,3,6,142,161,-19,7,blackhall gaels,53.473157,-6.545263
+Meath,A-League Division 3,2019,Kilmainham,11,3,1,7,117,199,-82,7,kilmainham,53.710995,-6.827317
+Meath,A-League Division 3,2019,Dunsany,11,2,2,7,140,183,-43,6,dunsany,53.545872,-6.618177
+Meath,A-League Division 3,2019,Longwood,11,2,0,9,133,207,-74,4,longwood,53.456396,-6.935679
+Meath,A-League Division 4,2019,Moylagh,10,9,0,1,169,112,57,18,moylagh,53.720427,-7.145013
+Meath,A-League Division 4,2019,Clann na nGael,10,8,0,2,217,118,99,16,clann na ngael,53.626911,-6.910542
+Meath,A-League Division 4,2019,Kilbride GFC,10,7,0,3,194,129,65,14,kilbride,53.453252,-6.396768
+Meath,A-League Division 4,2019,Kilmainhamwood,10,6,1,3,148,134,14,13,kilmainhamwood,53.84595,-6.806986
+Meath,A-League Division 4,2019,Slane,10,6,0,4,160,147,13,12,slane,53.721314,-6.478902
+Meath,A-League Division 4,2019,Cortown,10,6,0,4,149,128,21,12,cortown,53.684191,-6.851621
+Meath,A-League Division 4,2019,Boardsmill,10,4,2,4,170,156,14,10,boardsmill,53.525985,-6.872563
+Meath,A-League Division 4,2019,St Brigid's,10,3,1,6,109,153,-44,7,st brigids ballinacree,53.76196,-7.235007
+Meath,A-League Division 4,2019,Drumconrath,10,3,0,7,108,148,-40,6,drumconrath,53.84201,-6.656773
+Meath,A-League Division 4,2019,Clonard,10,0,1,9,99,194,-95,1,clonard,53.450314,-7.022092
+Meath,A-League Division 4,2019,St Mary's GFC,10,0,1,9,85,189,-104,1,st marys donore,53.693344,-6.445991
+Meath,B-League Division 1,2019,"St Peter's, Dunboyne",10,9,0,1,217,142,75,18,st peters dunboyne,53.410506,-6.474412
+Meath,B-League Division 1,2019,Donaghmore/Ashbourne,10,8,0,2,192,168,24,16,donaghmoreashbourne,53.50943,-6.410494
+Meath,B-League Division 1,2019,Seneschalstown GFC,10,5,2,3,179,168,11,12,seneschalstown,53.683986,-6.588064
+Meath,B-League Division 1,2019,Skryne,10,5,1,4,145,130,15,11,skryne,53.583364,-6.547767
+Meath,B-League Division 1,2019,Ratoath,10,5,0,5,193,148,45,10,ratoath,53.510425,-6.478256
+Meath,B-League Division 1,2019,Gaeil Colmcille,10,4,1,5,132,117,15,9,gaeil colmcille,53.71987,-6.880174
+Meath,B-League Division 1,2019,St. Colmcille's,9,4,1,4,112,140,-28,9,st colmcilles,53.696083,-6.279859
+Meath,B-League Division 1,2019,Summerhill,9,4,0,5,133,153,-20,8,summerhill,53.483525,-6.738941
+Meath,B-League Division 1,2019,Bhulf Tón Clg,10,4,0,6,118,147,-29,8,wolfe tones,53.699722,-6.682203
+Meath,B-League Division 1,2019,Navan O'Mahonys,10,2,1,7,132,170,-38,5,omahonys navan,53.649641,-6.691038
+Meath,B-League Division 1,2019,Simonstown,10,1,0,9,103,173,-70,2,simonstown gaels,53.672473,-6.682418
+Meath,B-League Division 2,2019,Dunshaughlin GAA,9,8,0,1,190,86,104,16,dunshaughlin,53.514759,-6.552474
+Meath,B-League Division 2,2019,Na Fianna CLG,9,7,1,1,107,95,12,15,na fianna enfield,53.410992,-6.822061
+Meath,B-League Division 2,2019,St Patrick's,9,6,0,3,150,115,35,12,st patricks stamullen,53.633309,-6.262855
+Meath,B-League Division 2,2019,Trim,9,5,1,3,139,145,-6,11,trim,53.553324,-6.803895
+Meath,B-League Division 2,2019,"St Peter's, Dunboyne",9,5,0,4,129,109,20,10,st peters dunboyne,53.410506,-6.474412
+Meath,B-League Division 2,2019,Duleek-Bellewstown,9,4,0,5,158,144,14,8,duleekbellewstown,53.654461,-6.433657
+Meath,B-League Division 2,2019,Nobber,9,4,0,5,136,164,-28,8,nobber,53.819211,-6.745727
+Meath,B-League Division 2,2019,Moynalvey,9,3,0,6,128,161,-33,6,moynalvey,53.469269,-6.664575
+Meath,B-League Division 2,2019,Blackhall Gaels,9,1,0,8,112,178,-66,2,blackhall gaels,53.473157,-6.545263
+Meath,B-League Division 2,2019,St Michael's,9,1,0,8,95,147,-52,2,st michaels,53.767768,-6.827061
+Meath,B-League Division 3,2019,Curraha,9,8,0,1,150,115,35,16,curraha,53.554103,-6.454578
+Meath,B-League Division 3,2019,Walterstown,9,7,0,2,100,68,32,14,walterstown,53.624359,-6.609117
+Meath,B-League Division 3,2019,Rathkenny,8,6,0,2,131,85,46,12,rathkenny,53.742146,-6.616245
+Meath,B-League Division 3,2019,Donaghmore/Ashbourne,9,6,0,3,151,110,41,12,donaghmoreashbourne,53.50943,-6.410494
+Meath,B-League Division 3,2019,Clann na nGael,9,5,0,4,126,124,2,10,clann na ngael,53.626911,-6.910542
+Meath,B-League Division 3,2019,Castletown,9,4,0,5,52,58,-6,8,castletown,53.767342,-6.690196
+Meath,B-League Division 3,2019,Oldcastle,9,3,0,6,35,59,-24,6,oldcastle,53.745702,-7.173826
+Meath,B-League Division 3,2019,Meath Hill,9,3,0,6,74,156,-82,6,meath hill,53.887728,-6.713774
+Meath,B-League Division 3,2019,Ballinlough,9,2,0,7,17,38,-21,4,ballinlough,53.733882,-7.053707
+Meath,B-League Division 3,2019,Bective,8,0,0,8,15,38,-23,0,bective,53.61335,-6.669671
+Meath,B-League Division 4,2019,Dunderry,9,8,0,1,146,78,68,16,dunderry,53.606629,-6.772329
+Meath,B-League Division 4,2019,Carnaross,9,8,0,1,143,90,53,16,carnaross,53.746658,-6.939989
+Meath,B-League Division 4,2019,St Ultan's,9,7,0,2,195,118,77,14,st ultans,53.672183,-6.814886
+Meath,B-League Division 4,2019,Syddan,9,5,0,4,135,120,15,10,syddan,53.796112,-6.637596
+Meath,B-League Division 4,2019,Seneschalstown GFC,9,4,0,5,87,109,-22,8,seneschalstown,53.683986,-6.588064
+Meath,B-League Division 4,2019,Dunsany,9,4,0,5,88,95,-7,8,dunsany,53.545872,-6.618177
+Meath,B-League Division 4,2019,Simonstown,9,3,0,6,100,178,-78,6,simonstown gaels,53.672473,-6.682418
+Meath,B-League Division 4,2019,St Paul's,9,3,0,6,70,114,-44,6,st pauls,53.433321,-6.47938
+Meath,B-League Division 4,2019,Ballinabrackey,9,2,0,7,53,50,3,4,ballinabrackey,53.396387,-7.108494
+Meath,B-League Division 4,2019,Summerhill,9,1,0,8,106,171,-65,2,summerhill,53.483525,-6.738941
+Meath,B-League Division 5,2019,Kilbride GFC,9,9,0,0,102,78,24,18,kilbride,53.453252,-6.396768
+Meath,B-League Division 5,2019,Gaeil Colmcille,9,7,0,2,122,101,21,14,gaeil colmcille,53.71987,-6.880174
+Meath,B-League Division 5,2019,St Vincent's,9,6,0,3,137,91,46,12,st vincents ardcath,53.602144,-6.38274
+Meath,B-League Division 5,2019,Cortown,9,4,2,3,116,130,-14,10,cortown,53.684191,-6.851621
+Meath,B-League Division 5,2019,Navan O'Mahonys,9,4,1,4,120,106,14,9,omahonys navan,53.649641,-6.691038
+Meath,B-League Division 5,2019,Ratoath,9,4,1,4,101,112,-11,9,ratoath,53.510425,-6.478256
+Meath,B-League Division 5,2019,Donaghmore/Ashbourne,9,3,0,6,115,132,-17,6,donaghmoreashbourne,53.50943,-6.410494
+Meath,B-League Division 5,2019,Moynalty GFC,9,3,0,6,94,105,-11,6,moynalty,53.7808,-6.875204
+Meath,B-League Division 5,2019,Dunshaughlin GAA,9,1,2,6,94,137,-43,4,dunshaughlin,53.514759,-6.552474
+Meath,B-League Division 5,2019,Clonard,9,1,0,8,42,51,-9,2,clonard,53.450314,-7.022092
+Meath,B-League Division 6,2019,Bhulf Tón Clg,9,8,0,1,142,86,56,16,wolfe tones,53.699722,-6.682203
+Meath,B-League Division 6,2019,Drumbaragh,9,7,0,2,176,116,60,14,drumbaragh emmetts,53.727573,-6.938186
+Meath,B-League Division 6,2019,Kilmainham,9,6,0,3,61,67,-6,12,kilmainham,53.710995,-6.827317
+Meath,B-League Division 6,2019,St Brigid's,9,6,0,3,69,77,-8,12,st brigids ballinacree,53.76196,-7.235007
+Meath,B-League Division 6,2019,Ballivor GFC,9,4,0,5,47,40,7,8,ballivor,53.53142,-6.966286
+Meath,B-League Division 6,2019,St. Colmcille's,9,4,0,5,90,95,-5,8,st colmcilles,53.696083,-6.279859
+Meath,B-League Division 6,2019,Kilmainhamwood,9,4,0,5,66,81,-15,8,kilmainhamwood,53.84595,-6.806986
+Meath,B-League Division 6,2019,Drumconrath,9,2,0,7,23,25,-2,4,drumconrath,53.84201,-6.656773
+Meath,B-League Division 6,2019,Slane,9,2,0,7,29,52,-23,4,slane,53.721314,-6.478902
+Meath,B-League Division 6,2019,Moylagh,9,2,0,7,68,132,-64,4,moylagh,53.720427,-7.145013
+Meath,A-League Division 1,2018,Gaeil Colmcille,13,11,0,2,206,168,38,22,gaeil colmcille,53.71987,-6.880174
+Meath,A-League Division 1,2018,Skryne,13,11,0,2,236,156,80,22,skryne,53.583364,-6.547767
+Meath,A-League Division 1,2018,Summerhill,13,9,1,3,238,171,67,19,summerhill,53.483525,-6.738941
+Meath,A-League Division 1,2018,"St Peter's, Dunboyne",13,9,1,3,205,157,48,19,st peters dunboyne,53.410506,-6.474412
+Meath,A-League Division 1,2018,Donaghmore/Ashbourne,13,8,1,4,180,167,13,17,donaghmoreashbourne,53.50943,-6.410494
+Meath,A-League Division 1,2018,Bhulf Tón Clg,13,7,0,6,197,191,6,14,wolfe tones,53.699722,-6.682203
+Meath,A-League Division 1,2018,Navan O'Mahonys,13,5,1,7,186,192,-6,11,omahonys navan,53.649641,-6.691038
+Meath,A-League Division 1,2018,Simonstown,13,5,1,7,202,193,9,11,simonstown gaels,53.672473,-6.682418
+Meath,A-League Division 1,2018,Dunshaughlin GAA,13,4,2,7,194,214,-20,10,dunshaughlin,53.514759,-6.552474
+Meath,A-League Division 1,2018,Ratoath,13,4,1,8,148,163,-15,9,ratoath,53.510425,-6.478256
+Meath,A-League Division 1,2018,Na Fianna CLG,13,4,1,8,182,209,-27,9,na fianna enfield,53.410992,-6.822061
+Meath,A-League Division 1,2018,Moynalvey,13,4,1,8,188,234,-46,9,moynalvey,53.469269,-6.664575
+Meath,A-League Division 1,2018,St. Colmcille's,13,3,0,10,139,219,-80,6,st colmcilles,53.696083,-6.279859
+Meath,A-League Division 1,2018,St Patrick's,13,2,0,11,138,205,-67,4,st patricks stamullen,53.633309,-6.262855
+Meath,A-League Division 2,2018,Syddan,13,9,2,2,224,184,40,20,syddan,53.796112,-6.637596
+Meath,A-League Division 2,2018,Oldcastle,13,9,2,2,231,193,38,20,oldcastle,53.745702,-7.173826
+Meath,A-League Division 2,2018,Rathkenny,13,9,1,3,199,139,60,19,rathkenny,53.742146,-6.616245
+Meath,A-League Division 2,2018,Seneschalstown GFC,13,6,3,4,245,221,24,15,seneschalstown,53.683986,-6.588064
+Meath,A-League Division 2,2018,Ballinabrackey,13,6,2,5,130,134,-4,14,ballinabrackey,53.396387,-7.108494
+Meath,A-League Division 2,2018,Duleek-Bellewstown,13,6,2,5,224,195,29,14,duleekbellewstown,53.654461,-6.433657
+Meath,A-League Division 2,2018,Curraha,13,6,0,7,200,193,7,12,curraha,53.554103,-6.454578
+Meath,A-League Division 2,2018,Trim,13,6,0,7,221,231,-10,12,trim,53.553324,-6.803895
+Meath,A-League Division 2,2018,St Michael's,13,5,2,6,184,206,-22,12,st michaels,53.767768,-6.827061
+Meath,A-League Division 2,2018,Dunderry,13,3,4,6,152,188,-36,10,dunderry,53.606629,-6.772329
+Meath,A-League Division 2,2018,Nobber,13,5,0,8,194,215,-21,10,nobber,53.819211,-6.745727
+Meath,A-League Division 2,2018,Blackhall Gaels,13,3,3,7,164,200,-36,9,blackhall gaels,53.473157,-6.545263
+Meath,A-League Division 2,2018,Walterstown,13,4,0,9,185,212,-27,8,walterstown,53.624359,-6.609117
+Meath,A-League Division 2,2018,Castletown,13,2,3,8,190,232,-42,7,castletown,53.767342,-6.690196
+Meath,A-League Division 3,2018,Bective,11,9,0,2,167,122,45,18,bective,53.61335,-6.669671
+Meath,A-League Division 3,2018,Meath Hill,11,9,0,2,200,147,53,18,meath hill,53.887728,-6.713774
+Meath,A-League Division 3,2018,Carnaross,11,8,0,3,178,124,54,16,carnaross,53.746658,-6.939989
+Meath,A-League Division 3,2018,Drumbaragh,11,6,1,4,150,140,10,13,drumbaragh emmetts,53.727573,-6.938186
+Meath,A-League Division 3,2018,Dunsany,11,6,0,5,155,152,3,12,dunsany,53.545872,-6.618177
+Meath,A-League Division 3,2018,Ballinlough,11,6,0,5,152,164,-12,12,ballinlough,53.733882,-7.053707
+Meath,A-League Division 3,2018,Kilmainham,11,5,0,6,151,149,2,10,kilmainham,53.710995,-6.827317
+Meath,A-League Division 3,2018,St Ultan's,11,5,0,6,188,198,-10,10,st ultans,53.672183,-6.814886
+Meath,A-League Division 3,2018,Longwood,11,3,2,6,151,163,-12,8,longwood,53.456396,-6.935679
+Meath,A-League Division 3,2018,St Vincent's,11,3,1,7,125,139,-14,7,st vincents ardcath,53.602144,-6.38274
+Meath,A-League Division 3,2018,Clann na nGael,11,2,0,9,124,185,-61,4,clann na ngael,53.626911,-6.910542
+Meath,A-League Division 3,2018,Cortown,11,2,0,9,127,185,-58,4,cortown,53.684191,-6.851621
+Meath,A-League Division 4,2018,Ballivor GFC,9,9,0,0,181,87,94,18,ballivor,53.53142,-6.966286
+Meath,A-League Division 4,2018,Moynalty GFC,10,9,0,1,185,104,81,18,moynalty,53.7808,-6.875204
+Meath,A-League Division 4,2018,St Brigid's,10,7,0,3,162,141,21,14,st brigids ballinacree,53.76196,-7.235007
+Meath,A-League Division 4,2018,Moylagh,10,7,0,3,171,137,34,14,moylagh,53.720427,-7.145013
+Meath,A-League Division 4,2018,Kilbride GFC,10,6,0,4,124,131,-7,12,kilbride,53.453252,-6.396768
+Meath,A-League Division 4,2018,St Mary's GFC,10,3,1,6,114,134,-20,7,st marys donore,53.693344,-6.445991
+Meath,A-League Division 4,2018,Drumconrath,10,3,1,6,102,143,-41,7,drumconrath,53.84201,-6.656773
+Meath,A-League Division 4,2018,Kilmainhamwood,11,3,1,7,119,166,-47,7,kilmainhamwood,53.84595,-6.806986
+Meath,A-League Division 4,2018,Clonard,10,3,0,7,119,130,-11,6,clonard,53.450314,-7.022092
+Meath,A-League Division 4,2018,Boardsmill,10,3,0,7,127,161,-34,6,boardsmill,53.525985,-6.872563
+Meath,A-League Division 4,2018,Slane,9,0,1,8,63,133,-70,1,slane,53.721314,-6.478902
+Meath,A-League Division 4,2018,St Paul's,1,0,0,1,0,0,0,0,st pauls,53.433321,-6.47938
+Meath,B-League Division 1,2018,Donaghmore/Ashbourne,9,9,0,0,193,98,95,18,donaghmoreashbourne,53.50943,-6.410494
+Meath,B-League Division 1,2018,Simonstown,9,8,0,1,191,137,54,16,simonstown gaels,53.672473,-6.682418
+Meath,B-League Division 1,2018,"St Peter's, Dunboyne",8,6,0,2,188,121,67,12,st peters dunboyne,53.410506,-6.474412
+Meath,B-League Division 1,2018,Skryne,8,6,0,2,156,102,54,12,skryne,53.583364,-6.547767
+Meath,B-League Division 1,2018,Ratoath,9,3,0,6,150,165,-15,6,ratoath,53.510425,-6.478256
+Meath,B-League Division 1,2018,Gaeil Colmcille,9,3,0,6,105,132,-27,6,gaeil colmcille,53.71987,-6.880174
+Meath,B-League Division 1,2018,St. Colmcille's,9,3,0,6,111,160,-49,6,st colmcilles,53.696083,-6.279859
+Meath,B-League Division 1,2018,Summerhill,9,3,0,6,110,182,-72,6,summerhill,53.483525,-6.738941
+Meath,B-League Division 1,2018,Bhulf Tón Clg,9,2,0,7,124,197,-73,4,wolfe tones,53.699722,-6.682203
+Meath,B-League Division 1,2018,St Patrick's,9,1,0,8,51,85,-34,2,st patricks stamullen,53.633309,-6.262855
+Meath,B-League Division 2,2018,Navan O'Mahonys,9,9,0,0,124,52,72,18,omahonys navan,53.649641,-6.691038
+Meath,B-League Division 2,2018,Seneschalstown GFC,9,8,0,1,176,97,79,16,seneschalstown,53.683986,-6.588064
+Meath,B-League Division 2,2018,Na Fianna CLG,9,5,1,3,122,101,21,11,na fianna enfield,53.410992,-6.822061
+Meath,B-League Division 2,2018,Dunshaughlin GAA,8,4,0,4,148,102,46,8,dunshaughlin,53.514759,-6.552474
+Meath,B-League Division 2,2018,Trim,8,4,0,4,136,146,-10,8,trim,53.553324,-6.803895
+Meath,B-League Division 2,2018,Moynalvey,8,4,0,4,58,79,-21,8,moynalvey,53.469269,-6.664575
+Meath,B-League Division 2,2018,Skryne,8,3,1,4,110,125,-15,7,skryne,53.583364,-6.547767
+Meath,B-League Division 2,2018,Nobber,8,3,0,5,110,120,-10,6,nobber,53.819211,-6.745727
+Meath,B-League Division 2,2018,Blackhall Gaels,8,1,0,7,112,177,-65,2,blackhall gaels,53.473157,-6.545263
+Meath,B-League Division 2,2018,Castletown,9,0,0,9,69,166,-97,0,castletown,53.767342,-6.690196
+Meath,B-League Division 3,2018,St Michael's,9,8,0,1,149,110,39,16,st michaels,53.767768,-6.827061
+Meath,B-League Division 3,2018,Duleek-Bellewstown,9,7,0,2,108,104,4,14,duleekbellewstown,53.654461,-6.433657
+Meath,B-League Division 3,2018,"St Peter's, Dunboyne",9,7,0,2,104,64,40,14,st peters dunboyne,53.410506,-6.474412
+Meath,B-League Division 3,2018,Rathkenny,9,5,1,3,100,99,1,11,rathkenny,53.742146,-6.616245
+Meath,B-League Division 3,2018,Clann na nGael,9,5,0,4,61,78,-17,10,clann na ngael,53.626911,-6.910542
+Meath,B-League Division 3,2018,Walterstown,8,3,1,4,104,96,8,7,walterstown,53.624359,-6.609117
+Meath,B-League Division 3,2018,Curraha,8,3,0,5,107,126,-19,6,curraha,53.554103,-6.454578
+Meath,B-League Division 3,2018,Oldcastle,9,3,0,6,100,88,12,6,oldcastle,53.745702,-7.173826
+Meath,B-League Division 3,2018,Donaghmore/Ashbourne,9,2,0,7,132,151,-19,4,donaghmoreashbourne,53.50943,-6.410494
+Meath,B-League Division 3,2018,Ballinlough,9,0,0,9,61,110,-49,0,ballinlough,53.733882,-7.053707
+Meath,B-League Division 4,2018,Meath Hill,10,10,0,0,121,93,28,20,meath hill,53.887728,-6.713774
+Meath,B-League Division 4,2018,Bective,10,8,1,1,145,81,64,17,bective,53.61335,-6.669671
+Meath,B-League Division 4,2018,Seneschalstown GFC,10,7,1,2,132,122,10,15,seneschalstown,53.683986,-6.588064
+Meath,B-League Division 4,2018,St Ultan's,9,5,1,3,129,110,19,11,st ultans,53.672183,-6.814886
+Meath,B-League Division 4,2018,Simonstown,10,5,0,5,118,115,3,10,simonstown gaels,53.672473,-6.682418
+Meath,B-League Division 4,2018,Syddan,9,5,0,4,107,110,-3,10,syddan,53.796112,-6.637596
+Meath,B-League Division 4,2018,Dunsany,10,4,0,6,83,86,-3,8,dunsany,53.545872,-6.618177
+Meath,B-League Division 4,2018,Dunderry,10,3,0,7,102,127,-25,6,dunderry,53.606629,-6.772329
+Meath,B-League Division 4,2018,Summerhill,10,2,2,6,69,82,-13,6,summerhill,53.483525,-6.738941
+Meath,B-League Division 4,2018,Cortown,10,1,1,8,105,155,-50,3,cortown,53.684191,-6.851621
+Meath,B-League Division 4,2018,Moynalty GFC,10,1,0,9,97,127,-30,2,moynalty,53.7808,-6.875204
+Meath,B-League Division 5,2018,Carnaross,8,8,0,0,137,62,75,16,carnaross,53.746658,-6.939989
+Meath,B-League Division 5,2018,Ballinabrackey,9,7,0,2,149,106,43,14,ballinabrackey,53.396387,-7.108494
+Meath,B-League Division 5,2018,Kilbride GFC,9,5,0,4,141,77,64,10,kilbride,53.453252,-6.396768
+Meath,B-League Division 5,2018,Navan O'Mahonys,8,5,0,3,97,100,-3,10,omahonys navan,53.649641,-6.691038
+Meath,B-League Division 5,2018,Gaeil Colmcille,9,4,2,3,103,118,-15,10,gaeil colmcille,53.71987,-6.880174
+Meath,B-League Division 5,2018,Ratoath,9,3,2,4,79,108,-29,8,ratoath,53.510425,-6.478256
+Meath,B-League Division 5,2018,Donaghmore/Ashbourne,9,3,1,5,77,120,-43,7,donaghmoreashbourne,53.50943,-6.410494
+Meath,B-League Division 5,2018,Drumbaragh,9,2,1,6,88,149,-61,5,drumbaragh emmetts,53.727573,-6.938186
+Meath,B-League Division 5,2018,Dunshaughlin GAA,9,2,0,7,80,81,-1,4,dunshaughlin,53.514759,-6.552474
+Meath,B-League Division 5,2018,Clonard,9,2,0,7,49,79,-30,4,clonard,53.450314,-7.022092
+Meath,B-League Division 6,2018,St Vincent's,6,5,0,1,80,37,43,10,st vincents ardcath,53.602144,-6.38274
+Meath,B-League Division 6,2018,Ballivor GFC,7,5,0,2,105,96,9,10,ballivor,53.53142,-6.966286
+Meath,B-League Division 6,2018,Bhulf Tón Clg,7,4,0,3,79,95,-16,8,wolfe tones,53.699722,-6.682203
+Meath,B-League Division 6,2018,Kilmainham,7,4,0,3,60,60,0,8,kilmainham,53.710995,-6.827317
+Meath,B-League Division 6,2018,Drumconrath,7,3,0,4,22,23,-1,6,drumconrath,53.84201,-6.656773
+Meath,B-League Division 6,2018,Kilmainhamwood,7,2,0,5,36,33,3,4,kilmainhamwood,53.84595,-6.806986
+Meath,B-League Division 6,2018,Moylagh,7,2,0,5,41,45,-4,4,moylagh,53.720427,-7.145013
+Meath,B-League Division 6,2018,Slane,6,2,0,4,48,82,-34,4,slane,53.721314,-6.478902
